@@ -63,6 +63,7 @@ bibtex <- bibtex[!is.na(bibtex)]
 bibtex <- lapply(bibtex, fmt_bib)
 
 years <- vapply(bibtex, getElement, integer(1L), "year")
+
 bibtex <- bibtex[
   order(
     years,
@@ -74,126 +75,17 @@ bibtex <- bibtex[
     decreasing = TRUE
   )
 ]
+
 bibtex <- split(bibtex, years)
-bibtex <- lapply(
-  names(bibtex), function(x)
-  list('year-title' = x, 'year-pubs' = bibtex[[x]])
+
+bib <- list(
+  bib = lapply(
+    names(bibtex), function(x) list('year-title' = x, 'year-pubs' = bibtex[[x]])
+  )
 )
 
-tmplt <-
-'
-<!doctype html>
+tmplt_file      <- "template.html"
+tmplt_file_size <- file.size(tmplt_file)
+tmplt           <- readChar(tmplt_file, tmplt_file_size)
 
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-
-  <title>FinBIF Publications</title>
-  <meta name="description" content="Publications that use or mention FinBIF data or services">
-  <meta name="author" content="FinBIF">
-  <style>
-    html {
-      font-size: 62.5%;
-    }
-    body {
-      font-size: 1.5em;
-      line-height: 1.6;
-      font-weight: 400;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-      color: #222;
-    }
-    .container {
-      position: relative;
-      width: 100%;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 0 20px;
-      box-sizing: border-box;
-    }
-    @media (min-width: 400px) {
-      .container {
-        width: 85%;
-        padding: 0;
-      }
-    }
-    @media (min-width: 550px) {
-      .container {
-        width: 80%;
-      }
-    }
-    h1, h2, h3 {
-      margin-top: 0;
-      margin-bottom: 2rem;
-      font-weight: 300;
-    }
-    h1 {
-      font-size: 4.0rem;
-      line-height: 1.2;
-      letter-spacing: -.1rem;
-    }
-    h2 {
-      font-size: 3.6rem;
-      line-height: 1.25;
-      letter-spacing: -.1rem;
-    }
-    h3 {
-      font-size: 3.0rem;
-      line-height: 1.3;
-      letter-spacing: -.1rem;
-    }
-    @media (min-width: 550px) {
-      h1 {
-        font-size: 5.0rem;
-      }
-      h2 {
-        font-size: 4.2rem;
-      }
-      h3 {
-        font-size: 3.6rem;
-      }
-    }
-    p {
-      margin-top: 0;
-      margin-bottom: 2.5rem;
-    }
-    a {
-      color: #1EAEDB;
-    }
-    a:hover {
-      color: #0FA0CE;
-    }
-    .container:after {
-      content: "";
-      display: table;
-      clear: both;
-    }
-  </style>
-
-</head>
-
-<body>
-  <div class="container">
-  <h1>FinBIF Publications</h1>
-  {{#bib}}
-  <div class="publication-year">
-    <h2>{{year-title}}</h2>
-    {{#year-pubs}}
-    <div class="publication">
-      <h3><a href="{{URL}}" target="_blank"><span class="publication-title">{{title}}</span> (<span class="publication-month">{{month}}</span>, <span class="publication-year">{{year}}</span>)</a></h3>
-      <p>
-        <span class="author-name">{{#author}}{{given}} {{family}} {{/author}}</span><br>
-        <span class="publication-journal">{{container-title}}<span> <span class="publication-volume">{{volume}}</span>:<span class="publication-pages">{{page}}</span><br>
-        <span class="publication-doi">DOI:{{DOI}}</span><br>
-      </p>
-    </div>
-    {{/year-pubs}}
-  </div>
-  {{/bib}}
-  </div>
-</body>
-</html>
-'
-
-out <- whisker::whisker.render(tmplt, list(bib = bibtex))
-
-cat(out, file = "publications.html")
+cat(whisker::whisker.render(tmplt, bib), file = "www/publications.html")
