@@ -1,0 +1,33 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>FinBIF Publications</title>
+  <meta name="description" content="Publications that use or mention FinBIF data or services">
+  <meta name="author" content="FinBIF">
+  <link rel="stylesheet" type="text/css" href="publications.css">
+</head>
+
+<body>
+  <div class="container">
+  <h1>FinBIF Publications</h1>
+  {{#bib}}
+  <div class="publication-year">
+    <h2>{{year-title}}</h2>
+    {{#year-pubs}}
+    <div class="publication">
+      <h3><a href="{{URL}}" target="_blank"><span class="publication-title">{{title}}</span></a></h3>
+      <p>
+        <span class="author-name">{{#author}}{{given}} {{family}} {{/author}}</span> (<span class="publication-month">{{month}}</span> <span class="publication-year">{{year}}</span>)<br>
+        <span class="publication-journal">{{container-title}}</span> <span class="publication-volume">{{volume}}</span>:<span class="publication-pages">{{page}}</span><br>
+        <span class="publication-doi">DOI:{{DOI}}</span><br>
+      </p>
+    </div>
+    {{/year-pubs}}
+  </div>
+  {{/bib}}
+  </div>
+</body>
+</html>
