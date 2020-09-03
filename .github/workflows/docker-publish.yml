@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: luomus/finbif-bib
+  IMAGE_NAME: finbif-bib
 
 jobs:
   # Run tests.
