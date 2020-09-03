@@ -15,6 +15,8 @@ RUN  R -e "install.packages('bspm')" \
 
 COPY auto-bib.R auto-bib.R
 COPY template.html template.html
-COPY www/publications.css www/publications.css
+COPY publications.css publications.css
+
+RUN  mkdir www
 
 ENTRYPOINT ["R", "-e", "source('auto-bib.R')"]
