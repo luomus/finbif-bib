@@ -90,5 +90,5 @@ tmplt           <- readChar(tmplt_file, tmplt_file_size)
 
 cat(whisker::whisker.render(tmplt, bib), file = "www/publications.html")
 
-file.rename("publications.css", "www/publications.css")
-Sys.chmod(c("www/publications.html", "www/publications.html"), "0644")
+file.copy("publications.css", "www")
+Sys.chmod(c("www/publications.html", "www/publications.html"), c("0744", "0755"))
