@@ -66,7 +66,7 @@ httpuv::runServer("0.0.0.0", 5000,
       list(
         status = 200L,
         headers = list(
-          'Content-Type' = 'text/json'
+          'Content-Type' = 'application/json'
         ),
         body = xfun::tojson(bibtex)
       )
