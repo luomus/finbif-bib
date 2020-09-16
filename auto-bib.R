@@ -51,44 +51,25 @@ fmt_bib <- function(bib) {
   bib$title <- tools::toTitleCase(bib$title)
   bib$year  <- bib$issued$`date-parts`[[1L]][[1L]]
   bib$month <- month.name[bib$issued$`date-parts`[[1L]][[2L]]]
-  ind       <- head(seq_along(bib$author), -1L)
-  if (length(ind) == 0L) return(bib)
-  for (i in ind) bib$author[[i]]$family <- paste0(bib$author[[i]]$family, ",")
-  bib$author[[i]]$family <- gsub(",", " &", bib$author[[i]]$family)
-  bib
+  bib$issued <- NULL
+  bib$id <- bib$DOI
+  stats::setNames(bib, snakecase::to_lower_camel_case(names(bib)))
 }
 
 bibtex <- lapply(articles, get_bib)
 bibtex <- bibtex[!is.na(bibtex)]
 bibtex <- lapply(bibtex, fmt_bib)
 
-years <- vapply(bibtex, getElement, integer(1L), "year")
-
-bibtex <- bibtex[
-  order(
-    years,
-    vapply(
-      bibtex,
-      function(x) grep(getElement(x, "month"), month.name),
-      integer(1L)
-    ),
-    decreasing = TRUE
-  )
-]
-
-bibtex <- split(bibtex, years)
-
-bib <- list(
-  bib = lapply(
-    names(bibtex), function(x) list('year-title' = x, 'year-pubs' = bibtex[[x]])
+httpuv::runServer("0.0.0.0", 5000,
+  list(
+    call = function(req) {
+      list(
+        status = 200L,
+        headers = list(
+          'Content-Type' = 'text/json'
+        ),
+        body = xfun::tojson(bibtex)
+      )
+    }
   )
 )
-
-tmplt_file      <- "template.html"
-tmplt_file_size <- file.size(tmplt_file)
-tmplt           <- readChar(tmplt_file, tmplt_file_size)
-
-cat(whisker::whisker.render(tmplt, bib), file = "www/publications.html")
-
-file.copy("publications.css", "www")
-Sys.chmod(c("www/publications.html", "www/publications.html"), c("0744", "0755"))
