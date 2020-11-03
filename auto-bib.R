@@ -29,7 +29,7 @@ get_doi <- function(x) {
     if (length(doi) && grepl(ptrn, doi)) return(doi)
     doi <- stringr::str_extract_all(pdf$text, ptrn)
     if (length(unlist(doi))) doi <- unlist(doi)[[1L]]
-    if (grepl(ptrn, doi[[1L]])) return(doi)
+    if (grepl(ptrn, doi[1L])) return(doi)
   }
   x <- xml2::read_html(url)
   x <- rvest::html_node(x, 'meta[name="citation_doi"]')
@@ -60,16 +60,29 @@ bibtex <- lapply(articles, get_bib)
 bibtex <- bibtex[!is.na(bibtex)]
 bibtex <- lapply(bibtex, fmt_bib)
 
-httpuv::runServer("0.0.0.0", 5000,
-  list(
-    call = function(req) {
-      list(
-        status = 200L,
-        headers = list(
-          'Content-Type' = 'application/json'
-        ),
-        body = xfun::tojson(bibtex)
-      )
-    }
+years <- vapply(bibtex, getElement, integer(1L), "year")
+
+bibtex <- bibtex[
+  order(
+    years,
+    vapply(
+      bibtex,
+      function(x) grep(getElement(x, "month"), month.name),
+      integer(1L)
+    ),
+    decreasing = TRUE
+  )
+]
+
+bibtex <- split(bibtex, years)
+
+bib <- list(
+  bib = lapply(
+    names(bibtex), function(x) list('year-title' = x, 'year-pubs' = bibtex[[x]])
   )
 )
+
+tmplt <- "template.html"
+tmplt <- readChar(tmplt, file.size(tmplt))
+
+cat(whisker::whisker.render(tmplt, bib), file = "publications.html")

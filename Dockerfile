@@ -19,7 +19,7 @@ ENV LANG en_US.UTF-8
 
 RUN  R -e "install.packages('bspm')" \
   && echo "bspm::enable()" >> /etc/R/Rprofile.site \
-  && R -e "install.packages(c('crminer', 'rmarkdown', 'rvest', 'snakecase', 'tidyRSS', 'urltools'))"
+  && R -e "install.packages(c('crminer', 'rmarkdown', 'rvest', 'snakecase', 'tidyRSS', 'urltools', 'whisker'))"
 
 COPY auto-bib.R auto-bib.R
 
