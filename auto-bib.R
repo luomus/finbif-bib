@@ -41,6 +41,7 @@ get_bib <- function(x) {
   if (is.na(doi)) return(NA)
   x <- httr::GET("https://www.doi2bib.org/2/doi2bib", query = list(id = doi))
   x <- httr::content(x, type = "text", encoding = "UTF-8")
+  x <- gsub("\\{\\\\textendash\\}", "–", x)
   tmpfile <- tempfile(fileext = ".bib")
   writeLines(x, tmpfile)
   rmarkdown::pandoc_citeproc_convert(tmpfile)[[1L]]
@@ -48,7 +49,7 @@ get_bib <- function(x) {
 
 fmt_bib <- function(bib) {
   if (length(bib) == 1L && is.na(bib)) return(bib)
-  bib$title <- tools::toTitleCase(bib$title)
+  bib$title <- tools::toTitleCase(tolower(bib$title))
   bib$year  <- bib$issued$`date-parts`[[1L]][[1L]]
   bib$month <- month.name[bib$issued$`date-parts`[[1L]][[2L]]]
   bib$issued <- NULL
@@ -59,6 +60,17 @@ fmt_bib <- function(bib) {
 bibtex <- lapply(articles, get_bib)
 bibtex <- bibtex[!is.na(bibtex)]
 bibtex <- lapply(bibtex, fmt_bib)
+
+bibtex <- c(readRDS("bibtex.rds"), bibtex)
+
+dois <- vapply(bibtex, getElement, character(1L), "doi")
+
+bibtex <- bibtex[
+  !duplicated(dois) &
+  !dois %in% readLines("blacklist.txt")
+]
+
+saveRDS(bibtex, "bibtex.rds")
 
 years <- vapply(bibtex, getElement, integer(1L), "year")
 
@@ -76,7 +88,7 @@ bibtex <- bibtex[
 
 bibtex <- split(bibtex, years)
 
-bib <- list(
+bibtex <- list(
   bib = lapply(
     names(bibtex), function(x) list('year-title' = x, 'year-pubs' = bibtex[[x]])
   )
@@ -85,4 +97,4 @@ bib <- list(
 tmplt <- "template.html"
 tmplt <- readChar(tmplt, file.size(tmplt))
 
-cat(whisker::whisker.render(tmplt, bib), file = "publications.html")
+cat(whisker::whisker.render(tmplt, bibtex), file = "publications.html")
