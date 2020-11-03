@@ -8,7 +8,7 @@ extract_url <- function(x) {
   x <- rvest::html_attrs(x)
   x <- x["href"]
   x <- urltools::param_get(x)
-  x <- x[1L, "url"]
+  x[1L, "url"]
 }
 
 is_pdf <- function(x) {
@@ -28,8 +28,8 @@ get_doi <- function(x) {
     doi <- pdf$info$keys$doi
     if (length(doi) && grepl(ptrn, doi)) return(doi)
     doi <- stringr::str_extract_all(pdf$text, ptrn)
-    doi <- unlist(doi)[[1]]
-    if (grepl(ptrn, doi)) return(doi)
+    if (length(unlist(doi))) doi <- unlist(doi)[[1L]]
+    if (grepl(ptrn, doi[[1L]])) return(doi)
   }
   x <- xml2::read_html(url)
   x <- rvest::html_node(x, 'meta[name="citation_doi"]')
