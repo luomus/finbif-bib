@@ -19,7 +19,7 @@
     <div class="publication">
       <h3><a href="{{url}}" target="_blank"><span class="publication-title">{{title}}</span></a></h3>
       <p>
-        <span class="author-name">{{#author}}{{given}} {{family}} {{/author}}</span> (<span class="publication-month">{{month}}</span> <span class="publication-year">{{year}}</span>)<br>
+        <span class="authors">{{#author}}<span class="author-name">{{given}} {{family}} </span>{{/author}}</span> (<span class="publication-month">{{month}}</span> <span class="publication-year">{{year}}</span>)<br>
         <span class="publication-journal">{{containerTitle}}</span> <span class="publication-volume">{{volume}}</span>:<span class="publication-pages">{{page}}</span><br>
         <span class="publication-doi">DOI:{{doi}}</span><br>
       </p>
