@@ -41,7 +41,8 @@ get_bib <- function(x) {
   if (is.na(doi)) return(NA)
   x <- httr::GET("https://www.doi2bib.org/2/doi2bib", query = list(id = doi))
   x <- httr::content(x, type = "text", encoding = "UTF-8")
-  x <- gsub("\\{\\\\textendash\\}", "–", x)
+  x <- gsub("\\{\\\\textendash\\}", " – ", x)
+  x <- gsub("\\{\\\\textemdash\\}", "—", x)
   tmpfile <- tempfile(fileext = ".bib")
   writeLines(x, tmpfile)
   rmarkdown::pandoc_citeproc_convert(tmpfile)[[1L]]
@@ -50,6 +51,7 @@ get_bib <- function(x) {
 fmt_bib <- function(bib) {
   if (length(bib) == 1L && is.na(bib)) return(bib)
   bib$title <- tools::toTitleCase(tolower(bib$title))
+  bib$title <- gsub(" – ", "–", bib$title)
   bib$year  <- bib$issued$`date-parts`[[1L]][[1L]]
   bib$month <- month.name[bib$issued$`date-parts`[[1L]][[2L]]]
   bib$issued <- NULL
@@ -57,28 +59,28 @@ fmt_bib <- function(bib) {
   stats::setNames(bib, snakecase::to_lower_camel_case(names(bib)))
 }
 
-bibtex <- lapply(articles, get_bib)
-bibtex <- bibtex[!is.na(bibtex)]
-bibtex <- lapply(bibtex, fmt_bib)
+bib_data <- lapply(articles, get_bib)
+bib_data <- bib_data[!is.na(bib_data)]
+bib_data <- lapply(bib_data, fmt_bib)
 
-bibtex <- c(readRDS("bibtex.rds"), bibtex)
+bib_data <- c(readRDS("bib-data.rds"), bib_data)
 
-dois <- vapply(bibtex, getElement, character(1L), "doi")
+dois <- vapply(bib_data, getElement, character(1L), "doi")
 
-bibtex <- bibtex[
+bib_data <- bib_data[
   !duplicated(dois) &
   !dois %in% readLines("blacklist.txt")
 ]
 
-saveRDS(bibtex, "bibtex.rds")
+saveRDS(bib_data, "bib-data.rds")
 
-years <- vapply(bibtex, getElement, integer(1L), "year")
+years <- vapply(bib_data, getElement, integer(1L), "year")
 
-bibtex <- bibtex[
+bib_data <- bib_data[
   order(
     years,
     vapply(
-      bibtex,
+      bib_data,
       function(x) grep(getElement(x, "month"), month.name),
       integer(1L)
     ),
@@ -86,15 +88,16 @@ bibtex <- bibtex[
   )
 ]
 
-bibtex <- split(bibtex, years)
+bib_data <- split(bib_data, years)
 
-bibtex <- list(
+bib_data <- list(
   bib = lapply(
-    names(bibtex), function(x) list('year-title' = x, 'year-pubs' = bibtex[[x]])
+    names(bib_data),
+    function(x) list('year-title' = x, 'year-pubs' = bib_data[[x]])
   )
 )
 
 tmplt <- "template.html"
 tmplt <- readChar(tmplt, file.size(tmplt))
 
-cat(whisker::whisker.render(tmplt, bibtex), file = "publications.html")
+cat(whisker::whisker.render(tmplt, bib_data), file = "publications.html")
