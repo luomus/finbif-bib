@@ -23,4 +23,4 @@ RUN  R -e "install.packages('bspm')" \
 
 COPY auto-bib.R auto-bib.R
 
-ENTRYPOINT ["Rscript", "--verbose", "auto-bib.R"]
+ENTRYPOINT ["Rscript", "--verbose", "serve-bib.R"]
