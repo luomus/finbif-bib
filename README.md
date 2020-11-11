@@ -2,6 +2,7 @@
 Automated FinBIF bibliography for display on laji.fi
 
 # Requirements
+Write access to this repository and local copies of the following software:
 ```
 git
 docker
