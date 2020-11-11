@@ -21,6 +21,6 @@ RUN  R -e "install.packages('bspm')" \
   && echo "bspm::enable()" >> /etc/R/Rprofile.site \
   && R -e "install.packages(c('crminer', 'rmarkdown', 'rvest', 'snakecase', 'tidyRSS', 'urltools', 'whisker'))"
 
-COPY auto-bib.R auto-bib.R
+COPY serve-bib.R serve-bib.R
 
 ENTRYPOINT ["Rscript", "--verbose", "serve-bib.R"]
