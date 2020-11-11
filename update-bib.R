@@ -63,7 +63,7 @@ bib_data <- lapply(articles, get_bib)
 bib_data <- bib_data[!is.na(bib_data)]
 bib_data <- lapply(bib_data, fmt_bib)
 
-bib_data <- c(readRDS("bib-data.rds"), bib_data)
+bib_data <- c(jsonlite::read_json("www/bib-data.json"), bib_data)
 
 dois <- vapply(bib_data, getElement, character(1L), "doi")
 
@@ -72,13 +72,9 @@ bib_data <- bib_data[
   !dois %in% readLines("blacklist.txt")
 ]
 
-saveRDS(bib_data, "bib-data.rds")
-
-years <- vapply(bib_data, getElement, integer(1L), "year")
-
 bib_data <- bib_data[
   order(
-    years,
+    vapply(bib_data, getElement, integer(1L), "year"),
     vapply(
       bib_data,
       function(x) grep(getElement(x, "month"), month.name),
@@ -88,16 +84,4 @@ bib_data <- bib_data[
   )
 ]
 
-bib_data <- split(bib_data, years)
-
-bib_data <- list(
-  bib = lapply(
-    names(bib_data),
-    function(x) list('year-title' = x, 'year-pubs' = bib_data[[x]])
-  )
-)
-
-tmplt <- "template.html"
-tmplt <- readChar(tmplt, file.size(tmplt))
-
-cat(whisker::whisker.render(tmplt, bib_data), file = "publications.html")
+cat(xfun::tojson(bib_data), file = "www/bib-data.json")

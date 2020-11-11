@@ -1,0 +1,222 @@
+[{
+"doi": "10.1016/j.ufug.2020.126812",
+"url": "https://doi.org/10.1016%2Fj.ufug.2020.126812",
+"author": [{
+"family": "Marttinen",
+"given": "Eeva M."
+}, {
+"family": "Niemi-Kapee",
+"given": "Juhamatti"
+}, {
+"family": "Laaka-Lindberg",
+"given": "Sanna"
+}, {
+"family": "Valkonen",
+"given": "Jari P. T."
+}],
+"containerTitle": "Urban Forestry & Urban Greening",
+"id": "10.1016/j.ufug.2020.126812",
+"page": "126812",
+"publisher": "Elsevier BV",
+"title": "Fungal Pathogens Infecting Moss Green Roofs in Finland",
+"type": "article-journal",
+"volume": "55",
+"year": 2020,
+"month": "November"
+}, {
+"doi": "10.1111/1365-2745.13526",
+"url": "https://doi.org/10.1111%2F1365-2745.13526",
+"author": [{
+"family": "Moor",
+"given": "Helen"
+}, {
+"family": "Nordén",
+"given": "Jenni"
+}, {
+"family": "Penttilä",
+"given": "Reijo"
+}, {
+"family": "Siitonen",
+"given": "Juha"
+}, {
+"family": "Snäll",
+"given": "Tord"
+}],
+"containerTitle": "Journal of Ecology",
+"editor": [{
+"family": "Singh",
+"given": "Brajesh"
+}],
+"id": "10.1111/1365-2745.13526",
+"publisher": "Wiley",
+"title": "Long-Term Effects of Colonization–Extinction Dynamics of Generalist Versus Specialist Wood-Decaying Fungi",
+"type": "article-journal",
+"year": 2020,
+"month": "November"
+}, {
+"doi": "10.1016/j.ecoleng.2020.105970",
+"url": "https://doi.org/10.1016%2Fj.ecoleng.2020.105970",
+"author": [{
+"family": "Jauni",
+"given": "Miia"
+}, {
+"family": "Kuoppamäki",
+"given": "Kirsi"
+}, {
+"family": "Hagner",
+"given": "Marleena"
+}, {
+"family": "Prass",
+"given": "Marju"
+}, {
+"family": "Suonio",
+"given": "Taina"
+}, {
+"family": "Fransson",
+"given": "Ann-Mari"
+}, {
+"family": "Lehvävirta",
+"given": "Susanna"
+}],
+"containerTitle": "Ecological Engineering",
+"id": "10.1016/j.ecoleng.2020.105970",
+"page": "105970",
+"publisher": "Elsevier BV",
+"title": "Alkaline Habitat for Vegetated Roofs? Ecosystem Dynamics in a Vegetated Roof with Crushed Concrete-Based Substrate",
+"type": "article-journal",
+"volume": "157",
+"year": 2020,
+"month": "October"
+}, {
+"doi": "10.1111/rec.13304",
+"url": "https://doi.org/10.1111%2Frec.13304",
+"author": [{
+"family": "Alsila",
+"given": "Terhi"
+}, {
+"family": "Elo",
+"given": "Merja"
+}, {
+"family": "Hakkari",
+"given": "Tomi"
+}, {
+"family": "Kotiaho",
+"given": "Janne S."
+}],
+"containerTitle": "Restoration Ecology",
+"id": "10.1111/rec.13304",
+"publisher": "Wiley",
+"title": "Effects of Habitat Restoration on Peatland Bird Communities",
+"type": "article-journal",
+"year": 2020,
+"month": "October"
+}, {
+"doi": "10.3897/biss.4.59119",
+"url": "https://doi.org/10.3897%2Fbiss.4.59119",
+"author": [{
+"family": "Heikkinen",
+"given": "Mikko"
+}, {
+"family": "Kuusijärvi",
+"given": "Anniina"
+}, {
+"family": "Riihikoski",
+"given": "Ville-Matti"
+}, {
+"family": "Schulman",
+"given": "Leif"
+}],
+"containerTitle": "Biodiversity Information Science and Standards",
+"id": "10.3897/biss.4.59119",
+"publisher": "Pensoft Publishers",
+"title": "Multi-Domain Collection Management Simplified — the Finnish National Collection Management System Kotka",
+"type": "article-journal",
+"volume": "4",
+"year": 2020,
+"month": "October"
+}, {
+"doi": "10.1007/s10531-020-02024-3",
+"url": "https://doi.org/10.1007%2Fs10531-020-02024-3",
+"author": [{
+"family": "Huang",
+"given": "Xiongwei"
+}, {
+"family": "Lin",
+"given": "Congtian"
+}, {
+"family": "Ji",
+"given": "Liqiang"
+}],
+"containerTitle": "Biodiversity and Conservation",
+"id": "10.1007/s10531-020-02024-3",
+"issue": "11-12",
+"page": "3287-3311",
+"publisher": "Springer Science; Business Media LLC",
+"title": "The Persistent Multi-Dimensional Biases of Biodiversity Digital Accessible Knowledge of Birds in China",
+"type": "article-journal",
+"volume": "29",
+"year": 2020,
+"month": "August"
+}, {
+"doi": "10.3897/rio.6.e57767",
+"url": "https://doi.org/10.3897%2Frio.6.e57767",
+"author": [{
+"family": "Willemse",
+"given": "Luc"
+}, {
+"family": "Runnel",
+"given": "Veljo"
+}, {
+"family": "Saarenmaa",
+"given": "Hannu"
+}, {
+"family": "Casino",
+"given": "Ana"
+}, {
+"family": "Gödderz",
+"given": "Karsten"
+}],
+"containerTitle": "Research Ideas and Outcomes",
+"id": "10.3897/rio.6.e57767",
+"publisher": "Pensoft Publishers",
+"title": "Digitisation of Private Collections",
+"type": "article-journal",
+"volume": "6",
+"year": 2020,
+"month": "August"
+}, {
+"doi": "10.1073/pnas.1913579117",
+"url": "https://doi.org/10.1073%2Fpnas.1913579117",
+"author": [{
+"family": "Hällfors",
+"given": "Maria H."
+}, {
+"family": "Antão",
+"given": "Laura H."
+}, {
+"family": "Itter",
+"given": "Malcolm"
+}, {
+"family": "Lehikoinen",
+"given": "Aleksi"
+}, {
+"family": "Lindholm",
+"given": "Tanja"
+}, {
+"family": "Roslin",
+"given": "Tomas"
+}, {
+"family": "Saastamoinen",
+"given": "Marjo"
+}],
+"containerTitle": "Proceedings of the National Academy of Sciences",
+"id": "10.1073/pnas.1913579117",
+"issue": "31",
+"page": "18557-18565",
+"publisher": "Proceedings of the National Academy of Sciences",
+"title": "Shifts in Timing and Duration of Breeding for 73 Boreal Bird Species over Four Decades",
+"type": "article-journal",
+"volume": "117",
+"year": 2020,
+"month": "July"
+}]
