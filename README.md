@@ -33,8 +33,9 @@ git push
 ```
 docker-compose up -d
 ```
-Content will be served at `http://localhost:8080/bib-data.json`
-Status served at `http://localhost:8080/status.txt`
+
+* Content will be served at `http://localhost:8080/bib-data.json`
+* Status served at `http://localhost:8080/status.txt`
 
 # Stop
 ```
