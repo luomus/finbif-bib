@@ -28,6 +28,7 @@ docker run --volume="$HOME/finbif-bib/www:/www" FEED_URL=$FEED_URL ghcr.io/luomu
 docker-compose up -d
 ```
 Content will be served at `http://localhost:8080/bib-data.json`
+Status served at `http://localhost:8080/status.txt`
 
 # Stop
 ```

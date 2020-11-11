@@ -1,8 +1,3 @@
-feed_url <- Sys.getenv("FEED_URL")
-feed     <- tidyRSS::tidyfeed(feed_url, list = TRUE, clean_tags = FALSE)
-articles <- feed$entries$item_description
-articles <- lapply(feed$entries$item_description, xml2::read_html)
-
 extract_url <- function(x) {
   x <- rvest::html_node(x, "h3 a")
   x <- rvest::html_attrs(x)
@@ -59,29 +54,43 @@ fmt_bib <- function(bib) {
   stats::setNames(bib, snakecase::to_lower_camel_case(names(bib)))
 }
 
-bib_data <- lapply(articles, get_bib)
-bib_data <- bib_data[!is.na(bib_data)]
-bib_data <- lapply(bib_data, fmt_bib)
+feed_url <- Sys.getenv("FEED_URL")
 
-bib_data <- c(jsonlite::read_json("www/bib-data.json"), bib_data)
+res <- tryCatch(
+  {
+    feed     <- tidyRSS::tidyfeed(feed_url, list = TRUE, clean_tags = FALSE)
+    articles <- feed$entries$item_description
+    articles <- lapply(feed$entries$item_description, xml2::read_html)
 
-dois <- vapply(bib_data, getElement, character(1L), "doi")
+    bib_data <- lapply(articles, get_bib)
+    bib_data <- bib_data[!is.na(bib_data)]
+    bib_data <- lapply(bib_data, fmt_bib)
 
-bib_data <- bib_data[
-  !duplicated(dois) &
-  !dois %in% readLines("blacklist.txt")
-]
+    bib_data <- c(jsonlite::read_json("www/bib-data.json"), bib_data)
 
-bib_data <- bib_data[
-  order(
-    vapply(bib_data, getElement, integer(1L), "year"),
-    vapply(
-      bib_data,
-      function(x) grep(getElement(x, "month"), month.name),
-      integer(1L)
-    ),
-    decreasing = TRUE
-  )
-]
+    dois <- vapply(bib_data, getElement, character(1L), "doi")
 
-cat(xfun::tojson(bib_data), file = "www/bib-data.json")
+    bib_data <- bib_data[
+      !duplicated(dois) &
+      !dois %in% readLines("blacklist.txt")
+    ]
+
+    bib_data <- bib_data[
+      order(
+        vapply(bib_data, getElement, integer(1L), "year"),
+        vapply(
+          bib_data,
+          function(x) grep(getElement(x, "month"), month.name),
+          integer(1L)
+        ),
+        decreasing = TRUE
+      )
+    ]
+
+    cat(xfun::tojson(bib_data), file = "www/bib-data.json")
+    "success"
+  },
+  error = function(e) return("fail")
+)
+
+cat(res, file = "www/status.txt")
