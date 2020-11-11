@@ -1,5 +1,5 @@
 # finbif-bib
-Automated FinBIF bibliography
+Automated FinBIF bibliography for display on laji.fi
 
 # Requirements
 ```
