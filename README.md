@@ -25,7 +25,7 @@ docker pull ghcr.io/luomus/finbif-bib
 
 docker run --volume="$HOME/finbif-bib/www:/www" FEED_URL=$FEED_URL ghcr.io/luomus/finbif-bib
 
-git commit -m 'Update bibliography'
+git commit -am 'Update bibliography'
 
 git push
 ```
