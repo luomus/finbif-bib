@@ -10,8 +10,6 @@ docker-compose
 
 # Update
 ```
-docker pull ghcr.io/luomus/finbif-bib
-
 docker run -v "$HOME/finbif-bib/ssh:/root/.ssh" -e FEED_URL=$FEED_URL -e GIT_USER=$GIT_USER -e GIT_EMAIL=$GIT_EMAIL ghcr.io/luomus/finbif-bib
 ```
 
