@@ -4,8 +4,10 @@ RUN  echo 'APT::Install-Recommends "false";' > /etc/apt/apt.conf.d/90local-no-re
 
 RUN  apt-get update \
   && apt-get install -y \
+       git \
        libpoppler-cpp-dev \
        locales \
+       openssh-client \
        pandoc-citeproc \
        python3-apt \
        r-base-dev
@@ -23,7 +25,8 @@ RUN  R -e "install.packages('bspm')" \
 
 RUN mkdir www
 
+COPY update.sh update.sh
 COPY update-bib.R update-bib.R
 COPY blacklist.txt blacklist.txt
 
-ENTRYPOINT ["Rscript", "--verbose", "update-bib.R"]
+ENTRYPOINT ["./update.sh"]

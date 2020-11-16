@@ -94,3 +94,4 @@ res <- tryCatch(
 )
 
 cat(res, file = "www/status.txt")
+cat(format(Sys.time(), usetz = TRUE), file = "www/last-updated.txt")
