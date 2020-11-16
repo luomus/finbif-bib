@@ -10,18 +10,5 @@ docker-compose
 
 # Update
 ```
-docker run -v "$HOME/finbif-bib/ssh:/root/.ssh" -e FEED_URL=$FEED_URL -e GIT_USER=$GIT_USER -e GIT_EMAIL=$GIT_EMAIL ghcr.io/luomus/finbif-bib
-```
-
-# Serve
-```
-docker-compose up -d
-```
-
-* Content will be served at `http://localhost:8080/bib-data.json`
-* Status served at `http://localhost:8080/status.txt`
-
-# Stop
-```
-docker-compose down
+docker run -v "$HOME/finbif-bib/keys:/keys" -e FEED_URL=$FEED_URL -e GIT_USER=$GIT_USER -e GIT_EMAIL=$GIT_EMAIL ghcr.io/luomus/finbif-bib
 ```
