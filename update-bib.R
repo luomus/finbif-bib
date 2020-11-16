@@ -66,7 +66,7 @@ res <- tryCatch(
     bib_data <- bib_data[!is.na(bib_data)]
     bib_data <- lapply(bib_data, fmt_bib)
 
-    bib_data <- c(jsonlite::read_json("www/bib-data.json"), bib_data)
+    bib_data <- c(jsonlite::read_json("docs/bib-data.json"), bib_data)
 
     dois <- vapply(bib_data, getElement, character(1L), "doi")
 
@@ -87,11 +87,11 @@ res <- tryCatch(
       )
     ]
 
-    cat(xfun::tojson(bib_data), file = "www/bib-data.json")
+    cat(xfun::tojson(bib_data), file = "docs/bib-data.json")
     "success"
   },
   error = function(e) return("fail")
 )
 
-cat(res, file = "www/status.txt")
-cat(format(Sys.time(), usetz = TRUE), file = "www/last-updated.txt")
+cat(res, file = "docs/status.txt")
+cat(format(Sys.time(), usetz = TRUE), file = "docs/last-updated.txt")

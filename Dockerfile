@@ -23,7 +23,6 @@ RUN  R -e "install.packages('bspm')" \
   && echo "bspm::enable()" >> /etc/R/Rprofile.site \
   && R -e "install.packages(c('crminer', 'rmarkdown', 'rvest', 'snakecase', 'tidyRSS', 'urltools', 'whisker'))"
 
-RUN mkdir www
 
 COPY update.sh update.sh
 COPY update-bib.R update-bib.R
