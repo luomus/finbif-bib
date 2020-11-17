@@ -23,9 +23,11 @@ RUN  R -e "install.packages('bspm')" \
   && echo "bspm::enable()" >> /etc/R/Rprofile.site \
   && R -e "install.packages(c('crminer', 'rmarkdown', 'rvest', 'snakecase', 'tidyRSS', 'urltools', 'whisker'))"
 
-COPY update.sh update.sh
-COPY update-bib.R update-bib.R
-COPY blacklist.txt blacklist.txt
+RUN useradd -ms /bin/bash bibuser
+USER bibuser
+WORKDIR /home/bibuser
+
 COPY known_hosts known_hosts
+COPY update.sh update.sh
 
 ENTRYPOINT ["./update.sh"]
