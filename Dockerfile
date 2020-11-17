@@ -21,7 +21,7 @@ ENV LANG en_US.UTF-8
 
 RUN  R -e "install.packages('bspm')" \
   && echo "bspm::enable()" >> /etc/R/Rprofile.site \
-  && R -e "install.packages(c('crminer', 'rmarkdown', 'rvest', 'snakecase', 'tidyRSS', 'urltools', 'whisker'))"
+  && R -e "install.packages(c('crminer', 'rmarkdown', 'rvest', 'snakecase', 'tidyRSS', 'urltools'))"
 
 RUN useradd -ms /bin/bash bibuser
 USER bibuser
