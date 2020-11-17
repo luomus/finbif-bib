@@ -10,5 +10,5 @@ docker-compose
 
 # Update
 ```
-docker run -v "$HOME/finbif-bib/keys:/keys" -e FEED_URL=$FEED_URL -e GIT_USER=$GIT_USER -e GIT_EMAIL=$GIT_EMAIL ghcr.io/luomus/finbif-bib
+docker run -v "$HOME/finbif-bib/keys:/home/bibuser/keys" -e FEED_URL=$FEED_URL -e GIT_USER=$GIT_USER -e GIT_EMAIL=$GIT_EMAIL ghcr.io/luomus/finbif-bib
 ```
