@@ -5,7 +5,6 @@ Automated FinBIF bibliography for display on laji.fi
 Deploy key for this repository and local copies of the following software:
 ```
 docker
-docker-compose
 ```
 
 # Update
