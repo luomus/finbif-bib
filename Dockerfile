@@ -35,4 +35,4 @@ COPY update.sh /bib/update.sh
 
 WORKDIR /home/bibuser
 
-ENTRYPOINT ["cp -rp bib/ /home/bibuser/ && ./update.sh"]
+ENTRYPOINT bash -c "cp -p /bib/* /home/bibuser/ && ./update.sh"
