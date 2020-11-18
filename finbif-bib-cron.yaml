@@ -22,7 +22,7 @@ spec:
             - name: GIT_USER
               value: $GIT_USER
             volumeMounts:
-              - mountPath: /home/bibuser
+              - mountPath: /home/bibuser/keys
                 name: finbif-bib-storage
           volumes:
             - name: finbif-bib-storage
