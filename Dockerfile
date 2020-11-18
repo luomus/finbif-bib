@@ -31,7 +31,7 @@ COPY update.sh /home/bibuser/update.sh
 COPY known_hosts /home/bibuser/.ssh/known_hosts
 
 RUN  chgrp -R 0 /home/bibuser \
-  && chmod -R g=u /home/bibuser
+  && chmod -R g=u /home/bibuser /etc/passwd
 
 WORKDIR /home/bibuser
 

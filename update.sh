@@ -1,6 +1,5 @@
 #!/bin/bash
-echo `whoami`
-echo "version 01"
+echo "bibuser:x:$(id -u):0:bibuser user:/home/bibuser:/sbin/nologin" >> /etc/passwd
 git config --global user.email $GIT_EMAIL
 git config --global user.name $GIT_USER
 cp -p keys/id_ed25519 .ssh/id_ed25519
