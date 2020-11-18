@@ -25,10 +25,11 @@ RUN  R -e "install.packages('bspm')" \
 
 RUN  mkdir bib
 
-RUN  useradd -ms /bin/bash bibuser \
+RUN  groupadd -r -g 10001 bibuser \
+  && useradd -r -u 10001 -g bibuser bibuser \
   && chown bibuser:bibuser bib
 
-USER bibuser
+USER 10001:10001
 
 COPY known_hosts /bib/known_hosts
 COPY update.sh /bib/update.sh
