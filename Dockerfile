@@ -35,4 +35,5 @@ RUN  chgrp -R 0 /home/bibuser \
 
 WORKDIR /home/bibuser
 
-ENTRYPOINT ["./update.sh"]
+#ENTRYPOINT ["./update.sh"]
+CMD tail -f /dev/null
