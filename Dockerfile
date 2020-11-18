@@ -23,17 +23,16 @@ RUN  R -e "install.packages('bspm')" \
   && echo "bspm::enable()" >> /etc/R/Rprofile.site \
   && R -e "install.packages(c('crminer', 'rmarkdown', 'rvest', 'snakecase', 'tidyRSS', 'urltools'))"
 
-RUN  mkdir bib
+RUN mkdir -p /home/bibuser/.ssh
 
-RUN  groupadd -r -g 10001 bibuser \
-  && useradd -r -u 10001 -g bibuser bibuser \
-  && chown bibuser:bibuser bib
+ENV HOME /home/bibuser
 
-USER 10001:10001
+COPY update.sh /home/bibuser/update.sh
+COPY known_hosts /home/bibuser/.ssh/known_hosts
 
-COPY known_hosts /bib/known_hosts
-COPY update.sh /bib/update.sh
+RUN  chgrp -R 0 /home/bibuser \
+  && chmod -R g=u /home/bibuser
 
 WORKDIR /home/bibuser
 
-ENTRYPOINT bash -c "cp -p /bib/* /home/bibuser/ && ./update.sh"
+ENTRYPOINT ["./update.sh"]
