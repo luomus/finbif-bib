@@ -54,6 +54,28 @@
 "year": 2020,
 "month": "November"
 }, {
+"doi": "10.3897/bdj.8.e59456",
+"url": "https://doi.org/10.3897%2Fbdj.8.e59456",
+"author": [{
+"family": "Kozhin",
+"given": "Mikhail"
+}, {
+"family": "Lommi",
+"given": "Sampsa"
+}, {
+"family": "Sennikov",
+"given": "Alexander"
+}],
+"containerTitle": "Biodiversity Data Journal",
+"id": "10.3897/bdj.8.e59456",
+"publisher": "Pensoft Publishers",
+"title": "Mobilisation of Distributional Data for Vascular Plants of Murmansk Region, Russia: Digital Representation of the Flora of Murmansk Region",
+"titleShort": "Mobilisation of distributional data for vascular plants of murmansk region, russia",
+"type": "article-journal",
+"volume": "8",
+"year": 2020,
+"month": "November"
+}, {
 "doi": "10.1016/j.ecoleng.2020.105970",
 "url": "https://doi.org/10.1016%2Fj.ecoleng.2020.105970",
 "author": [{
