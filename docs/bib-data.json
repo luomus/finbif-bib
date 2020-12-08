@@ -1,4 +1,26 @@
 [{
+"doi": "10.1038/s41598-020-78165-w",
+"url": "https://doi.org/10.1038%2Fs41598-020-78165-w",
+"author": [{
+"family": "Zoller",
+"given": "Leana"
+}, {
+"family": "Bennett",
+"given": "Joanne M."
+}, {
+"family": "Knight",
+"given": "Tiffany M."
+}],
+"containerTitle": "Scientific Reports",
+"id": "10.1038/s41598-020-78165-w",
+"issue": "1",
+"publisher": "Springer Science; Business Media LLC",
+"title": "Diel-Scale Temporal Dynamics in the Abundance and Composition of Pollinators in the Arctic Summer",
+"type": "article-journal",
+"volume": "10",
+"year": 2020,
+"month": "December"
+}, {
 "doi": "10.1016/j.ufug.2020.126812",
 "url": "https://doi.org/10.1016%2Fj.ufug.2020.126812",
 "author": [{
