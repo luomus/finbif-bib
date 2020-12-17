@@ -6,6 +6,12 @@ extract_url <- function(x) {
   x[1L, "url"]
 }
 
+extract_doi <- function(txt, ptrn) {
+  doi <- stringr::str_extract_all(txt, ptrn)
+  if (length(unlist(doi))) doi <- unlist(doi)[[1L]] else doi <- NA
+  if (grepl(ptrn, doi[[1L]])) doi[[1]] else NA
+}
+
 is_pdf <- function(x) {
   x <- rvest::html_node(x, "h3 span")
   x <- rvest::html_text(x)
@@ -14,6 +20,9 @@ is_pdf <- function(x) {
 
 get_doi <- function(x) {
   ptrn <- "10[.]\\d{3,9}(?:[.][0-9]+)*/[[:graph:]]+"
+  txt <- rvest::html_text(x)
+  doi <- extract_doi(txt, ptrn)
+  if (!is.na(doi)) return(doi)
   url <- extract_url(x)
   if (is.null(url)) return(NA)
   if (is_pdf(x)) {
@@ -22,25 +31,32 @@ get_doi <- function(x) {
     pdf <- crminer::crm_extract(tmpfile)
     doi <- pdf$info$keys$doi
     if (length(doi) && grepl(ptrn, doi)) return(doi)
-    doi <- stringr::str_extract_all(pdf$text, ptrn)
-    if (length(unlist(doi))) doi <- unlist(doi)[[1L]]
-    if (grepl(ptrn, doi[1L])) return(doi)
+    doi <- extract_doi(pdf$text, ptrn)
+    if (!is.na(doi)) return(doi)
   }
   x <- xml2::read_html(url)
-  x <- rvest::html_node(x, 'meta[name="citation_doi"]')
-  rvest::html_attr(x, "content")
+  doi <- rvest::html_node(x, 'meta[name="citation_doi"]')
+  doi <- rvest::html_attr(doi, "content")
+  if (grepl(ptrn, doi[[1L]])) return(doi[[1L]])
+  x <- rvest::html_text(x)
+  extract_doi(x, ptrn)
 }
 
 get_bib <- function(x) {
   doi <- get_doi(x)
   if (is.na(doi)) return(NA)
-  x <- httr::GET("https://www.doi2bib.org/2/doi2bib", query = list(id = doi))
+  x <- httr::RETRY(
+    "GET", "https://www.doi2bib.org/2/doi2bib", query = list(id = doi)
+  )
   x <- httr::content(x, type = "text", encoding = "UTF-8")
   x <- gsub("\\{\\\\textendash\\}", " – ", x)
   x <- gsub("\\{\\\\textemdash\\}", "—", x)
   tmpfile <- tempfile(fileext = ".bib")
   writeLines(x, tmpfile)
-  rmarkdown::pandoc_citeproc_convert(tmpfile)[[1L]]
+  tryCatch(
+    rmarkdown::pandoc_citeproc_convert(tmpfile)[[1L]],
+    error = function(e) NA
+  )
 }
 
 fmt_bib <- function(bib) {
