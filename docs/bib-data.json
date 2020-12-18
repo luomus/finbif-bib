@@ -21,6 +21,41 @@
 "year": 2020,
 "month": "December"
 }, {
+"doi": "10.3390/arts9040125",
+"url": "https://doi.org/10.3390%2Farts9040125",
+"author": [{
+"family": "Hiltunen",
+"given": "Kaisa"
+}, {
+"family": "Björklund",
+"given": "Heidi"
+}, {
+"family": "Nurmesjärvi",
+"given": "Aino"
+}, {
+"family": "Purhonen",
+"given": "Jenna"
+}, {
+"family": "Rainio",
+"given": "Minna"
+}, {
+"family": "Sääskilahti",
+"given": "Nina"
+}, {
+"family": "Vallius",
+"given": "Antti"
+}],
+"containerTitle": "Arts",
+"id": "10.3390/arts9040125",
+"issue": "4",
+"page": "125",
+"publisher": "MDPI AG",
+"title": "Tale(s) of a Forest—re-Creation of a Primeval Forest in Three Environmental Narratives",
+"type": "article-journal",
+"volume": "9",
+"year": 2020,
+"month": "December"
+}, {
 "doi": "10.1016/j.ufug.2020.126812",
 "url": "https://doi.org/10.1016%2Fj.ufug.2020.126812",
 "author": [{
@@ -263,4 +298,22 @@
 "volume": "117",
 "year": 2020,
 "month": "July"
+}, {
+"doi": "10.3897/issn2541-8416.2019.19.4.153",
+"url": "https://doi.org/10.3897%2Fissn2541-8416.2019.19.4.153",
+"author": [{
+"family": "Kozlov",
+"given": "MV"
+}],
+"containerTitle": "Arctic Environmental Research",
+"id": "10.3897/issn2541-8416.2019.19.4.153",
+"issue": "4",
+"page": "153-158",
+"publisher": "Pensoft Publishers",
+"title": "Insects Identified by Unqualified Scientists: Multiple “new” Records from the Murmansk Oblast of Russia are Dismissed as False",
+"titleShort": "Insects identified by unqualified scientists",
+"type": "article-journal",
+"volume": "19",
+"year": 2019,
+"month": "December"
 }]
