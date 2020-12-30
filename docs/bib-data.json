@@ -299,6 +299,21 @@
 "year": 2020,
 "month": "July"
 }, {
+"url": "https://www.ebcc.info/wp-content/uploads/2020/06/5-lehikoinen-31-1-2.pdf",
+"author": [{
+"family": "Lehikoinen",
+"given": "Aleksi"
+}],
+"containerTitle": "Bird Census News",
+"id": "Lehikoinen2020",
+"issue": "1-2",
+"page": "38-44",
+"title": "Long-term monitoring at the Hanko Bird Observatory",
+"type": "article-journal",
+"volume": "32",
+"year": 2020,
+"month": "April"
+}, {
 "doi": "10.3897/issn2541-8416.2019.19.4.153",
 "url": "https://doi.org/10.3897%2Fissn2541-8416.2019.19.4.153",
 "author": [{
@@ -310,7 +325,7 @@
 "issue": "4",
 "page": "153-158",
 "publisher": "Pensoft Publishers",
-"title": "Insects Identified by Unqualified Scientists: Multiple “new” Records from the Murmansk Oblast of Russia are Dismissed as False",
+"title": "Insects Identified by Unqualified Scientists: Multiple “New” Records from the Murmansk Oblast of Russia are Dismissed as False",
 "titleShort": "Insects identified by unqualified scientists",
 "type": "article-journal",
 "volume": "19",
