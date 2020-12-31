@@ -103,7 +103,7 @@ res <- tryCatch(
               m <- getElement(x, "month")
               grep(m, month.name)
             } else {
-              13L
+              0L
             }
           },
           integer(1L)

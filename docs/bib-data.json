@@ -26,92 +26,6 @@
 "month": "January",
 "date_added": "2020-12-31"
 }, {
-"doi": "10.14214/sf.10262",
-"url": "https://doi.org/10.14214%2Fsf.10262",
-"author": [{
-"family": "Melin",
-"given": "Markus"
-}, {
-"family": "Viiri",
-"given": "Heli"
-}, {
-"family": "Tikkanen",
-"given": "Olli-Pekka"
-}, {
-"family": "Elfving",
-"given": "Riku"
-}, {
-"family": "Neuvonen",
-"given": "Seppo"
-}],
-"containerTitle": "Silva Fennica",
-"id": "10.14214/sf.10262",
-"issue": "1",
-"publisher": "Finnish Society of Forest Science",
-"title": "From a Rare Inhabitant into a Potential Pest–Status of the Nun Moth in Finland Based on Pheromone Trapping",
-"type": "article-journal",
-"volume": "54",
-"year": 2020,
-"date_added": "2020-12-31"
-}, {
-"doi": "10.1051/kmae/2020022",
-"url": "https://doi.org/10.1051%2Fkmae%2F2020022",
-"author": [{
-"family": "Jussila",
-"given": "Japo"
-}, {
-"family": "Maguire",
-"given": "Ivana"
-}, {
-"family": "Kokko",
-"given": "Harri"
-}, {
-"family": "Tiitinen",
-"given": "Vesa"
-}, {
-"family": "Makkonen",
-"given": "Jenny"
-}],
-"containerTitle": "Knowledge & Management of Aquatic Ecosystems",
-"id": "10.1051/kmae/2020022",
-"issue": "421",
-"page": "30",
-"publisher": "EDP Sciences",
-"title": "Narrow-Clawed Crayfish in Finland: Aphanomyces Astaci Resistance and Genetic Relationship to Other Selected European and Asian Populations",
-"titleShort": "Narrow-clawed crayfish in finland",
-"type": "article-journal",
-"year": 2020,
-"date_added": "2020-12-31"
-}, {
-"doi": "10.3391/bir.2020.9.4.02",
-"url": "https://doi.org/10.3391%2Fbir.2020.9.4.02",
-"author": [{
-"family": "Skokanová",
-"given": "Katarı́na"
-}, {
-"family": "Šingliarová",
-"given": "Barbora"
-}, {
-"family": "Španiel",
-"given": "Stanislav"
-}, {
-"family": "Hodálová",
-"given": "Iva"
-}, {
-"family": "Mereďa",
-"given": "Pavol"
-}],
-"containerTitle": "BioInvasions Records",
-"id": "10.3391/bir.2020.9.4.02",
-"issue": "4",
-"page": "670-684",
-"publisher": "Regional Euro-Asian Biological Invasions Centre Oy (REABIC)",
-"title": "Tracking the Expanding Distribution of Solidago Niederederi (Asteraceae) in Europe and First Records from Three Countries Within the Carpathian Region",
-"type": "article-journal",
-"volume": "9",
-"year": 2020,
-"date_added": "2020-12-31"
-}, {
 "doi": "10.1038/s41598-020-78165-w",
 "url": "https://doi.org/10.1038%2Fs41598-020-78165-w",
 "author": [{
@@ -955,6 +869,92 @@
 "volume": "11",
 "year": 2020,
 "month": "February",
+"date_added": "2020-12-31"
+}, {
+"doi": "10.14214/sf.10262",
+"url": "https://doi.org/10.14214%2Fsf.10262",
+"author": [{
+"family": "Melin",
+"given": "Markus"
+}, {
+"family": "Viiri",
+"given": "Heli"
+}, {
+"family": "Tikkanen",
+"given": "Olli-Pekka"
+}, {
+"family": "Elfving",
+"given": "Riku"
+}, {
+"family": "Neuvonen",
+"given": "Seppo"
+}],
+"containerTitle": "Silva Fennica",
+"id": "10.14214/sf.10262",
+"issue": "1",
+"publisher": "Finnish Society of Forest Science",
+"title": "From a Rare Inhabitant into a Potential Pest–Status of the Nun Moth in Finland Based on Pheromone Trapping",
+"type": "article-journal",
+"volume": "54",
+"year": 2020,
+"date_added": "2020-12-31"
+}, {
+"doi": "10.1051/kmae/2020022",
+"url": "https://doi.org/10.1051%2Fkmae%2F2020022",
+"author": [{
+"family": "Jussila",
+"given": "Japo"
+}, {
+"family": "Maguire",
+"given": "Ivana"
+}, {
+"family": "Kokko",
+"given": "Harri"
+}, {
+"family": "Tiitinen",
+"given": "Vesa"
+}, {
+"family": "Makkonen",
+"given": "Jenny"
+}],
+"containerTitle": "Knowledge & Management of Aquatic Ecosystems",
+"id": "10.1051/kmae/2020022",
+"issue": "421",
+"page": "30",
+"publisher": "EDP Sciences",
+"title": "Narrow-Clawed Crayfish in Finland: Aphanomyces Astaci Resistance and Genetic Relationship to Other Selected European and Asian Populations",
+"titleShort": "Narrow-clawed crayfish in finland",
+"type": "article-journal",
+"year": 2020,
+"date_added": "2020-12-31"
+}, {
+"doi": "10.3391/bir.2020.9.4.02",
+"url": "https://doi.org/10.3391%2Fbir.2020.9.4.02",
+"author": [{
+"family": "Skokanová",
+"given": "Katarı́na"
+}, {
+"family": "Šingliarová",
+"given": "Barbora"
+}, {
+"family": "Španiel",
+"given": "Stanislav"
+}, {
+"family": "Hodálová",
+"given": "Iva"
+}, {
+"family": "Mereďa",
+"given": "Pavol"
+}],
+"containerTitle": "BioInvasions Records",
+"id": "10.3391/bir.2020.9.4.02",
+"issue": "4",
+"page": "670-684",
+"publisher": "Regional Euro-Asian Biological Invasions Centre Oy (REABIC)",
+"title": "Tracking the Expanding Distribution of Solidago Niederederi (Asteraceae) in Europe and First Records from Three Countries Within the Carpathian Region",
+"type": "article-journal",
+"volume": "9",
+"year": 2020,
 "date_added": "2020-12-31"
 }, {
 "doi": "10.3897/issn2541-8416.2019.19.4.153",
