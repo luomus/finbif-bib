@@ -64,7 +64,8 @@ fmt_bib <- function(bib) {
   bib$title <- tools::toTitleCase(tolower(bib$title))
   bib$title <- gsub(" – ", "–", bib$title)
   bib$year  <- bib$issued$`date-parts`[[1L]][[1L]]
-  bib$month <- month.name[bib$issued$`date-parts`[[1L]][[2L]]]
+  if (length(bib$issued$`date-parts`[[1L]]) > 1L)
+    bib$month <- month.name[bib$issued$`date-parts`[[1L]][[2L]]]
   bib$issued <- NULL
   bib$id <- bib$DOI
   stats::setNames(bib, snakecase::to_lower_camel_case(names(bib)))
@@ -84,11 +85,11 @@ res <- tryCatch(
 
     bib_data <- c(jsonlite::read_json("docs/bib-data.json"), bib_data)
 
-    dois <- vapply(bib_data, getElement, character(1L), "doi")
+    ids <- vapply(bib_data, getElement, character(1L), "id")
 
     bib_data <- bib_data[
-      !duplicated(dois) &
-      !dois %in% readLines("blacklist.txt")
+      !duplicated(ids) &
+      !ids %in% readLines("blacklist.txt")
     ]
 
     bib_data <- bib_data[
@@ -96,7 +97,14 @@ res <- tryCatch(
         vapply(bib_data, getElement, integer(1L), "year"),
         vapply(
           bib_data,
-          function(x) grep(getElement(x, "month"), month.name),
+          function(x) {
+            if (utils::hasName(x, "month")) {
+              m <- getElement(x, "month")
+              grep(m, month.name)
+            } else {
+              13L
+            }
+          },
           integer(1L)
         ),
         decreasing = TRUE

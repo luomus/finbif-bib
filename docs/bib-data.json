@@ -1,4 +1,113 @@
 [{
+"doi": "10.1016/j.flora.2020.151748",
+"url": "https://doi.org/10.1016%2Fj.flora.2020.151748",
+"author": [{
+"family": "Ievinsh",
+"given": "Gederts"
+}, {
+"family": "Ieviņa",
+"given": "Silvija"
+}, {
+"family": "Andersone-Ozola",
+"given": "Una"
+}, {
+"family": "Samsone",
+"given": "Ineta"
+}],
+"containerTitle": "Flora",
+"id": "10.1016/j.flora.2020.151748",
+"page": "151748",
+"publisher": "Elsevier BV",
+"title": "Leaf Sodium, Potassium and Electrolyte Accumulation Capacity of Plant Species from Salt-Affected Coastal Habitats of the Baltic Sea: Towards a Definition of Na Hyperaccumulation",
+"titleShort": "Leaf sodium, potassium and electrolyte accumulation capacity of plant species from salt-affected coastal habitats of the baltic sea",
+"type": "article-journal",
+"volume": "274",
+"year": 2021,
+"month": "January"
+}, {
+"doi": "10.14214/sf.10262",
+"url": "https://doi.org/10.14214%2Fsf.10262",
+"author": [{
+"family": "Melin",
+"given": "Markus"
+}, {
+"family": "Viiri",
+"given": "Heli"
+}, {
+"family": "Tikkanen",
+"given": "Olli-Pekka"
+}, {
+"family": "Elfving",
+"given": "Riku"
+}, {
+"family": "Neuvonen",
+"given": "Seppo"
+}],
+"containerTitle": "Silva Fennica",
+"id": "10.14214/sf.10262",
+"issue": "1",
+"publisher": "Finnish Society of Forest Science",
+"title": "From a Rare Inhabitant into a Potential Pest–Status of the Nun Moth in Finland Based on Pheromone Trapping",
+"type": "article-journal",
+"volume": "54",
+"year": 2020
+}, {
+"doi": "10.1051/kmae/2020022",
+"url": "https://doi.org/10.1051%2Fkmae%2F2020022",
+"author": [{
+"family": "Jussila",
+"given": "Japo"
+}, {
+"family": "Maguire",
+"given": "Ivana"
+}, {
+"family": "Kokko",
+"given": "Harri"
+}, {
+"family": "Tiitinen",
+"given": "Vesa"
+}, {
+"family": "Makkonen",
+"given": "Jenny"
+}],
+"containerTitle": "Knowledge & Management of Aquatic Ecosystems",
+"id": "10.1051/kmae/2020022",
+"issue": "421",
+"page": "30",
+"publisher": "EDP Sciences",
+"title": "Narrow-Clawed Crayfish in Finland: Aphanomyces Astaci Resistance and Genetic Relationship to Other Selected European and Asian Populations",
+"titleShort": "Narrow-clawed crayfish in finland",
+"type": "article-journal",
+"year": 2020
+}, {
+"doi": "10.3391/bir.2020.9.4.02",
+"url": "https://doi.org/10.3391%2Fbir.2020.9.4.02",
+"author": [{
+"family": "Skokanová",
+"given": "Katarı́na"
+}, {
+"family": "Šingliarová",
+"given": "Barbora"
+}, {
+"family": "Španiel",
+"given": "Stanislav"
+}, {
+"family": "Hodálová",
+"given": "Iva"
+}, {
+"family": "Mereďa",
+"given": "Pavol"
+}],
+"containerTitle": "BioInvasions Records",
+"id": "10.3391/bir.2020.9.4.02",
+"issue": "4",
+"page": "670-684",
+"publisher": "Regional Euro-Asian Biological Invasions Centre Oy (REABIC)",
+"title": "Tracking the Expanding Distribution of Solidago Niederederi (Asteraceae) in Europe and First Records from Three Countries Within the Carpathian Region",
+"type": "article-journal",
+"volume": "9",
+"year": 2020
+}, {
 "doi": "10.1038/s41598-020-78165-w",
 "url": "https://doi.org/10.1038%2Fs41598-020-78165-w",
 "author": [{
@@ -53,6 +162,50 @@
 "title": "Tale(s) of a Forest—Re-Creation of a Primeval Forest in Three Environmental Narratives",
 "type": "article-journal",
 "volume": "9",
+"year": 2020,
+"month": "December"
+}, {
+"doi": "10.5735/086.057.0120",
+"url": "https://doi.org/10.5735%2F086.057.0120",
+"author": [{
+"family": "Kozlov",
+"given": "Mikhail V."
+}, {
+"family": "Kullberg",
+"given": "Jaakko"
+}, {
+"family": "Zverev",
+"given": "Vitali"
+}],
+"containerTitle": "Annales Zoologici Fennici",
+"id": "10.5735/086.057.0120",
+"issue": "1-6",
+"publisher": "Finnish Zoological; Botanical Publishing Board",
+"title": "Additions and Corrections to the Fauna of Moths and Butterflies (Lepidoptera) of the Kola Peninsula (Murmansk Oblast), Nw Russia",
+"type": "article-journal",
+"volume": "57",
+"year": 2020,
+"month": "December"
+}, {
+"doi": "10.5735/086.057.0119",
+"url": "https://doi.org/10.5735%2F086.057.0119",
+"author": [{
+"family": "Kozlov",
+"given": "Mikhail V."
+}, {
+"family": "Kullberg",
+"given": "Jaakko"
+}, {
+"family": "Zverev",
+"given": "Vitali"
+}],
+"containerTitle": "Annales Zoologici Fennici",
+"id": "10.5735/086.057.0119",
+"issue": "1-6",
+"publisher": "Finnish Zoological; Botanical Publishing Board",
+"title": "Additions to the Fauna of Moths and Butterflies (Lepidoptera) of the Arkhangelsk Oblast, Russia",
+"type": "article-journal",
+"volume": "57",
 "year": 2020,
 "month": "December"
 }, {
@@ -130,6 +283,32 @@
 "titleShort": "Mobilisation of distributional data for vascular plants of murmansk region, russia",
 "type": "article-journal",
 "volume": "8",
+"year": 2020,
+"month": "November"
+}, {
+"doi": "10.1007/s00265-020-02927-9",
+"url": "https://doi.org/10.1007%2Fs00265-020-02927-9",
+"author": [{
+"family": "Borshagovski",
+"given": "Anna-Maria"
+}, {
+"family": "Saari",
+"given": "Paulus"
+}, {
+"family": "Lehtonen",
+"given": "Topi K."
+}, {
+"family": "Kaitala",
+"given": "Arja"
+}],
+"containerTitle": "Behavioral Ecology and Sociobiology",
+"id": "10.1007/s00265-020-02927-9",
+"issue": "12",
+"publisher": "Springer Science; Business Media LLC",
+"title": "when Night Never Falls: Female Sexual Signalling in a Nocturnal Insect along a Latitudinal Gradient",
+"titleShort": "When night never falls",
+"type": "article-journal",
+"volume": "74",
 "year": 2020,
 "month": "November"
 }, {
@@ -214,6 +393,124 @@
 "year": 2020,
 "month": "October"
 }, {
+"doi": "10.1111/njb.02795",
+"url": "https://doi.org/10.1111%2Fnjb.02795",
+"author": [{
+"family": "Kozhin",
+"given": "Mikhail N."
+}, {
+"family": "Sennikov",
+"given": "Alexander N."
+}],
+"containerTitle": "Nordic Journal of Botany",
+"id": "10.1111/njb.02795",
+"issue": "10",
+"publisher": "Wiley",
+"title": "An Analysis of Travel Reports of the Finnish Botanical Expeditions to Russian Lapland (Murmansk Region and Northern Karelia) in 1861 and 1863",
+"type": "article-journal",
+"volume": "38",
+"year": 2020,
+"month": "October"
+}, {
+"doi": "10.3897/rio.6.e58167",
+"url": "https://doi.org/10.3897%2Frio.6.e58167",
+"author": [{
+"family": "Hyvärinen",
+"given": "Marko-Tapio"
+}, {
+"family": "Väinölä",
+"given": "Risto"
+}, {
+"family": "Väre",
+"given": "Henry"
+}, {
+"family": "Ståhls-Mäkelä",
+"given": "Gunilla"
+}, {
+"family": "Sihvonen",
+"given": "Pasi"
+}, {
+"family": "Kuusijärvi",
+"given": "Anniina"
+}, {
+"family": "Myllys",
+"given": "Leena"
+}, {
+"family": "Kröger",
+"given": "Björn"
+}, {
+"family": "Heikkinen",
+"given": "Mikko"
+}, {
+"family": "Juslén",
+"given": "Aino"
+}, {
+"family": "Oinonen",
+"given": "Markku"
+}, {
+"family": "Schulman",
+"given": "Leif"
+}],
+"containerTitle": "Research Ideas and Outcomes",
+"id": "10.3897/rio.6.e58167",
+"publisher": "Pensoft Publishers",
+"title": "General Collections Policy of the Finnish Museum of Natural History",
+"type": "article-journal",
+"volume": "6",
+"year": 2020,
+"month": "September"
+}, {
+"doi": "10.3897/bdj.8.e56486",
+"url": "https://doi.org/10.3897%2Fbdj.8.e56486",
+"author": [{
+"family": "Kiljunen",
+"given": "Niina"
+}, {
+"family": "Pajunen",
+"given": "Timo"
+}, {
+"family": "Fukushima",
+"given": "Caroline"
+}, {
+"family": "Soukainen",
+"given": "Arttu"
+}, {
+"family": "Kuurne",
+"given": "Jaakko"
+}, {
+"family": "Korhonen",
+"given": "Tuuli"
+}, {
+"family": "Saarinen",
+"given": "Joni"
+}, {
+"family": "Falck",
+"given": "Ilari"
+}, {
+"family": "Laine",
+"given": "Erkka"
+}, {
+"family": "Mammola",
+"given": "Stefano"
+}, {
+"family": "Urbano",
+"given": "Fernando"
+}, {
+"family": "Macı́as-Hernández",
+"given": "Nuria"
+}, {
+"family": "Cardoso",
+"given": "Pedro"
+}],
+"containerTitle": "Biodiversity Data Journal",
+"id": "10.3897/bdj.8.e56486",
+"publisher": "Pensoft Publishers",
+"title": "Standardised Spider (Arachnida, Araneae) Inventory of Kilpisjärvi, Finland",
+"type": "article-journal",
+"volume": "8",
+"year": 2020,
+"month": "September"
+}, {
 "doi": "10.1007/s10531-020-02024-3",
 "url": "https://doi.org/10.1007%2Fs10531-020-02024-3",
 "author": [{
@@ -264,6 +561,48 @@
 "year": 2020,
 "month": "August"
 }, {
+"doi": "10.1073/pnas.2001254117",
+"url": "https://doi.org/10.1073%2Fpnas.2001254117",
+"author": [{
+"family": "Niittynen",
+"given": "Pekka"
+}, {
+"family": "Heikkinen",
+"given": "Risto K."
+}, {
+"family": "Luoto",
+"given": "Miska"
+}],
+"containerTitle": "Proceedings of the National Academy of Sciences",
+"id": "10.1073/pnas.2001254117",
+"issue": "35",
+"page": "21480-21487",
+"publisher": "Proceedings of the National Academy of Sciences",
+"title": "Decreasing Snow Cover Alters Functional Composition and Diversity of Arctic Tundra",
+"type": "article-journal",
+"volume": "117",
+"year": 2020,
+"month": "August"
+}, {
+"doi": "10.1016/j.virusres.2020.197993",
+"url": "https://doi.org/10.1016%2Fj.virusres.2020.197993",
+"author": [{
+"family": "Sutela",
+"given": "Suvi"
+}, {
+"family": "Vainio",
+"given": "Eeva J."
+}],
+"containerTitle": "Virus Research",
+"id": "10.1016/j.virusres.2020.197993",
+"page": "197993",
+"publisher": "Elsevier BV",
+"title": "Virus Population Structure in the Ectomycorrhizal Fungi Lactarius Rufus and L. Tabidus at Two Forest Sites in Southern Finland",
+"type": "article-journal",
+"volume": "285",
+"year": 2020,
+"month": "August"
+}, {
 "doi": "10.1073/pnas.1913579117",
 "url": "https://doi.org/10.1073%2Fpnas.1913579117",
 "author": [{
@@ -299,6 +638,166 @@
 "year": 2020,
 "month": "July"
 }, {
+"doi": "10.3897/rio.6.e55522",
+"url": "https://doi.org/10.3897%2Frio.6.e55522",
+"author": [{
+"family": "Cocks",
+"given": "Naomi"
+}, {
+"family": "Livermore",
+"given": "Laurence"
+}, {
+"family": "Smith",
+"given": "Vincent"
+}, {
+"family": "Woodburn",
+"given": "Matt"
+}],
+"containerTitle": "Research Ideas and Outcomes",
+"id": "10.3897/rio.6.e55522",
+"publisher": "Pensoft Publishers",
+"title": "Technical Capacities of Digitisation Centres Within Icedig Participating Institutions",
+"type": "article-journal",
+"volume": "6",
+"year": 2020,
+"month": "July"
+}, {
+"doi": "10.3897/rio.6.e55789",
+"url": "https://doi.org/10.3897%2Frio.6.e55789",
+"author": [{
+"family": "Owen",
+"given": "David"
+}, {
+"family": "Livermore",
+"given": "Laurence"
+}, {
+"family": "Groom",
+"given": "Quentin"
+}, {
+"family": "Hardisty",
+"given": "Alex"
+}, {
+"family": "Leegwater",
+"given": "Thijs"
+}, {
+"dropping-particle": "van",
+"family": "Walsum",
+"given": "Myriam"
+}, {
+"family": "Wijkamp",
+"given": "Noortje"
+}, {
+"family": "Spasić",
+"given": "Irena"
+}],
+"containerTitle": "Research Ideas and Outcomes",
+"id": "10.3897/rio.6.e55789",
+"publisher": "Pensoft Publishers",
+"title": "Towards a Scientific Workflow Featuring Natural Language Processing for the Digitisation of Natural History Collections",
+"type": "article-journal",
+"volume": "6",
+"year": 2020,
+"month": "July"
+}, {
+"doi": "10.1111/epp.12667",
+"url": "https://doi.org/10.1111%2Fepp.12667",
+"author": [{
+"family": "Marinova-Todorova",
+"given": "M."
+}, {
+"family": "Björklund",
+"given": "N."
+}, {
+"family": "Boberg",
+"given": "J."
+}, {
+"family": "Flø",
+"given": "D."
+}, {
+"family": "Tuomola",
+"given": "J."
+}, {
+"family": "Wendell",
+"given": "M."
+}, {
+"family": "Hannunen",
+"given": "S."
+}],
+"containerTitle": "EPPO Bulletin",
+"id": "10.1111/epp.12667",
+"issue": "2",
+"page": "249-267",
+"publisher": "Wiley",
+"title": "Screening Potential Pests of Nordic Coniferous Forests Associated with Trade in Ornamental Plants",
+"type": "article-journal",
+"volume": "50",
+"year": 2020,
+"month": "July"
+}, {
+"doi": "10.3390/antibiotics9050266",
+"url": "https://doi.org/10.3390%2Fantibiotics9050266",
+"author": [{
+"family": "Räisänen",
+"given": "Riikka"
+}, {
+"family": "Primetta",
+"given": "Anja"
+}, {
+"family": "Nikunen",
+"given": "Sari"
+}, {
+"family": "Honkalampi",
+"given": "Ulla"
+}, {
+"family": "Nygren",
+"given": "Heli"
+}, {
+"family": "Pihlava",
+"given": "Juha-Matti"
+}, {
+"family": "Berghe",
+"given": "Ina Vanden"
+}, {
+"dropping-particle": "von",
+"family": "Wright",
+"given": "Atte"
+}],
+"containerTitle": "Antibiotics",
+"id": "10.3390/antibiotics9050266",
+"issue": "5",
+"page": "266",
+"publisher": "MDPI AG",
+"title": "Examining Safety of Biocolourants from Fungal and Plant Sources-Examples from Cortinarius and Tapinella, Salix and Tanacetum Spp. and Dyed Woollen Fabrics",
+"type": "article-journal",
+"volume": "9",
+"year": 2020,
+"month": "May"
+}, {
+"doi": "10.1186/s13028-020-00524-4",
+"url": "https://doi.org/10.1186%2Fs13028-020-00524-4",
+"author": [{
+"family": "Davidson",
+"given": "Rebecca K."
+}, {
+"family": "Mørk",
+"given": "Torill"
+}, {
+"family": "Holmgren",
+"given": "Karin E."
+}, {
+"family": "Oksanen",
+"given": "Antti"
+}],
+"containerTitle": "Acta Veterinaria Scandinavica",
+"id": "10.1186/s13028-020-00524-4",
+"issue": "1",
+"publisher": "Springer Science; Business Media LLC",
+"title": "Infection with Brainworm (Elaphostrongylus Rangiferi) in Reindeer (Rangifer Tarandus Ssp.) in Fennoscandia",
+"type": "article-journal",
+"volume": "62",
+"year": 2020,
+"month": "May"
+}, {
 "url": "https://www.ebcc.info/wp-content/uploads/2020/06/5-lehikoinen-31-1-2.pdf",
 "author": [{
 "family": "Lehikoinen",
@@ -313,6 +812,117 @@
 "volume": "32",
 "year": 2020,
 "month": "April"
+}, {
+"doi": "10.1007/s00442-020-04632-w",
+"url": "https://doi.org/10.1007%2Fs00442-020-04632-w",
+"author": [{
+"family": "Keret",
+"given": "Netta M."
+}, {
+"family": "Mutanen",
+"given": "Marko J."
+}, {
+"family": "Orell",
+"given": "Markku I."
+}, {
+"family": "Itämies",
+"given": "Juhani H."
+}, {
+"family": "Välimäki",
+"given": "Panu M."
+}],
+"containerTitle": "Oecologia",
+"id": "10.1007/s00442-020-04632-w",
+"issue": "4",
+"page": "1085-1098",
+"publisher": "Springer Science; Business Media LLC",
+"title": "Climate Change-Driven Elevational Changes among Boreal Nocturnal Moths",
+"type": "article-journal",
+"volume": "192",
+"year": 2020,
+"month": "April"
+}, {
+"doi": "10.31184/m00138908.1562.4022",
+"url": "https://doi.org/10.31184%2Fm00138908.1562.4022",
+"author": [{
+"family": "Stuke",
+"given": "Jens-Hermann"
+}, {
+"family": "Kahanpää",
+"given": "Jere"
+}, {
+"family": "Haarto",
+"given": "Antti"
+}, {
+"family": "Kakko",
+"given": "Iiro"
+}],
+"containerTitle": "Entomologists Monthly Magazine",
+"id": "10.31184/m00138908.1562.4022",
+"issue": "2",
+"page": "117-125",
+"publisher": "Pemberley Books (Publishing)",
+"title": "Sicus Ogumae (Matsumura, 1916) Recorded from Finland, New to Europe (Diptera: Conopidae)",
+"titleShort": "Sicus ogumae (matsumura, 1916) recorded from finland, new to europe (diptera",
+"type": "article-journal",
+"volume": "156",
+"year": 2020,
+"month": "April"
+}, {
+"doi": "10.5194/bg-17-1535-2020",
+"url": "https://doi.org/10.5194%2Fbg-17-1535-2020",
+"author": [{
+"family": "Matkala",
+"given": "Laura"
+}, {
+"family": "Salemaa",
+"given": "Maija"
+}, {
+"family": "Bäck",
+"given": "Jaana"
+}],
+"containerTitle": "Biogeosciences",
+"id": "10.5194/bg-17-1535-2020",
+"issue": "6",
+"page": "1535-1556",
+"publisher": "Copernicus GmbH",
+"title": "Soil Total Phosphorus and Nitrogen Explain Vegetation Community Composition in a Northern Forest Ecosystem Near a Phosphate Massif",
+"type": "article-journal",
+"volume": "17",
+"year": 2020,
+"month": "March"
+}, {
+"doi": "10.3390/insects11020118",
+"url": "https://doi.org/10.3390%2Finsects11020118",
+"author": [{
+"family": "Wainwright",
+"given": "Charlotte"
+}, {
+"family": "Jenkins",
+"given": "Sascha"
+}, {
+"family": "Wilson",
+"given": "Daniel"
+}, {
+"family": "Elliott",
+"given": "Marian"
+}, {
+"family": "Jukes",
+"given": "Andrew"
+}, {
+"family": "Collier",
+"given": "Rosemary"
+}],
+"containerTitle": "Insects",
+"id": "10.3390/insects11020118",
+"issue": "2",
+"page": "118",
+"publisher": "MDPI AG",
+"title": "Phenology of the Diamondback Moth (Plutella Xylostella) in the Uk and Provision of Decision Support for Brassica Growers",
+"type": "article-journal",
+"volume": "11",
+"year": 2020,
+"month": "February"
 }, {
 "doi": "10.3897/issn2541-8416.2019.19.4.153",
 "url": "https://doi.org/10.3897%2Fissn2541-8416.2019.19.4.153",
