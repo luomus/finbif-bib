@@ -342,6 +342,30 @@
 "month": "October",
 "date_added": "2020-12-31"
 }, {
+"url": "https://www.researchgate.net/publication/344068610_Decouverte_d'une_nouvelle_station_francaise_d'une_Chrysope_rare_en_Europe_Nineta_inpunctata_Reuter_1894_Neuroptera_Chrysopidae_L'ENTOMOLOGISTE",
+"author": [{
+"family": "Tillier",
+"given": "Pierre"
+}, {
+"family": "Vincent",
+"given": "Alexis"
+}, {
+"family": "Bouget",
+"given": "Christophe"
+}, {
+"family": "Sallé",
+"given": "Aurélien"
+}],
+"containerTitle": "L’Entomologiste",
+"id": "Tillier2020",
+"page": "193–196",
+"title": "Découverte d’une Nouvelle Station Française d’une Chrysope Rare en Europe : Nineta inpunctata (Reuter, 1894) (Neuroptera Chrysopidae)",
+"type": "article-journal",
+"volume": "76",
+"year": 2020,
+"month": "September",
+"date_added": "2020-01-07"
+}, {
 "doi": "10.3897/rio.6.e58167",
 "url": "https://doi.org/10.3897%2Frio.6.e58167",
 "author": [{
@@ -870,6 +894,35 @@
 "year": 2020,
 "month": "February",
 "date_added": "2020-12-31"
+}, {
+"url": "https://researchportal.helsinki.fi/en/publications/polia-lamuta-herz-1903-lepidoptera-noctuidae-discovered-in-norway",
+"author": [{
+"family": "Saarenmaa",
+"given": "Hannu"
+}],
+"containerTitle": "Norwegian Journal of Entomology",
+"id": "Saarenmaa2020",
+"issue": "2",
+"page": "189-195",
+"title": "Polia lamuta (Herz, 1903) (Lepidoptera, Noctuidae) Discovered in Norway, and Notes on Other Boreo-montane Species",
+"type": "article-journal",
+"volume": "67",
+"year": 2020,
+"date_added": "2020-01-07"
+}, {
+"url": "https://journal.fi/msff/article/view/98161",
+"author": [{
+"family": "Piirainen",
+"given": "Mikko"
+}],
+"containerTitle": "Memoranda Societatis pro Fauna et Flora Fennica",
+"id": "Piirainen2020",
+"page": "26-28",
+"title": "Lectotypification of Alchemilla hirsuticaulis H.Lindb.",
+"type": "article-journal",
+"volume": "96",
+"year": 2020,
+"date_added": "2020-01-07"
 }, {
 "doi": "10.14214/sf.10262",
 "url": "https://doi.org/10.14214%2Fsf.10262",
