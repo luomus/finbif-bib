@@ -68,7 +68,7 @@ fmt_bib <- function(bib) {
     bib$month <- month.name[bib$issued$`date-parts`[[1L]][[2L]]]
   bib$issued <- NULL
   bib$id <- bib$DOI
-  bib$date_added <- format(Sys.Date())
+  bib$dateAdded <- format(Sys.Date())
   stats::setNames(bib, snakecase::to_lower_camel_case(names(bib)))
 }
 
