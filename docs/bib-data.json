@@ -155,6 +155,25 @@
 "month": "December",
 "dateAdded": "2020-12-31"
 }, {
+"url": "http://nhm2.uio.no/botanisk/lav/Graphis/32_5/GS_32_86.pdf",
+"author": [{
+"family": "Suija",
+"given": "Ave"
+}, {
+"family": "Jürado",
+"given": "Inga"
+}],
+"containerTitle": "Graphis Scripta",
+"id": "Suija2020",
+"issue": "5",
+"page": "86-100",
+"title": "Records of New and Interesting Lichenicolous Fungi from Finland and Norway",
+"type": "article-journal",
+"volume": "32",
+"year": 2020,
+"month": "November",
+"dateAdded": "2020-01-11"
+}, {
 "doi": "10.1016/j.ufug.2020.126812",
 "url": "https://doi.org/10.1016%2Fj.ufug.2020.126812",
 "author": [{
@@ -919,6 +938,41 @@
 "month": "February",
 "dateAdded": "2020-12-31"
 }, {
+"url": "https://journal.fi/msff/article/view/98602",
+"author": [{
+"family": "Lampinen",
+"given": "Jussi"
+}, {
+"family": "Metsäranta",
+"given": "Noora"
+}],
+"containerTitle": "Memoranda Societatis pro Fauna et Flora Fennica",
+"id": "Lampinen2020",
+"page": "32-37",
+"title": "Hottonia palustris L. (Primulaceae) – A New Vascular Plant for Finland Found in Turku",
+"type": "articale-journal",
+"volume": "96",
+"year": 2020,
+"dateAdded": "2020-01-11"
+}, {
+"url": "https://www.researchgate.net/publication/347559702",
+"author": [{
+"family": "Gustad",
+"given": "Jørn R."
+}, {
+"family": "Macgowan",
+"given": "Iain."
+}],
+"containerTitle": "Norwegian Journal of Entomology",
+"id": "Gustad2020",
+"issue": "2",
+"page": "132–135",
+"title": "Earomyia lonchaeoides (Zetterstedt, 1848) (Diptera, Lonchaeidae) a Species and Genus New to the Norwegian Fauna",
+"type": "article-journal",
+"volume": "67",
+"year": 2020,
+"dateAdded": "2020-01-11"
+}, {
 "url": "https://researchportal.helsinki.fi/en/publications/polia-lamuta-herz-1903-lepidoptera-noctuidae-discovered-in-norway",
 "author": [{
 "family": "Saarenmaa",
@@ -1052,4 +1106,22 @@
 "year": 2019,
 "month": "December",
 "dateAdded": "2020-12-31"
+}, {
+"url": "https://www.researchgate.net/publication/341566893",
+"author": [{
+"family": "Pohjoismäki",
+"given": "Jaako"
+}, {
+"family": "Haarto",
+"given": "Antti"
+}],
+"containerTitle": "Dipterists Digest",
+"id": "Pohjoismäki2019",
+"issue": "1",
+"page": "111-115",
+"title": "First Records of Helina pulchella (Ringdahl) (Diptera, Muscidae) from Finland and Notes on the Biology of the Species",
+"type": "article-journal",
+"volume": "26",
+"year": 2019,
+"dateAdded": "2020-01-11"
 }]
