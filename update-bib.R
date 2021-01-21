@@ -69,6 +69,14 @@ fmt_bib <- function(bib) {
   bib$issued <- NULL
   bib$id <- bib$DOI
   bib$dateAdded <- format(Sys.Date())
+  for (i in seq_along(bib$author)) {
+    if (hasName(bib$author[[i]], "dropping-particle")) {
+      bib$author[[i]]$family <- paste(
+        bib$author[[i]]$`dropping-particle`, bib$author[[i]]$family
+      )
+      bib$author[[i]]$`dropping-particle` <- NULL
+    }
+  }
   stats::setNames(bib, snakecase::to_lower_camel_case(names(bib)))
 }
 
