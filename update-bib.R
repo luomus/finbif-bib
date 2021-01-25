@@ -34,7 +34,9 @@ get_doi <- function(x) {
     doi <- extract_doi(pdf$text, ptrn)
     if (!is.na(doi)) return(doi)
   }
-  x <- xml2::read_html(url)
+  x <- system(paste("curl -s -L -b cookies.txt", URLdecode(url)), intern = TRUE)
+  x <- try(xml2::read_html(paste(x, collapse = "")), silent = TRUE)
+  if (inherits(x, "try-error")) return(NA)
   doi <- rvest::html_node(x, 'meta[name="citation_doi"]')
   doi <- rvest::html_attr(doi, "content")
   if (grepl(ptrn, doi[[1L]])) return(doi[[1L]])

@@ -4,6 +4,7 @@ RUN  echo 'APT::Install-Recommends "false";' > /etc/apt/apt.conf.d/90local-no-re
 
 RUN  apt-get update \
   && apt-get install -y \
+       curl \
        git \
        libpoppler-cpp-dev \
        locales \
