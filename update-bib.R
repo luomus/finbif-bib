@@ -45,6 +45,7 @@ get_doi <- function(x) {
 get_bib <- function(x) {
   doi <- get_doi(x)
   if (is.na(doi)) return(NA)
+  Sys.sleep(1L)
   x <- httr::RETRY(
     "GET", "https://www.doi2bib.org/2/doi2bib", query = list(id = doi)
   )
