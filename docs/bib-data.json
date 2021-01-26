@@ -54,7 +54,7 @@
 "url": "https://doi.org/10.22541%2Fau.161011517.73852429%2Fv1",
 "author": [{
 "family": "Hällfors",
-"given": "Maria"
+"given": "Maria H."
 }, {
 "family": "Pöyry",
 "given": "Juha"
@@ -322,13 +322,13 @@
 "url": "https://doi.org/10.3897%2Fbdj.8.e59456",
 "author": [{
 "family": "Kozhin",
-"given": "Mikhail"
+"given": "Mikhail N."
 }, {
 "family": "Lommi",
 "given": "Sampsa"
 }, {
 "family": "Sennikov",
-"given": "Alexander"
+"given": "Alexander N."
 }],
 "containerTitle": "Biodiversity Data Journal",
 "id": "10.3897/bdj.8.e59456",
@@ -508,7 +508,7 @@
 "family": "Väre",
 "given": "Henry"
 }, {
-"family": "Ståhls-Mäkelä",
+"family": "Ståhls",
 "given": "Gunilla"
 }, {
 "family": "Sihvonen",
@@ -1193,7 +1193,7 @@
 "url": "https://doi.org/10.3897%2Fissn2541-8416.2019.19.4.153",
 "author": [{
 "family": "Kozlov",
-"given": "MV"
+"given": "Mikhail V."
 }],
 "containerTitle": "Arctic Environmental Research",
 "id": "10.3897/issn2541-8416.2019.19.4.153",
