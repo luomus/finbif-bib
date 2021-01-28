@@ -27,12 +27,14 @@ get_doi <- function(x) {
   if (is.null(url)) return(NA)
   if (is_pdf(x)) {
     tmpfile <- tempfile()
-    download.file(url, tmpfile, quiet = TRUE)
-    pdf <- crminer::crm_extract(tmpfile)
-    doi <- pdf$info$keys$doi
-    if (length(doi) && grepl(ptrn, doi)) return(doi)
-    doi <- extract_doi(pdf$text, ptrn)
-    if (!is.na(doi)) return(doi)
+    dl <- try(download.file(url, tmpfile, quiet = TRUE), silent = TRUE)
+    if (!inherits(dl, "try-error")) {
+      pdf <- crminer::crm_extract(tmpfile)
+      doi <- pdf$info$keys$doi
+      if (length(doi) && grepl(ptrn, doi)) return(doi)
+      doi <- extract_doi(pdf$text, ptrn)
+      if (!is.na(doi)) return(doi)
+    }
   }
   x <- system(paste("curl -s -L -b cookies.txt", URLdecode(url)), intern = TRUE)
   x <- try(xml2::read_html(paste(x, collapse = "")), silent = TRUE)
