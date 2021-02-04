@@ -1023,6 +1023,26 @@
 "month": "February",
 "dateAdded": "2020-12-31"
 }, {
+"url": "https://www.researchgate.net/publication/348750889",
+"author": [{
+"family": "Ilg",
+"given": "Wolfgang"
+}, {
+"family": "Sander",
+"given": "Helder"
+}, {
+"family": "Taponen",
+"given": "Ari"
+}],
+"containerTitle": "Hoppea, Denkschriften der Regensburgischen Botanischen Gesellschaft",
+"id": "Ilg2020",
+"page": "51-104",
+"title": "Johann Ludwig Jochmann and his travelogue of an excursion to Finland (1804)",
+"type": "articale-journal",
+"volume": "81",
+"year": 2020,
+"dateAdded": "2020-02-04"
+}, {
 "url": "https://journal.fi/msff/article/view/98602",
 "author": [{
 "family": "Lampinen",
