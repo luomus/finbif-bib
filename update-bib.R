@@ -89,43 +89,49 @@ feed_url <- Sys.getenv("FEED_URL")
 
 res <- tryCatch(
   {
-    feed     <- tidyRSS::tidyfeed(feed_url, list = TRUE, clean_tags = FALSE)
-    articles <- feed$entries$item_description
-    articles <- lapply(feed$entries$item_description, xml2::read_html)
+    feed <- try(
+      tidyRSS::tidyfeed(feed_url, list = TRUE, clean_tags = FALSE),
+      silent = TRUE
+    )
+    if (!inherits(feed, "try-error")) {
 
-    bib_data <- lapply(articles, get_bib)
-    bib_data <- bib_data[!is.na(bib_data)]
-    bib_data <- lapply(bib_data, fmt_bib)
+      articles <- feed$entries$item_description
+      articles <- lapply(feed$entries$item_description, xml2::read_html)
 
-    bib_data <- c(jsonlite::read_json("docs/bib-data.json"), bib_data)
+      bib_data <- lapply(articles, get_bib)
+      bib_data <- bib_data[!is.na(bib_data)]
+      bib_data <- lapply(bib_data, fmt_bib)
 
-    ids <- vapply(bib_data, getElement, character(1L), "id")
+      bib_data <- c(jsonlite::read_json("docs/bib-data.json"), bib_data)
 
-    bib_data <- bib_data[
-      !duplicated(ids) &
-      !ids %in% readLines("blacklist.txt")
-    ]
+      ids <- vapply(bib_data, getElement, character(1L), "id")
 
-    bib_data <- bib_data[
-      order(
-        vapply(bib_data, getElement, integer(1L), "year"),
-        vapply(
-          bib_data,
-          function(x) {
-            if (utils::hasName(x, "month")) {
-              m <- getElement(x, "month")
-              grep(m, month.name)
-            } else {
-              0L
-            }
-          },
-          integer(1L)
-        ),
-        decreasing = TRUE
-      )
-    ]
+      bib_data <- bib_data[
+        !duplicated(ids) &
+        !ids %in% readLines("blacklist.txt")
+      ]
 
-    cat(xfun::tojson(bib_data), file = "docs/bib-data.json")
+      bib_data <- bib_data[
+        order(
+          vapply(bib_data, getElement, integer(1L), "year"),
+          vapply(
+            bib_data,
+            function(x) {
+              if (utils::hasName(x, "month")) {
+                m <- getElement(x, "month")
+                grep(m, month.name)
+              } else {
+                0L
+              }
+            },
+            integer(1L)
+          ),
+          decreasing = TRUE
+        )
+      ]
+
+      cat(xfun::tojson(bib_data), file = "docs/bib-data.json")
+    }
     "success"
   },
   error = function(e) return("fail")
