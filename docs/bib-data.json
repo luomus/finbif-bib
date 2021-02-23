@@ -23,6 +23,49 @@
 "month": "April",
 "dateAdded": "2021-01-08"
 }, {
+"doi": "10.3897/rio.7.e62808",
+"url": "https://doi.org/10.3897%2Frio.7.e62808",
+"author": [{
+"family": "Kröger",
+"given": "Björn"
+}, {
+"family": "Kuusijärvi",
+"given": "Anniina"
+}, {
+"family": "Myllys",
+"given": "Leena"
+}, {
+"family": "Sihvonen",
+"given": "Pasi"
+}, {
+"family": "Ståhls-Mäkelä",
+"given": "Gunilla"
+}, {
+"family": "Väre",
+"given": "Henry"
+}, {
+"family": "Oinonen",
+"given": "Markku"
+}, {
+"family": "Juslén",
+"given": "Aino"
+}, {
+"family": "Schulman",
+"given": "Leif"
+}, {
+"family": "Hyvärinen",
+"given": "Marko-Tapio"
+}],
+"containerTitle": "Research Ideas and Outcomes",
+"id": "10.3897/rio.7.e62808",
+"publisher": "Pensoft Publishers",
+"title": "Palaeontology Collection Policy",
+"type": "article-journal",
+"volume": "7",
+"year": 2021,
+"month": "February",
+"dateAdded": "2021-02-23"
+}, {
 "doi": "10.1016/j.flora.2020.151748",
 "url": "https://doi.org/10.1016%2Fj.flora.2020.151748",
 "author": [{
