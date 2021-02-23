@@ -1,9 +1,19 @@
+ptrn <- "10[.]\\d{3,9}(?:[.][0-9]+)*/[[:graph:]]+"
+
 extract_url <- function(x) {
-  x <- rvest::html_node(x, "h3 a")
+  pdfs <- rvest::html_nodes(x, "h3 span")
+  pdfs <- rvest::html_text(pdfs)
+  pdfs <- grepl("pdf", tolower(unlist(pdfs)))
+  x <- rvest::html_nodes(x, "h3 a")
   x <- rvest::html_attrs(x)
-  x <- x["href"]
-  x <- urltools::param_get(x)
-  x[1L, "url"]
+  x <- lapply(x, getElement, "href")
+  x <- lapply(x, urltools::param_get)
+  x <- do.call(rbind, x)
+  x <- as.list(x[["url"]])
+  for (i in seq_along(pdfs)) {
+    attr(x[[i]], "pdf") <- pdfs[[i]]
+  }
+  x
 }
 
 extract_doi <- function(txt, ptrn) {
@@ -12,20 +22,17 @@ extract_doi <- function(txt, ptrn) {
   if (grepl(ptrn, doi[[1L]])) doi[[1]] else NA
 }
 
-is_pdf <- function(x) {
-  x <- rvest::html_node(x, "h3 span")
-  x <- rvest::html_text(x)
-  grepl("pdf", tolower(x))
-}
-
 get_doi <- function(x) {
-  ptrn <- "10[.]\\d{3,9}(?:[.][0-9]+)*/[[:graph:]]+"
   txt <- rvest::html_text(x)
   doi <- extract_doi(txt, ptrn)
   if (!is.na(doi)) return(doi)
-  url <- extract_url(x)
+  urls <- extract_url(x)
+  lapply(urls, get_doi_from_url)
+}
+
+get_doi_from_url <- function(url) {
   if (is.null(url)) return(NA)
-  if (is_pdf(x)) {
+  if (attr(url, "pdf")) {
     tmpfile <- tempfile()
     dl <- try(download.file(url, tmpfile, quiet = TRUE), silent = TRUE)
     if (!inherits(dl, "try-error")) {
@@ -44,14 +51,14 @@ get_doi <- function(x) {
   if (grepl(ptrn, doi[[1L]])) return(doi[[1L]])
   x <- rvest::html_text(x)
   extract_doi(x, ptrn)
+
 }
 
 get_bib <- function(x) {
-  doi <- get_doi(x)
-  if (is.na(doi)) return(NA)
+  if (is.na(x)) return(NA)
   Sys.sleep(1L)
   x <- httr::RETRY(
-    "GET", "https://www.doi2bib.org/2/doi2bib", query = list(id = doi)
+    "GET", "https://www.doi2bib.org/2/doi2bib", query = list(id = x)
   )
   x <- httr::content(x, type = "text", encoding = "UTF-8")
   x <- gsub("\\{\\\\textendash\\}", " – ", x)
@@ -98,7 +105,9 @@ res <- tryCatch(
       articles <- feed$entries$item_description
       articles <- lapply(feed$entries$item_description, xml2::read_html)
 
-      bib_data <- lapply(articles, get_bib)
+      bib_data <- lapply(articles, get_doi)
+      bib_data <- unlist(bib_data)
+      bib_data <- lapply(bib_data, get_bib)
       bib_data <- bib_data[!is.na(bib_data)]
       bib_data <- lapply(bib_data, fmt_bib)
 

@@ -66,6 +66,76 @@
 "month": "February",
 "dateAdded": "2021-02-23"
 }, {
+"doi": "10.3389/fevo.2021.626752",
+"url": "https://doi.org/10.3389%2Ffevo.2021.626752",
+"author": [{
+"family": "Lopez-Vaamonde",
+"given": "Carlos"
+}, {
+"family": "Kirichenko",
+"given": "Natalia"
+}, {
+"family": "Cama",
+"given": "Alain"
+}, {
+"family": "Doorenweerd",
+"given": "Camiel"
+}, {
+"family": "Godfray",
+"given": "H. Charles J."
+}, {
+"family": "Guiguet",
+"given": "Antoine"
+}, {
+"family": "Gomboc",
+"given": "Stanislav"
+}, {
+"family": "Huemer",
+"given": "Peter"
+}, {
+"family": "Landry",
+"given": "Jean-François"
+}, {
+"family": "Laštůvka",
+"given": "Ales"
+}, {
+"family": "Laštůvka",
+"given": "Zdenek"
+}, {
+"family": "Lee",
+"given": "Kyung Min"
+}, {
+"family": "Lees",
+"given": "David C."
+}, {
+"family": "Mutanen",
+"given": "Marko"
+}, {
+"family": "van Nieukerken",
+"given": "Erik J."
+}, {
+"family": "Segerer",
+"given": "Andreas H."
+}, {
+"family": "Triberti",
+"given": "Paolo"
+}, {
+"family": "Wieser",
+"given": "Christian"
+}, {
+"family": "Rougerie",
+"given": "Rodolphe"
+}],
+"containerTitle": "Frontiers in Ecology and Evolution",
+"id": "10.3389/fevo.2021.626752",
+"publisher": "Frontiers Media SA",
+"title": "Evaluating DNA Barcoding for Species Identification and Discovery in European Gracillariid Moths",
+"type": "article-journal",
+"volume": "9",
+"year": 2021,
+"month": "February",
+"dateAdded": "2021-02-23"
+}, {
 "doi": "10.1016/j.flora.2020.151748",
 "url": "https://doi.org/10.1016%2Fj.flora.2020.151748",
 "author": [{
