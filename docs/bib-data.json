@@ -1136,6 +1136,21 @@
 "month": "February",
 "dateAdded": "2020-12-31"
 }, {
+"url": "http://koivu.luomus.fi/sahlbergia/2020/sahlbergia-26-Paappanen.pdf",
+"author": [{
+"family": "Paappanen",
+"given": "Juuso"
+}],
+"containerTitle": "Sahlbergia",
+"id": "Paappanen2020",
+"page": "24-28",
+"title": "The genus Xylophrurus Förster, 1869 (Hymenoptera: Ichneumonidae) in Finland with a discussion on the status of X. dentatus (Taschenberg, 1865)",
+"type": "article-journal",
+"volume": "26",
+"issue": "1-2",
+"year": 2020,
+"dateAdded": "2021-03-09"
+}, {
 "url": "https://www.researchgate.net/publication/348750889",
 "author": [{
 "family": "Ilg",
