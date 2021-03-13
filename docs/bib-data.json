@@ -23,6 +23,50 @@
 "month": "April",
 "dateAdded": "2021-01-08"
 }, {
+"doi": "10.1038/s42003-021-01834-7",
+"url": "https://doi.org/10.1038%2Fs42003-021-01834-7",
+"author": [{
+"family": "Dincă",
+"given": "Vlad"
+}, {
+"family": "Dapporto",
+"given": "Leonardo"
+}, {
+"family": "Somervuo",
+"given": "Panu"
+}, {
+"family": "Vodă",
+"given": "Raluca"
+}, {
+"family": "Cuvelier",
+"given": "Sylvain"
+}, {
+"family": "Gascoigne-Pees",
+"given": "Martin"
+}, {
+"family": "Huemer",
+"given": "Peter"
+}, {
+"family": "Mutanen",
+"given": "Marko"
+}, {
+"family": "Hebert",
+"given": "Paul D. N."
+}, {
+"family": "Vila",
+"given": "Roger"
+}],
+"containerTitle": "Communications Biology",
+"id": "10.1038/s42003-021-01834-7",
+"issue": "1",
+"publisher": "Springer Science; Business Media LLC",
+"title": "High Resolution Dna Barcode Library for European Butterflies Reveals Continental Patterns of Mitochondrial Genetic Diversity",
+"type": "article-journal",
+"volume": "4",
+"year": 2021,
+"month": "March",
+"dateAdded": "2021-03-13"
+}, {
 "doi": "10.3897/rio.7.e62808",
 "url": "https://doi.org/10.3897%2Frio.7.e62808",
 "author": [{
