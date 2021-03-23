@@ -98,6 +98,30 @@
 "month": "March",
 "dateAdded": "2021-03-13"
 }, {
+"doi": "10.3897/nl.44.63662",
+"url": "https://doi.org/10.3897%2Fnl.44.63662",
+"author": [{
+"family": "Gavrilo",
+"given": "Maria V."
+}, {
+"family": "Chupin",
+"given": "Igor I."
+}, {
+"family": "Kozlov",
+"given": "Mikhail V."
+}],
+"containerTitle": "Nota Lepidopterologica",
+"id": "10.3897/nl.44.63662",
+"page": "91-97",
+"publisher": "Pensoft Publishers",
+"title": "Carried with the Wind: Mass Occurrence of Zeiraphera Griseana (Hübner, 1799) (Lepidoptera, Tortricidae) on Vize Island (Russian High Arctic)",
+"titleShort": "Carried with the wind",
+"type": "article-journal",
+"volume": "44",
+"year": 2021,
+"month": "March",
+"dateAdded": "2021-03-23"
+}, {
 "doi": "10.3897/rio.7.e62808",
 "url": "https://doi.org/10.3897%2Frio.7.e62808",
 "author": [{
