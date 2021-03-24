@@ -114,7 +114,7 @@
 "id": "10.3897/nl.44.63662",
 "page": "91-97",
 "publisher": "Pensoft Publishers",
-"title": "Carried with the Wind: Mass Occurrence of Zeiraphera Griseana (Hübner, 1799) (Lepidoptera, Tortricidae) on Vize Island (Russian High Arctic)",
+"title": "Carried with the Wind: Mass Occurrence of Zeiraphera griseana (Hübner, 1799) (Lepidoptera, Tortricidae) on Vize Island (Russian High Arctic)",
 "titleShort": "Carried with the wind",
 "type": "article-journal",
 "volume": "44",
@@ -1243,12 +1243,27 @@
 "containerTitle": "Sahlbergia",
 "id": "Paappanen2020",
 "page": "24-28",
-"title": "The genus Xylophrurus Förster, 1869 (Hymenoptera: Ichneumonidae) in Finland with a discussion on the status of X. dentatus (Taschenberg, 1865)",
+"title": "The Genus Xylophrurus Förster, 1869 (Hymenoptera: Ichneumonidae) in Finland with a Discussion on the Status of X. dentatus (Taschenberg, 1865)",
 "type": "article-journal",
 "volume": "26",
 "issue": "1-2",
 "year": 2020,
 "dateAdded": "2021-03-09"
+}, {
+"url": "http://koivu.luomus.fi/sahlbergia/2020/sahlbergia-26-Osterblad.pdf",
+"author": [{
+"family": "Österblad",
+"given": "Ika"
+}],
+"containerTitle": "Sahlbergia",
+"id": "Osterblad2020",
+"page": "34-40",
+"title": "Recent changes to the Finnish Hymenoptera Checklist with Respect to Subtribes Hemitelina and Gelina (Ichneumonidae: Phygadeuontinae s. str.)",
+"type": "article-journal",
+"volume": "26",
+"issue": "1-2",
+"year": 2020,
+"dateAdded": "2021-03-24"
 }, {
 "url": "https://www.researchgate.net/publication/348750889",
 "author": [{
