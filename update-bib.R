@@ -1,10 +1,11 @@
 ptrn <- "10[.]\\d{3,9}(?:[.][0-9]+)*/[[:graph:]]+"
 
 extract_url <- function(x) {
-  pdfs <- rvest::html_nodes(x, "h3 span")
-  pdfs <- rvest::html_text(pdfs)
-  pdfs <- grepl("pdf", tolower(unlist(pdfs)))
-  x <- rvest::html_nodes(x, "h3 a")
+  x <- rvest::html_nodes(x, "h3")
+  pdfs <- lapply(x, rvest::html_nodes, "span")
+  pdfs <- lapply(pdfs, rvest::html_text)
+  pdfs <- grepl("pdfs", lapply(pdfs, tolower))
+  x <- rvest::html_nodes(x, "a")
   x <- rvest::html_attrs(x)
   x <- lapply(x, getElement, "href")
   x <- lapply(x, urltools::param_get)
