@@ -58,6 +58,34 @@
 "month": "April",
 "dateAdded": "2021-01-08"
 }, {
+"doi": "10.13057/biodiv/d220430",
+"url": "https://smujo.id/biodiv/article/view/7899",
+"author": [{
+"family": "Ilhamdi",
+"given": "Mohammad Liwa"
+}, {
+"family": "Al Idrus",
+"given": "Agil"
+}, {
+"family": "Santoso",
+"given": "Didik"
+}, {
+"family": "Hadiprayitno",
+"given": "Gito"
+}, {
+"family": "Syazali",
+"given": "Muhammad"
+}],
+"containerTitle": "Biodiversitas",
+"id": "10.13057/biodiv/d220430",
+"issue": "4",
+"title": "Species Richness and Conservation Priority of Dragonflies in the Suranadi Ecotourism Area, Lombok, Indonesia",
+"type": "article-journal",
+"volume": "22",
+"year": 2021,
+"month": "March",
+"dateAdded": "2021-03-31"
+}, {
 "url": "https://nordia.journal.fi/issue/view/50-1",
 "author": [{
 "family": "Lindholm",
