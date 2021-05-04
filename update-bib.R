@@ -4,7 +4,7 @@ extract_url <- function(x) {
   x <- rvest::html_nodes(x, "h3")
   pdfs <- lapply(x, rvest::html_nodes, "span")
   pdfs <- lapply(pdfs, rvest::html_text)
-  pdfs <- grepl("pdfs", lapply(pdfs, tolower))
+  pdfs <- grepl("pdf", lapply(pdfs, tolower))
   x <- rvest::html_nodes(x, "a")
   x <- rvest::html_attrs(x)
   x <- lapply(x, getElement, "href")
@@ -104,7 +104,7 @@ res <- tryCatch(
     if (!inherits(feed, "try-error")) {
 
       articles <- feed$entries$item_description
-      articles <- lapply(feed$entries$item_description, xml2::read_html)
+      articles <- lapply(articles, xml2::read_html)
 
       bib_data <- lapply(articles, get_doi)
       bib_data <- unlist(bib_data)
