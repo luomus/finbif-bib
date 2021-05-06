@@ -69,6 +69,30 @@
 "month": "June",
 "dateAdded": "2021-05-03"
 }, {
+"doi": "10.1002/ece3.7592",
+"url": "https://doi.org/10.1002%2Fece3.7592",
+"author": [{
+"family": "Kolari",
+"given": "Tiina H. M."
+}, {
+"family": "Korpelainen",
+"given": "Pasi"
+}, {
+"family": "Kumpula",
+"given": "Timo"
+}, {
+"family": "Tahvanainen",
+"given": "Teemu"
+}],
+"containerTitle": "Ecology and Evolution",
+"id": "10.1002/ece3.7592",
+"publisher": "Wiley",
+"title": "Accelerated Vegetation Succession but No Hydrological Change in a Boreal Fen During 20 years of Recent Climate Change",
+"type": "article-journal",
+"year": 2021,
+"month": "May",
+"dateAdded": "2021-05-06"
+}, {
 "doi": "10.1016/j.jep.2020.113710",
 "url": "https://doi.org/10.1016%2Fj.jep.2020.113710",
 "author": [{
