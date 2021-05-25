@@ -34,16 +34,19 @@ get_doi <- function(x) {
 }
 
 get_doi_from_url <- function(url) {
+
   if (is.null(url)) return(NA)
   if (attr(url, "pdf")) {
     tmpfile <- tempfile()
     dl <- try(download.file(url, tmpfile, quiet = TRUE), silent = TRUE)
     if (!inherits(dl, "try-error")) {
-      pdf <- crminer::crm_extract(tmpfile)
-      doi <- pdf$info$keys$doi
-      if (length(doi) && grepl(ptrn, doi)) return(doi)
-      doi <- extract_doi(pdf$text, ptrn)
-      if (!is.na(doi)) return(doi)
+      pdf <- try(crminer::crm_extract(tmpfile), silent = TRUE)
+      if (!inherits(pdf, "try-error")) {
+        doi <- pdf$info$keys$doi
+        if (length(doi) && grepl(ptrn, doi)) return(doi)
+        doi <- extract_doi(pdf$text, ptrn)
+        if (!is.na(doi)) return(doi)
+      }
     }
   }
   x <- system(paste("curl -s -L -b cookies.txt", URLdecode(url)), intern = TRUE)
