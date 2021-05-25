@@ -28,6 +28,8 @@ get_doi <- function(x) {
   doi <- extract_doi(txt, ptrn)
   if (!is.na(doi)) return(doi)
   urls <- extract_url(x)
+  doi <- extract_doi(urls, ptrn)
+  if (!is.na(doi)) return(doi)
   lapply(urls, get_doi_from_url)
 }
 
