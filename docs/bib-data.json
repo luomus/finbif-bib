@@ -249,6 +249,34 @@
 "month": "May",
 "dateAdded": "2021-05-16"
 }, {
+"doi": "10.1111/geb.13315",
+"url": "https://doi.org/10.1111%2Fgeb.13315",
+"author": [{
+"family": "Rissanen",
+"given": "Tuuli"
+}, {
+"family": "Niittynen",
+"given": "Pekka"
+}, {
+"family": "Soininen",
+"given": "Janne"
+}, {
+"family": "Luoto",
+"given": "Miska"
+}],
+"containerTitle": "Global Ecology and Biogeography",
+"editor": [{
+"family": "Bjorkman",
+"given": "Anne"
+}],
+"id": "10.1111/geb.13315",
+"publisher": "Wiley",
+"title": "Snow Information is Required in Subcontinental Scale Predictions of Mountain Plant Distributions",
+"type": "article-journal",
+"year": 2021,
+"month": "May",
+"dateAdded": "2021-05-25"
+}, {
 "doi": "10.1016/j.jep.2020.113710",
 "url": "https://doi.org/10.1016%2Fj.jep.2020.113710",
 "author": [{
