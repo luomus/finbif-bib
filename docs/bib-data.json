@@ -93,6 +93,37 @@
 "month": "May",
 "dateAdded": "2021-05-06"
 }, {
+"doi": "10.1038/s41597-021-00919-6",
+"url": "https://doi.org/10.1038/s41597-021-00919-6",
+"author": [{
+"family": "Schulman",
+"given": "Leif"
+}, {
+"family": "Lahti",
+"given": "Kari"
+}, {
+"family": "Piirainen",
+"given": "Esko"
+}, {
+"family": "Heikkinen",
+"given": "Mikko"
+}, {
+"family": "Raitio",
+"given": "Olli"
+}, {
+"family": "Juslén",
+"given": "Aino"
+}],
+"containerTitle": "Scientific Data",
+"id": "10.1038/s41597-021-00919-6",
+"page": "137",
+"title": "The Finnish Biodiversity Information Facility as a Best-practice Model for Biodiversity Data Infrastructures",
+"type": "article-journal",
+"volume": "8",
+"year": 2021,
+"month": "May",
+"dateAdded": "2021-05-26"
+}, {
 "doi": "10.17581/bp.2021.10110",
 "url": "https://doi.org/10.17581%2Fbp.2021.10110",
 "author": [{
