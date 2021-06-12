@@ -1854,4 +1854,23 @@
 "volume": "26",
 "year": 2019,
 "dateAdded": "2020-01-11"
+}, {
+"doi": "10.1007/s10806-009-9204-3",
+"url": "https://doi.org/10.1007%2Fs10806-009-9204-3",
+"author": [{
+"family": "Cafaro",
+"given": "Philip"
+}],
+"containerTitle": "Journal of Agricultural and Environmental Ethics",
+"id": "10.1007/s10806-009-9204-3",
+"issue": "1-2",
+"page": "3-7",
+"publisher": "Springer Science; Business Media LLC",
+"title": "Environmental Virtue Ethics Special Issue: Introduction",
+"titleShort": "Environmental virtue ethics special issue",
+"type": "article-journal",
+"volume": "23",
+"year": 2009,
+"month": "August",
+"dateAdded": "2021-06-12"
 }]
