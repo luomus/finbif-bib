@@ -69,6 +69,27 @@
 "month": "June",
 "dateAdded": "2021-05-03"
 }, {
+"doi": "10.3390/ijgi10070434",
+"url": "https://doi.org/10.3390%2Fijgi10070434",
+"author": [{
+"family": "Musto",
+"given": "Jiri"
+}, {
+"family": "Dahanayake",
+"given": "Ajantha"
+}],
+"containerTitle": "ISPRS International Journal of Geo-Information",
+"id": "10.3390/ijgi10070434",
+"issue": "7",
+"page": "434",
+"publisher": "MDPI AG",
+"title": "An Approach to Improve the Quality of User-Generated Content of Citizen Science Platforms",
+"type": "article-journal",
+"volume": "10",
+"year": 2021,
+"month": "June",
+"dateAdded": "2021-07-01"
+}, {
 "url": "https://journals.flvc.org/mundi/article/view/129001",
 "author": [{
 "family": "Muona",
