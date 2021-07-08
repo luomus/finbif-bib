@@ -1,5 +1,11 @@
 ptrn <- "10[.]\\d{3,9}(?:[.][0-9]+)*/[[:graph:]]+"
 
+reduce_merge <- function(df) {
+  df <- Reduce(function(x, y) merge(x, y, all = TRUE, sort = FALSE), df)
+  # sometimes need 0 row dfs
+  if (is.null(df)) data.frame() else df
+}
+
 extract_url <- function(x) {
   x <- rvest::html_nodes(x, "h3")
   pdfs <- lapply(x, rvest::html_nodes, "span")
@@ -9,7 +15,7 @@ extract_url <- function(x) {
   x <- rvest::html_attrs(x)
   x <- lapply(x, getElement, "href")
   x <- lapply(x, urltools::param_get)
-  x <- do.call(rbind, x)
+  x <- reduce_merge(x)
   x <- as.list(x[["url"]])
   for (i in seq_along(pdfs)) {
     attr(x[[i]], "pdf") <- pdfs[[i]]
