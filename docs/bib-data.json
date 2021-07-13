@@ -69,6 +69,62 @@
 "month": "June",
 "dateAdded": "2021-05-03"
 }, {
+"url": "https://www.researchgate.net/publication/352820452",
+"author": [{
+"family": "Gustad",
+"given": "Jørn R."
+}, {
+"family": "Aarvik",
+"given": "Leif"
+}],
+"containerTitle": "Norwegian Journal of Entomology",
+"id": "Gustad2021",
+"issue": "1",
+"page": "168–173",
+"title": "First discovery in Norway of the elm-feeding moth Cydia leguminana (Lienig & Zeller, 1846) (Lepidoptera, Tortricidae)",
+"type": "article-journal",
+"volume": "68",
+"year": 2021,
+"month": "June"
+"dateAdded": "2021-07-13"
+}, {
+"url": "https://www.researchgate.net/publication/352736791",
+"author": [{
+"family": "Aarvik",
+"given": "Leif"
+},{
+"family": "Bengtsson",
+"given": "Bengt Åke"
+}, {
+"family": "Elven",
+"given": "Hallvard"
+}, {
+"family": "Ivinskis",
+"given": "Povilas"
+}, {
+"family": "Jürivete",
+"given": "Urmas"
+}, {
+"family": "Karsholt",
+"given": "Ole"
+}, {
+"family": "Mutanen",
+"given": "Marko"
+}, {
+"family": "Savenkov",
+"given": "Nikolay"
+}],
+"containerTitle": "Norwegian Journal of Entomology",
+"id": "Aarvik2021",
+"issue": "1",
+"page": "1–14",
+"title": "Additions and corrections to the Nordic-Baltic Checklist of Lepidoptera",
+"type": "article-journal",
+"volume": "68",
+"year": 2021,
+"month": "June"
+"dateAdded": "2021-07-13"
+}, {
 "doi": "10.3390/ijgi10070434",
 "url": "https://doi.org/10.3390%2Fijgi10070434",
 "author": [{
