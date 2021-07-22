@@ -34,6 +34,24 @@
 "month": "July",
 "dateAdded": "2021-03-31"
 }, {
+"doi": "10.1007/s42991-021-00118-1",
+"url": "https://doi.org/10.1007%2Fs42991-021-00118-1",
+"author": [{
+"family": "Bennett",
+"given": "David"
+}, {
+"family": "Richard",
+"given": "Freddie Jeanne"
+}],
+"containerTitle": "Mammalian Biology",
+"id": "10.1007/s42991-021-00118-1",
+"publisher": "Springer Science; Business Media LLC",
+"title": "Distribution Modelling of the Garden Dormouse Eliomys Quercinus (Linnaeus, 1766) with Novel Climate Change Indicators",
+"type": "article-journal",
+"year": 2021,
+"month": "July",
+"dateAdded": "2021-07-22"
+}, {
 "doi": "10.2478/hacq-2021-0014",
 "url": "https://doi.org/10.2478/hacq-2021-0014",
 "author": [{
