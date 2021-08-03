@@ -52,6 +52,49 @@
 "month": "July",
 "dateAdded": "2021-07-22"
 }, {
+"doi": "10.35535/pfsyst-2021-0007",
+"url": "https://doi.org/10.35535%2Fpfsyst-2021-0007",
+"author": [{
+"family": "Kunttu",
+"given": "Pany"
+}, {
+"family": "Helo",
+"given": "Teppo"
+}, {
+"family": "Kulju",
+"given": "Matti"
+}, {
+"family": "Veteli",
+"given": "Pyry"
+}, {
+"family": "Julkunen",
+"given": "Jari"
+}, {
+"family": "Miettinen",
+"given": "Otto"
+}, {
+"family": "Pennanen",
+"given": "Jorma"
+}, {
+"family": "Moilanen",
+"given": "Aki"
+}, {
+"family": "Kotiranta",
+"given": "Heikki"
+}],
+"containerTitle": "Plant and Fungal Systematics",
+"id": "10.35535/pfsyst-2021-0007",
+"issue": "1",
+"page": "79-105",
+"publisher": "W. Szafer Institute of Botany Polish Academy of Sciences",
+"title": "Diversity and Distribution of Finnish Aphyllophoroid and Heterobasidioid Fungi (Basidiomycota): An Update",
+"titleShort": "Diversity and distribution of finnish aphyllophoroid and heterobasidioid fungi (basidiomycota)",
+"type": "article-journal",
+"volume": "66",
+"year": 2021,
+"month": "July",
+"dateAdded": "2021-08-03"
+}, {
 "doi": "10.2478/hacq-2021-0014",
 "url": "https://doi.org/10.2478/hacq-2021-0014",
 "author": [{
