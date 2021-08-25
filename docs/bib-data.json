@@ -1,4 +1,36 @@
 [{
+"doi": "10.1016/j.landurbplan.2021.104222",
+"url": "https://doi.org/10.1016%2Fj.landurbplan.2021.104222",
+"author": [{
+"family": "Korhonen",
+"given": "Aku"
+}, {
+"family": "Penttilä",
+"given": "Reijo"
+}, {
+"family": "Siitonen",
+"given": "Juha"
+}, {
+"family": "Miettinen",
+"given": "Otto"
+}, {
+"family": "Immonen",
+"given": "Auli"
+}, {
+"family": "Hamberg",
+"given": "Leena"
+}],
+"containerTitle": "Landscape and Urban Planning",
+"id": "10.1016/j.landurbplan.2021.104222",
+"page": "104222",
+"publisher": "Elsevier BV",
+"title": "Urban Forests Host Rich Polypore Assemblages in a Nordic Metropolitan Area",
+"type": "article-journal",
+"volume": "215",
+"year": 2021,
+"month": "November",
+"dateAdded": "2021-08-25"
+}, {
 "doi": "10.1016/j.foreco.2021.119151",
 "url": "https://doi.org/10.1016%2Fj.foreco.2021.119151",
 "author": [{
