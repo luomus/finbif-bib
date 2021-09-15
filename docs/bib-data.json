@@ -61,6 +61,26 @@
 "month": "September",
 "dateAdded": "2021-09-12"
 }, {
+"doi": "10.3897/zookeys.1059.70085",
+"url": "https://doi.org/10.3897%2Fzookeys.1059.70085",
+"author": [{
+"family": "Pohjoismäki",
+"given": "Jaakko"
+}, {
+"family": "Haarto",
+"given": "Antti"
+}],
+"containerTitle": "ZooKeys",
+"id": "10.3897/zookeys.1059.70085",
+"page": "135-156",
+"publisher": "Pensoft Publishers",
+"title": "Scenopinus Jerei, a New Species of Window Fly (Diptera, Scenopinidae) from Finland",
+"type": "article-journal",
+"volume": "1059",
+"year": 2021,
+"month": "September",
+"dateAdded": "2021-09-15"
+}, {
 "doi": "10.1016/j.foreco.2021.119151",
 "url": "https://doi.org/10.1016%2Fj.foreco.2021.119151",
 "author": [{
