@@ -81,6 +81,38 @@
 "month": "September",
 "dateAdded": "2021-09-15"
 }, {
+"doi": "10.1016/j.funeco.2021.101098",
+"url": "https://doi.org/10.1016%2Fj.funeco.2021.101098",
+"author": [{
+"family": "Prylutskyi",
+"given": "Oleh"
+}, {
+"family": "Yatsiuk",
+"given": "Iryna"
+}, {
+"family": "Savchenko",
+"given": "Anton"
+}, {
+"family": "Kit",
+"given": "Maryna"
+}, {
+"family": "Solodiankin",
+"given": "Oleksii"
+}, {
+"family": "Schigel",
+"given": "Dmitry"
+}],
+"containerTitle": "Fungal Ecology",
+"id": "10.1016/j.funeco.2021.101098",
+"page": "101098",
+"publisher": "Elsevier BV",
+"title": "Strict Substrate Requirements Alongside Rapid Substrate Turnover may Indicate an Early Colonization: a Case Study of Pleurotus Calyptratus (Agaricales, Basidiomycota)",
+"titleShort": "Strict substrate requirements alongside rapid substrate turnover may indicate an early colonization",
+"type": "article-journal",
+"year": 2021,
+"month": "September",
+"dateAdded": "2021-09-29"
+}, {
 "doi": "10.1016/j.foreco.2021.119151",
 "url": "https://doi.org/10.1016%2Fj.foreco.2021.119151",
 "author": [{
