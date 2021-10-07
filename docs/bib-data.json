@@ -113,6 +113,73 @@
 "month": "September",
 "dateAdded": "2021-09-29"
 }, {
+"doi": "10.1073/pnas.2106006118",
+"url": "https://doi.org/10.1073%2Fpnas.2106006118",
+"author": [{
+"family": "Merckx",
+"given": "Thomas"
+}, {
+"family": "Nielsen",
+"given": "Matthew E."
+}, {
+"family": "Heliölä",
+"given": "Janne"
+}, {
+"family": "Kuussaari",
+"given": "Mikko"
+}, {
+"family": "Pettersson",
+"given": "Lars B."
+}, {
+"family": "Pöyry",
+"given": "Juha"
+}, {
+"family": "Tiainen",
+"given": "Juha"
+}, {
+"family": "Gotthard",
+"given": "Karl"
+}, {
+"family": "Kivelä",
+"given": "Sami M."
+}],
+"containerTitle": "Proceedings of the National Academy of Sciences",
+"id": "10.1073/pnas.2106006118",
+"issue": "40",
+"page": "e2106006118",
+"publisher": "Proceedings of the National Academy of Sciences",
+"title": "Urbanization Extends Flight Phenology and Leads to Local Adaptation of Seasonal Plasticity in Lepidoptera",
+"type": "article-journal",
+"volume": "118",
+"year": 2021,
+"month": "September",
+"dateAdded": "2021-10-07"
+}, {
+"doi": "10.3897/biss.5.75559",
+"url": "https://doi.org/10.3897%2Fbiss.5.75559",
+"author": [{
+"family": "Lahti",
+"given": "Kari"
+}, {
+"family": "Heikkinen",
+"given": "Mikko"
+}, {
+"family": "Juslén",
+"given": "Aino"
+}, {
+"family": "Schulman",
+"given": "Leif"
+}],
+"containerTitle": "Biodiversity Information Science and Standards",
+"id": "10.3897/biss.5.75559",
+"publisher": "Pensoft Publishers",
+"title": "Tackling Data Quality Challenges in the Finnish Biodiversity Information Facility (Finbif)",
+"type": "article-journal",
+"volume": "5",
+"year": 2021,
+"month": "September",
+"dateAdded": "2021-10-07"
+}, {
 "doi": "10.1016/j.foreco.2021.119151",
 "url": "https://doi.org/10.1016%2Fj.foreco.2021.119151",
 "author": [{
