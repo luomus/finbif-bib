@@ -1036,6 +1036,46 @@
 "month": "January",
 "dateAdded": "2021-01-16"
 }, {
+"doi": "10.2760/694386",
+"url": "https://data.europa.eu/doi/10.2760/694386",
+"author": [{
+"family": "Adriaens",
+"given": "Tim"
+}, {
+"family": "Tricarico",
+"given": "Elena"
+}, {
+"family": "Reyserhove",
+"given": "Lien"
+}, {
+"family": "Cardoso",
+"given": "A. C."
+}, {
+"family": "Gervasini",
+"given": "E."
+}, {
+"family": "Lopez Canizares",
+"given": "C."
+}, {
+"family": "Mitton",
+"given": "I."
+}, {
+"family": "Schade",
+"given": "S."
+}, {
+"family": "Spinelli",
+"given": "F."
+}, {
+"family": "Tsiamis",
+"given": "K."
+}],
+"id": "10.2760/694386",
+"publisher": "Publications Office of the European Commission",
+"title": "Data-Validation Solutions for Citizen Science Data on Invasive Alien Species",
+"type": "techreport",
+"year": 2021,
+"dateAdded": "2021-10-26"
+}, {
 "doi": "10.1038/s41598-020-78165-w",
 "url": "https://doi.org/10.1038%2Fs41598-020-78165-w",
 "author": [{
