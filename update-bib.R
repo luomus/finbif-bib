@@ -75,6 +75,9 @@ get_bib <- function(x) {
   x <- httr::content(x, type = "text", encoding = "UTF-8")
   x <- gsub("\\{\\\\textendash\\}", " – ", x)
   x <- gsub("\\{\\\\textemdash\\}", "—", x)
+  x <- strsplit(x, ",")
+  x[[1L]][[1L]] <- gsub("\\s", "", x[[1L]][[1L]])
+  x <- paste(x[[1L]], collapse = ",")
   tmpfile <- tempfile(fileext = ".bib")
   writeLines(x, tmpfile)
   tryCatch(
