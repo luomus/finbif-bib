@@ -31,6 +31,32 @@
 "month": "November",
 "dateAdded": "2021-08-25"
 }, {
+"doi": "10.1007/s10530-021-02652-y",
+"url": "https://doi.org/10.1007%2Fs10530-021-02652-y",
+"author": [{
+"family": "Prass",
+"given": "Marju"
+}, {
+"family": "Ramula",
+"given": "Satu"
+}, {
+"family": "Jauni",
+"given": "Miia"
+}, {
+"family": "Setälä",
+"given": "Heikki"
+}, {
+"family": "Kotze",
+"given": "D. Johan"
+}],
+"id": "10.1007/s10530-021-02652-y",
+"publisher": "Springer Science; Business Media LLC",
+"title": "The Invasive Herb Lupinus polyphyllus can Reduce Plant Species Richness Independently of Local Invasion Age",
+"type": "article-journal",
+"year": 2021,
+"month": "October",
+"dateAdded": "2021-11-02"
+}, {
 "doi": "10.1093/isd/ixab013",
 "url": "https://doi.org/10.1093%2Fisd%2Fixab013",
 "author": [{
