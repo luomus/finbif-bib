@@ -132,7 +132,7 @@ res <- tryCatch(
       articles <- lapply(articles, xml2::read_html)
 
       bib_data <- lapply(articles, get_doi)
-      bib_data <- unlist(bib_data)
+      bib_data <- as.vector(unlist(bib_data))
       bib_data <- lapply(bib_data, get_bib)
       bib_data <- bib_data[!is.na(bib_data)]
       bib_data <- lapply(bib_data, fmt_bib)
