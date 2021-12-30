@@ -1,4 +1,24 @@
-[{
+{
+"url": {
+"doi": "10.14258/turczaninowia.24.4.16",
+"url": "https://doi.org/10.14258%2Fturczaninowia.24.4.16",
+"author": [{
+"family": "Chkalov",
+"given": "Andrey V."
+}],
+"containerTitle": "Turczaninowia",
+"id": "10.14258/turczaninowia.24.4.16",
+"issue": "4",
+"page": "168-185",
+"publisher": "Altai State University",
+"title": "Six New Species of Alchemilla Series Calycinae (Buser) Rothm. (Rosaceae) from the Caucasus",
+"type": "article-journal",
+"volume": "24",
+"year": 2021,
+"month": "December",
+"dateAdded": "2021-12-30"
+},
+"": {
 "doi": "10.1016/j.landurbplan.2021.104222",
 "url": "https://doi.org/10.1016%2Fj.landurbplan.2021.104222",
 "author": [{
@@ -30,7 +50,8 @@
 "year": 2021,
 "month": "November",
 "dateAdded": "2021-08-25"
-}, {
+},
+"": {
 "doi": "10.1007/s10530-021-02652-y",
 "url": "https://doi.org/10.1007%2Fs10530-021-02652-y",
 "author": [{
@@ -56,7 +77,8 @@
 "year": 2021,
 "month": "October",
 "dateAdded": "2021-11-02"
-}, {
+},
+"": {
 "doi": "10.1093/isd/ixab013",
 "url": "https://doi.org/10.1093%2Fisd%2Fixab013",
 "author": [{
@@ -86,7 +108,8 @@
 "year": 2021,
 "month": "September",
 "dateAdded": "2021-09-12"
-}, {
+},
+"": {
 "doi": "10.3897/zookeys.1059.70085",
 "url": "https://doi.org/10.3897%2Fzookeys.1059.70085",
 "author": [{
@@ -106,7 +129,8 @@
 "year": 2021,
 "month": "September",
 "dateAdded": "2021-09-15"
-}, {
+},
+"": {
 "doi": "10.1016/j.funeco.2021.101098",
 "url": "https://doi.org/10.1016%2Fj.funeco.2021.101098",
 "author": [{
@@ -138,7 +162,8 @@
 "year": 2021,
 "month": "September",
 "dateAdded": "2021-09-29"
-}, {
+},
+"": {
 "doi": "10.1073/pnas.2106006118",
 "url": "https://doi.org/10.1073%2Fpnas.2106006118",
 "author": [{
@@ -180,7 +205,8 @@
 "year": 2021,
 "month": "September",
 "dateAdded": "2021-10-07"
-}, {
+},
+"": {
 "doi": "10.3897/biss.5.75559",
 "url": "https://doi.org/10.3897%2Fbiss.5.75559",
 "author": [{
@@ -205,7 +231,8 @@
 "year": 2021,
 "month": "September",
 "dateAdded": "2021-10-07"
-}, {
+},
+"": {
 "doi": "10.1016/j.foreco.2021.119151",
 "url": "https://doi.org/10.1016%2Fj.foreco.2021.119151",
 "author": [{
@@ -240,7 +267,8 @@
 "year": 2021,
 "month": "July",
 "dateAdded": "2021-03-31"
-}, {
+},
+"": {
 "doi": "10.1007/s42991-021-00118-1",
 "url": "https://doi.org/10.1007%2Fs42991-021-00118-1",
 "author": [{
@@ -258,7 +286,8 @@
 "year": 2021,
 "month": "July",
 "dateAdded": "2021-07-22"
-}, {
+},
+"": {
 "doi": "10.35535/pfsyst-2021-0007",
 "url": "https://doi.org/10.35535%2Fpfsyst-2021-0007",
 "author": [{
@@ -301,7 +330,8 @@
 "year": 2021,
 "month": "July",
 "dateAdded": "2021-08-03"
-}, {
+},
+"": {
 "doi": "10.2478/hacq-2021-0014",
 "url": "https://doi.org/10.2478/hacq-2021-0014",
 "author": [{
@@ -336,7 +366,8 @@
 "year": 2021,
 "month": "June",
 "dateAdded": "2021-05-03"
-}, {
+},
+"": {
 "url": "https://www.researchgate.net/publication/352820452",
 "author": [{
 "family": "Gustad",
@@ -355,7 +386,8 @@
 "year": 2021,
 "month": "June",
 "dateAdded": "2021-07-13"
-}, {
+},
+"": {
 "url": "https://www.researchgate.net/publication/352736791",
 "author": [{
 "family": "Aarvik",
@@ -392,7 +424,8 @@
 "year": 2021,
 "month": "June",
 "dateAdded": "2021-07-13"
-}, {
+},
+"": {
 "doi": "10.3390/ijgi10070434",
 "url": "https://doi.org/10.3390%2Fijgi10070434",
 "author": [{
@@ -413,7 +446,8 @@
 "year": 2021,
 "month": "June",
 "dateAdded": "2021-07-01"
-}, {
+},
+"": {
 "url": "https://journals.flvc.org/mundi/article/view/129001",
 "author": [{
 "family": "Muona",
@@ -427,7 +461,8 @@
 "month": "May",
 "page": "1-10",
 "dateAdded": "2021-06-10"
-}, {
+},
+"": {
 "doi": "10.1002/ece3.7592",
 "url": "https://doi.org/10.1002%2Fece3.7592",
 "author": [{
@@ -451,7 +486,8 @@
 "year": 2021,
 "month": "May",
 "dateAdded": "2021-05-06"
-}, {
+},
+"": {
 "doi": "10.1038/s41597-021-00919-6",
 "url": "https://doi.org/10.1038/s41597-021-00919-6",
 "author": [{
@@ -482,7 +518,8 @@
 "year": 2021,
 "month": "May",
 "dateAdded": "2021-05-26"
-}, {
+},
+"": {
 "doi": "10.17581/bp.2021.10110",
 "url": "https://doi.org/10.17581%2Fbp.2021.10110",
 "author": [{
@@ -638,7 +675,8 @@
 "year": 2021,
 "month": "May",
 "dateAdded": "2021-05-16"
-}, {
+},
+"": {
 "doi": "10.1111/geb.13315",
 "url": "https://doi.org/10.1111%2Fgeb.13315",
 "author": [{
@@ -666,7 +704,8 @@
 "year": 2021,
 "month": "May",
 "dateAdded": "2021-05-25"
-}, {
+},
+"": {
 "doi": "10.1016/j.jep.2020.113710",
 "url": "https://doi.org/10.1016%2Fj.jep.2020.113710",
 "author": [{
@@ -690,7 +729,8 @@
 "year": 2021,
 "month": "April",
 "dateAdded": "2021-01-08"
-}, {
+},
+"": {
 "doi": "10.3897/jhr.82.60054",
 "url": "https://doi.org/10.3897%2Fjhr.82.60054",
 "author": [{
@@ -707,7 +747,8 @@
 "year": 2021,
 "month": "April",
 "dateAdded": "2021-05-04"
-}, {
+},
+"": {
 "doi": "10.13057/biodiv/d220430",
 "url": "https://smujo.id/biodiv/article/view/7899",
 "author": [{
@@ -735,7 +776,8 @@
 "year": 2021,
 "month": "March",
 "dateAdded": "2021-03-31"
-}, {
+},
+"": {
 "url": "https://nordia.journal.fi/issue/view/50-1",
 "author": [{
 "family": "Lindholm",
@@ -750,7 +792,8 @@
 "year": 2021,
 "month": "March",
 "dateAdded": "2021-03-22"
-}, {
+},
+"": {
 "url": "http://www.sekj.org/PDF/anb58-free/anb58-139-169-OA.pdf",
 "author": [{
 "family": "Väre",
@@ -766,7 +809,8 @@
 "year": 2021,
 "month": "March",
 "dateAdded": "2021-03-22"
-}, {
+},
+"": {
 "doi": "10.1038/s42003-021-01834-7",
 "url": "https://doi.org/10.1038%2Fs42003-021-01834-7",
 "author": [{
@@ -810,7 +854,8 @@
 "year": 2021,
 "month": "March",
 "dateAdded": "2021-03-13"
-}, {
+},
+"": {
 "doi": "10.3897/nl.44.63662",
 "url": "https://doi.org/10.3897%2Fnl.44.63662",
 "author": [{
@@ -834,7 +879,8 @@
 "year": 2021,
 "month": "March",
 "dateAdded": "2021-03-23"
-}, {
+},
+"": {
 "doi": "10.3897/rio.7.e62808",
 "url": "https://doi.org/10.3897%2Frio.7.e62808",
 "author": [{
@@ -877,7 +923,8 @@
 "year": 2021,
 "month": "February",
 "dateAdded": "2021-02-23"
-}, {
+},
+"": {
 "doi": "10.3389/fevo.2021.626752",
 "url": "https://doi.org/10.3389%2Ffevo.2021.626752",
 "author": [{
@@ -947,7 +994,8 @@
 "year": 2021,
 "month": "February",
 "dateAdded": "2021-02-23"
-}, {
+},
+"": {
 "doi": "10.1016/j.flora.2020.151748",
 "url": "https://doi.org/10.1016%2Fj.flora.2020.151748",
 "author": [{
@@ -974,7 +1022,8 @@
 "year": 2021,
 "month": "January",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.22541/au.161011517.73852429/v1",
 "url": "https://doi.org/10.22541%2Fau.161011517.73852429%2Fv1",
 "author": [{
@@ -1012,7 +1061,8 @@
 "year": 2021,
 "month": "January",
 "dateAdded": "2021-01-12"
-}, {
+},
+"": {
 "doi": "10.3897/rio.7.e61664",
 "url": "https://doi.org/10.3897%2Frio.7.e61664",
 "author": [{
@@ -1061,7 +1111,8 @@
 "year": 2021,
 "month": "January",
 "dateAdded": "2021-01-16"
-}, {
+},
+"": {
 "doi": "10.2760/694386",
 "url": "https://data.europa.eu/doi/10.2760/694386",
 "author": [{
@@ -1101,7 +1152,8 @@
 "type": "techreport",
 "year": 2021,
 "dateAdded": "2021-10-26"
-}, {
+},
+"": {
 "doi": "10.1038/s41598-020-78165-w",
 "url": "https://doi.org/10.1038%2Fs41598-020-78165-w",
 "author": [{
@@ -1124,7 +1176,8 @@
 "year": 2020,
 "month": "December",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.3390/arts9040125",
 "url": "https://doi.org/10.3390%2Farts9040125",
 "author": [{
@@ -1160,7 +1213,8 @@
 "year": 2020,
 "month": "December",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.5735/086.057.0120",
 "url": "https://doi.org/10.5735%2F086.057.0120",
 "author": [{
@@ -1183,7 +1237,8 @@
 "year": 2020,
 "month": "December",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.5735/086.057.0119",
 "url": "https://doi.org/10.5735%2F086.057.0119",
 "author": [{
@@ -1206,7 +1261,8 @@
 "year": 2020,
 "month": "December",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "url": "http://nhm2.uio.no/botanisk/lav/Graphis/32_5/GS_32_86.pdf",
 "author": [{
 "family": "Suija",
@@ -1225,7 +1281,8 @@
 "year": 2020,
 "month": "November",
 "dateAdded": "2020-01-11"
-}, {
+},
+"": {
 "doi": "10.1016/j.ufug.2020.126812",
 "url": "https://doi.org/10.1016%2Fj.ufug.2020.126812",
 "author": [{
@@ -1251,7 +1308,8 @@
 "year": 2020,
 "month": "November",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.1111/1365-2745.13526",
 "url": "https://doi.org/10.1111%2F1365-2745.13526",
 "author": [{
@@ -1282,7 +1340,8 @@
 "year": 2020,
 "month": "November",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.3897/bdj.8.e59456",
 "url": "https://doi.org/10.3897%2Fbdj.8.e59456",
 "author": [{
@@ -1305,7 +1364,8 @@
 "year": 2020,
 "month": "November",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.1007/s00265-020-02927-9",
 "url": "https://doi.org/10.1007%2Fs00265-020-02927-9",
 "author": [{
@@ -1332,7 +1392,8 @@
 "year": 2020,
 "month": "November",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.1016/j.ecoleng.2020.105970",
 "url": "https://doi.org/10.1016%2Fj.ecoleng.2020.105970",
 "author": [{
@@ -1367,7 +1428,8 @@
 "year": 2020,
 "month": "October",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.1111/rec.13304",
 "url": "https://doi.org/10.1111%2Frec.13304",
 "author": [{
@@ -1391,7 +1453,8 @@
 "year": 2020,
 "month": "October",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.3897/biss.4.59119",
 "url": "https://doi.org/10.3897%2Fbiss.4.59119",
 "author": [{
@@ -1416,7 +1479,8 @@
 "year": 2020,
 "month": "October",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.1111/njb.02795",
 "url": "https://doi.org/10.1111%2Fnjb.02795",
 "author": [{
@@ -1436,7 +1500,8 @@
 "year": 2020,
 "month": "October",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "url": "https://www.researchgate.net/publication/344068610_Decouverte_d'une_nouvelle_station_francaise_d'une_Chrysope_rare_en_Europe_Nineta_inpunctata_Reuter_1894_Neuroptera_Chrysopidae_L'ENTOMOLOGISTE",
 "author": [{
 "family": "Tillier",
@@ -1460,7 +1525,8 @@
 "year": 2020,
 "month": "September",
 "dateAdded": "2020-01-07"
-}, {
+},
+"": {
 "doi": "10.3897/rio.6.e58167",
 "url": "https://doi.org/10.3897%2Frio.6.e58167",
 "author": [{
@@ -1509,7 +1575,8 @@
 "year": 2020,
 "month": "September",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.3897/bdj.8.e56486",
 "url": "https://doi.org/10.3897%2Fbdj.8.e56486",
 "author": [{
@@ -1561,7 +1628,8 @@
 "year": 2020,
 "month": "September",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.1007/s10531-020-02024-3",
 "url": "https://doi.org/10.1007%2Fs10531-020-02024-3",
 "author": [{
@@ -1585,7 +1653,8 @@
 "year": 2020,
 "month": "August",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.3897/rio.6.e57767",
 "url": "https://doi.org/10.3897%2Frio.6.e57767",
 "author": [{
@@ -1613,7 +1682,8 @@
 "year": 2020,
 "month": "August",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.1073/pnas.2001254117",
 "url": "https://doi.org/10.1073%2Fpnas.2001254117",
 "author": [{
@@ -1637,7 +1707,8 @@
 "year": 2020,
 "month": "August",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.1016/j.virusres.2020.197993",
 "url": "https://doi.org/10.1016%2Fj.virusres.2020.197993",
 "author": [{
@@ -1657,7 +1728,8 @@
 "year": 2020,
 "month": "August",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.1073/pnas.1913579117",
 "url": "https://doi.org/10.1073%2Fpnas.1913579117",
 "author": [{
@@ -1693,7 +1765,8 @@
 "year": 2020,
 "month": "July",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.3897/rio.6.e55522",
 "url": "https://doi.org/10.3897%2Frio.6.e55522",
 "author": [{
@@ -1718,7 +1791,8 @@
 "year": 2020,
 "month": "July",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.3897/rio.6.e55789",
 "url": "https://doi.org/10.3897%2Frio.6.e55789",
 "author": [{
@@ -1755,7 +1829,8 @@
 "year": 2020,
 "month": "July",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.1111/epp.12667",
 "url": "https://doi.org/10.1111%2Fepp.12667",
 "author": [{
@@ -1791,7 +1866,8 @@
 "year": 2020,
 "month": "July",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.3390/antibiotics9050266",
 "url": "https://doi.org/10.3390%2Fantibiotics9050266",
 "author": [{
@@ -1830,7 +1906,8 @@
 "year": 2020,
 "month": "May",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.1186/s13028-020-00524-4",
 "url": "https://doi.org/10.1186%2Fs13028-020-00524-4",
 "author": [{
@@ -1856,7 +1933,8 @@
 "year": 2020,
 "month": "May",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "url": "https://www.ebcc.info/wp-content/uploads/2020/06/5-lehikoinen-31-1-2.pdf",
 "author": [{
 "family": "Lehikoinen",
@@ -1872,7 +1950,8 @@
 "year": 2020,
 "month": "April",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.1007/s00442-020-04632-w",
 "url": "https://doi.org/10.1007%2Fs00442-020-04632-w",
 "author": [{
@@ -1902,7 +1981,8 @@
 "year": 2020,
 "month": "April",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.31184/m00138908.1562.4022",
 "url": "https://doi.org/10.31184%2Fm00138908.1562.4022",
 "author": [{
@@ -1930,7 +2010,8 @@
 "year": 2020,
 "month": "April",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.5194/bg-17-1535-2020",
 "url": "https://doi.org/10.5194%2Fbg-17-1535-2020",
 "author": [{
@@ -1954,7 +2035,8 @@
 "year": 2020,
 "month": "March",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.3390/insects11020118",
 "url": "https://doi.org/10.3390%2Finsects11020118",
 "author": [{
@@ -1987,7 +2069,8 @@
 "year": 2020,
 "month": "February",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "url": "https://koivu.luomus.fi/sahlbergia/2020/sahlbergia-26-Paappanen.pdf",
 "author": [{
 "family": "Paappanen",
@@ -2002,7 +2085,8 @@
 "issue": "1-2",
 "year": 2020,
 "dateAdded": "2021-03-09"
-}, {
+},
+"": {
 "url": "https://koivu.luomus.fi/sahlbergia/2020/sahlbergia-26-Österblad.pdf",
 "author": [{
 "family": "Österblad",
@@ -2017,7 +2101,8 @@
 "issue": "1-2",
 "year": 2020,
 "dateAdded": "2021-03-24"
-}, {
+},
+"": {
 "url": "https://www.researchgate.net/publication/348750889",
 "author": [{
 "family": "Ilg",
@@ -2037,7 +2122,8 @@
 "volume": "81",
 "year": 2020,
 "dateAdded": "2021-02-04"
-}, {
+},
+"": {
 "url": "https://journal.fi/msff/article/view/98602",
 "author": [{
 "family": "Lampinen",
@@ -2054,7 +2140,8 @@
 "volume": "96",
 "year": 2020,
 "dateAdded": "2020-01-11"
-}, {
+},
+"": {
 "url": "https://www.researchgate.net/publication/347559702",
 "author": [{
 "family": "Gustad",
@@ -2072,7 +2159,8 @@
 "volume": "67",
 "year": 2020,
 "dateAdded": "2020-01-11"
-}, {
+},
+"": {
 "url": "https://researchportal.helsinki.fi/en/publications/polia-lamuta-herz-1903-lepidoptera-noctuidae-discovered-in-norway",
 "author": [{
 "family": "Saarenmaa",
@@ -2087,7 +2175,8 @@
 "volume": "67",
 "year": 2020,
 "dateAdded": "2020-01-07"
-}, {
+},
+"": {
 "url": "https://journal.fi/msff/article/view/98161",
 "author": [{
 "family": "Piirainen",
@@ -2101,7 +2190,8 @@
 "volume": "96",
 "year": 2020,
 "dateAdded": "2020-01-07"
-}, {
+},
+"": {
 "doi": "10.14214/sf.10262",
 "url": "https://doi.org/10.14214%2Fsf.10262",
 "author": [{
@@ -2129,7 +2219,8 @@
 "volume": "54",
 "year": 2020,
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.1051/kmae/2020022",
 "url": "https://doi.org/10.1051%2Fkmae%2F2020022",
 "author": [{
@@ -2158,7 +2249,8 @@
 "type": "article-journal",
 "year": 2020,
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.3391/bir.2020.9.4.02",
 "url": "https://doi.org/10.3391%2Fbir.2020.9.4.02",
 "author": [{
@@ -2187,7 +2279,8 @@
 "volume": "9",
 "year": 2020,
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "doi": "10.31111/novitates/2020.51.26",
 "url": "https://doi.org/10.31111%2Fnovitates%2F2020.51.26",
 "author": [{
@@ -2203,7 +2296,8 @@
 "type": "article-journal",
 "year": 2020,
 "dateAdded": "2021-01-25"
-}, {
+},
+"": {
 "doi": "10.3897/issn2541-8416.2019.19.4.153",
 "url": "https://doi.org/10.3897%2Fissn2541-8416.2019.19.4.153",
 "author": [{
@@ -2222,7 +2316,8 @@
 "year": 2019,
 "month": "December",
 "dateAdded": "2020-12-31"
-}, {
+},
+"": {
 "url": "https://www.researchgate.net/publication/341566893",
 "author": [{
 "family": "Pohjoismäki",
@@ -2240,4 +2335,5 @@
 "volume": "26",
 "year": 2019,
 "dateAdded": "2020-01-11"
-}]
+}
+}

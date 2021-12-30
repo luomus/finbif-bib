@@ -11,15 +11,26 @@ extract_url <- function(x) {
   pdfs <- lapply(x, rvest::html_nodes, "span")
   pdfs <- lapply(pdfs, rvest::html_text)
   pdfs <- grepl("pdf", lapply(pdfs, tolower))
-  x <- rvest::html_nodes(x, "a")
-  x <- rvest::html_attrs(x)
-  x <- lapply(x, getElement, "href")
+  x <- lapply(x, rvest::html_node, "a")
+  x <- lapply(x, rvest::html_attrs)
+  x <- lapply(x, `[`, "href")
   x <- lapply(x, urltools::param_get)
-  x <- reduce_merge(x)
-  x <- as.list(x[["url"]])
+  x <- lapply(x, as.list)
+  x <- lapply(x, `[`, "url")
+  x <- unlist(x, FALSE)
+
   for (i in seq_along(pdfs)) {
+
+    if (is.null(x[[i]])) {
+
+      x[[i]] <- NA
+
+    }
+
     attr(x[[i]], "pdf") <- pdfs[[i]]
+
   }
+
   x
 }
 
@@ -41,7 +52,7 @@ get_doi <- function(x) {
 
 get_doi_from_url <- function(url) {
 
-  if (is.null(url)) return(NA)
+  if (is.null(url) || is.na(url)) return(NA)
   if (attr(url, "pdf")) {
     tmpfile <- tempfile()
     dl <- try(download.file(url, tmpfile, quiet = TRUE), silent = TRUE)
