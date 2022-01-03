@@ -95,12 +95,12 @@
 "family": "Kulijer",
 "given": "Dejan"
 }],
-"containerTitle": "South-east European forestry",
+"containerTitle": "South-east European Forestry",
 "id": "10.15177/seefor.21-13",
 "issue": "2",
 "page": "143-147",
 "publisher": "Hrvatski Sumarski Institut (Croatian Forest Research)",
-"title": "First Record of the Saproxylic Beetle Cossonus Parallelepipedus (Coleoptera, Curculionidae) in Bosnia and Herzegovina",
+"title": "First Record of the Saproxylic Beetle Cossonus parallelepipedus (Coleoptera, Curculionidae) in Bosnia and Herzegovina",
 "type": "article-journal",
 "volume": "12",
 "year": 2021,
@@ -1182,21 +1182,21 @@
 "url": "https://cyberleninka.ru/article/n/macroand-microscopic-research-of-erigeron-annuus",
 "author": [{
 "family": "Golovach",
-"given": "A."
+"given": "Alyona"
 }, {
 "family": "Kovalev",
-"given": "S."
+"given": "Sergey Vladimirovich"
 }, {
 "family": "Kovalev",
-"given": "V."
+"given": "Volodymyr Viktorovych"
 }, {
 "family": "Demeshko",
-"given": "O."
+"given": "Olga"
 }],
 "id": "10.24412/3453-9875-2021-74-1-45-49",
 "keyword": "morphological-anatomic structure, leaf, stem, flower, Erigeron L, Asteraceae",
-"publisher": "Norwegian Journal of Development of the International Science",
-"title": "Macroand Microscopic Research of Erigeron Annuus",
+"containerTitle": "Norwegian Journal of Development of the International Science",
+"title": "Macroand Microscopic Research of Erigeron annuus",
 "type": "article-journal",
 "year": 2021,
 "dateAdded": "2021-12-30"
