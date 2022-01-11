@@ -45,12 +45,13 @@ get_doi <- function(x) {
   doi <- extract_doi(txt, ptrn)
   if (!is.na(doi)) return(doi)
   urls <- extract_url(x)
-  doi <- extract_doi(urls, ptrn)
-  if (!is.na(doi)) return(doi)
   lapply(urls, get_doi_from_url)
 }
 
 get_doi_from_url <- function(url) {
+
+  doi <- extract_doi(url, ptrn)
+  if (!is.na(doi)) return(doi)
 
   if (is.null(url) || is.na(url)) return(NA)
   if (attr(url, "pdf")) {
