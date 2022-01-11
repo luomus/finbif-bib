@@ -1,4 +1,50 @@
 [{
+"doi": "10.1002/eet.1975",
+"url": "https://doi.org/10.1002%2Feet.1975",
+"author": [{
+"family": "Gunko",
+"given": "Ruslan"
+}, {
+"family": "Rapeli",
+"given": "Lauri"
+}, {
+"family": "Scheinin",
+"given": "Matias"
+}, {
+"family": "Vuorisalo",
+"given": "Timo"
+}, {
+"family": "Karell",
+"given": "Patrik"
+}],
+"containerTitle": "Environmental Policy and Governance",
+"id": "10.1002/eet.1975",
+"publisher": "Wiley",
+"title": "How Accurate is Citizen Science? Evaluating Public Assessments of Coastal Water Quality",
+"type": "article-journal",
+"year": 2022,
+"month": "January",
+"dateAdded": "2022-01-11"
+}, {
+"doi": "10.3897/bdj.10.e78166",
+"url": "https://doi.org/10.3897%2Fbdj.10.e78166",
+"author": [{
+"family": "Kozhin",
+"given": "Mikhail N."
+}, {
+"family": "Sennikov",
+"given": "Alexander N."
+}],
+"containerTitle": "Biodiversity Data Journal",
+"id": "10.3897/bdj.10.e78166",
+"publisher": "Pensoft Publishers",
+"title": "New Records in Non-Native Vascular Plants of Russian Lapland",
+"type": "article-journal",
+"volume": "10",
+"year": 2022,
+"month": "January",
+"dateAdded": "2022-01-11"
+}, {
 "url": "https://www.entomologai.lt/leidiniai/category/55-volume-5-33-2021?download=383:bles-vol533-p096-099-lazauskaite-etal-megachile-andrena",
 "author": [{
 "family": "Lazauskaitė",
