@@ -1,4 +1,46 @@
 [{
+"doi": "10.1093/forestry/cpac002",
+"url": "https://doi.org/10.1093%2Fforestry%2Fcpac002",
+"author": [{
+"family": "Hamedianfar",
+"given": "Alireza"
+}, {
+"family": "Mohamedou",
+"given": "Cheikh"
+}, {
+"family": "Kangas",
+"given": "Annika"
+}, {
+"family": "Vauhkonen",
+"given": "Jari"
+}],
+"containerTitle": "Forestry: An International Journal of Forest Research",
+"id": "10.1093/forestry/cpac002",
+"publisher": "Oxford University Press (OUP)",
+"title": "Deep Learning for Forest Inventory and Planning: a Critical Review on the Remote Sensing Approaches so Far and Prospects for Further Applications",
+"titleShort": "Deep learning for forest inventory and planning",
+"type": "article-journal",
+"year": 2022,
+"month": "February",
+"dateAdded": "2022-02-08"
+}, {
+"doi": "10.24386/LepHung.2022.18.1.5",
+"url": "https://epa.oszk.hu/04100/04144/00001/pdf/EPA04144_lepidopterologica_2021_01_005-010.pdf",
+"author": [{
+"family": "Fazekas",
+"given": "Imre"
+}],
+"containerTitle": "Lepidopterologica Hungarica",
+"id": "10.24386/LepHung.2022.18.1.5",
+"title": "Distribution and bionomy of Lyonetia ledi Wocke, 1859 – a Review with Notes (Lepidoptera, Lyonetiidae)",
+"type": "article-journal",
+"volume": "18",
+"page": "5-21",
+"issue": "1",
+"year": 2022,
+"month": "January",
+"dateAdded": "2022-02-08"
+}, {
 "doi": "10.1002/eet.1975",
 "url": "https://doi.org/10.1002%2Feet.1975",
 "author": [{
