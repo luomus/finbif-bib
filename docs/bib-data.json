@@ -24,6 +24,35 @@
 "month": "February",
 "dateAdded": "2022-02-08"
 }, {
+"doi": "10.3897/zookeys.1085.76853",
+"url": "https://doi.org/10.3897%2Fzookeys.1085.76853",
+"author": [{
+"family": "Berggren",
+"given": "Kai"
+}, {
+"family": "Aarvik",
+"given": "Leif"
+}, {
+"family": "Huemer",
+"given": "Peter"
+}, {
+"family": "Lee",
+"given": "Kyung Min"
+}, {
+"family": "Mutanen",
+"given": "Marko J."
+}],
+"containerTitle": "ZooKeys",
+"id": "10.3897/zookeys.1085.76853",
+"page": "165-182",
+"publisher": "Pensoft Publishers",
+"title": "Integrative Taxonomy Reveals Overlooked Cryptic Diversity in the Conifer Feeding Batrachedra pinicolella (Zeller, 1839) (Lepidoptera, Batrachedridae)",
+"type": "article-journal",
+"volume": "1085",
+"year": 2022,
+"month": "February",
+"dateAdded": "2022-02-14"
+}, {
 "doi": "10.24386/LepHung.2022.18.1.5",
 "url": "https://epa.oszk.hu/04100/04144/00001/pdf/EPA04144_lepidopterologica_2021_01_005-010.pdf",
 "author": [{
@@ -32,7 +61,7 @@
 }],
 "containerTitle": "Lepidopterologica Hungarica",
 "id": "10.24386/LepHung.2022.18.1.5",
-"title": "Distribution and bionomy of Lyonetia ledi Wocke, 1859 – a Review with Notes (Lepidoptera, Lyonetiidae)",
+"title": "Distribution and Dionomy of Lyonetia ledi Wocke, 1859 – a Review with Notes (Lepidoptera, Lyonetiidae)",
 "type": "article-journal",
 "volume": "18",
 "page": "5-21",
