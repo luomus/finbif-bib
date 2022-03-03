@@ -100,6 +100,93 @@
 "month": "February",
 "dateAdded": "2022-02-26"
 }, {
+"doi": "10.25227/linbg.01158",
+"url": "https://doi.org/10.25227%2Flinbg.01158",
+"author": [{
+"family": "Pihlaja",
+"given": "Kati"
+}, {
+"family": "Juutinen",
+"given": "Riikka"
+}, {
+"family": "Sallantaus",
+"given": "Tapani"
+}, {
+"family": "Syrjänen",
+"given": "Kimmo"
+}, {
+"family": "Zielman",
+"given": "Rudi"
+}, {
+"family": "Lüth",
+"given": "Michael"
+}, {
+"family": "Ervasti",
+"given": "Esa"
+}, {
+"family": "Kuitunen",
+"given": "Tuomo"
+}, {
+"family": "Hassel",
+"given": "Kristian"
+}, {
+"family": "Flatberg",
+"given": "Kjell Ivar"
+}, {
+"family": "Åkesson",
+"given": "Richard"
+}, {
+"family": "Mikulášková",
+"given": "Eva"
+}, {
+"family": "Kangas",
+"given": "Pia"
+}, {
+"family": "Neumann",
+"given": "Antje"
+}],
+"containerTitle": "Lindbergia",
+"id": "10.25227/linbg.01158",
+"issue": "1",
+"publisher": "Dutch Bryological; Lichenological Society; Nordic Bryological Society",
+"title": "The Annual Excursion of the Nordic Bryological Society (NBS) and the Finnish Bryophyte Expert Group to Finnish Lapland in 2019",
+"type": "article-journal",
+"volume": "2020",
+"year": 2022,
+"month": "February",
+"dateAdded": "2022-03-03"
+}, {
+"doi": "10.1073/pnas.2117299119",
+"url": "https://doi.org/10.1073%2Fpnas.2117299119",
+"author": [{
+"family": "Fraixedas",
+"given": "Sara"
+}, {
+"family": "Roslin",
+"given": "Tomas"
+}, {
+"family": "Antão",
+"given": "Laura H."
+}, {
+"family": "Pöyry",
+"given": "Juha"
+}, {
+"family": "Laine",
+"given": "Anna-Liisa"
+}],
+"containerTitle": "Proceedings of the National Academy of Sciences",
+"id": "10.1073/pnas.2117299119",
+"issue": "9",
+"page": "e2117299119",
+"publisher": "Proceedings of the National Academy of Sciences",
+"title": "Opinion: Nationally Reported Metrics Can’t Adequately Guide Transformative Change in Biodiversity Policy",
+"titleShort": "Opinion",
+"type": "article-journal",
+"volume": "119",
+"year": 2022,
+"month": "February",
+"dateAdded": "2022-03-03"
+}, {
 "doi": "10.24386/LepHung.2022.18.1.5",
 "url": "https://epa.oszk.hu/04100/04144/00001/pdf/EPA04144_lepidopterologica_2021_01_005-010.pdf",
 "author": [{
