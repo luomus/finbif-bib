@@ -187,6 +187,35 @@
 "month": "February",
 "dateAdded": "2022-03-03"
 }, {
+"doi": "10.1002/ece3.8648",
+"url": "https://doi.org/10.1002%2Fece3.8648",
+"author": [{
+"family": "Suhonen",
+"given": "Jukka"
+}, {
+"family": "Ilvonen",
+"given": "Jaakko J."
+}, {
+"family": "Korkeamäki",
+"given": "Esa"
+}, {
+"family": "Nokkala",
+"given": "Christina"
+}, {
+"family": "Salmela",
+"given": "Jukka"
+}],
+"containerTitle": "Ecology and Evolution",
+"id": "10.1002/ece3.8648",
+"issue": "3",
+"publisher": "Wiley",
+"title": "using Functional Traits and Phylogeny to Understand Local Extinction Risk in Dragonflies and Damselflies (Odonata)",
+"type": "article-journal",
+"volume": "12",
+"year": 2022,
+"month": "February",
+"dateAdded": "2022-03-12"
+}, {
 "doi": "10.24386/LepHung.2022.18.1.5",
 "url": "https://epa.oszk.hu/04100/04144/00001/pdf/EPA04144_lepidopterologica_2021_01_005-010.pdf",
 "author": [{
