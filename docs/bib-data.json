@@ -537,31 +537,6 @@
 "month": "September",
 "dateAdded": "2021-10-07"
 }, {
-"doi": "10.3897/biss.5.75559",
-"url": "https://doi.org/10.3897%2Fbiss.5.75559",
-"author": [{
-"family": "Lahti",
-"given": "Kari"
-}, {
-"family": "Heikkinen",
-"given": "Mikko"
-}, {
-"family": "Juslén",
-"given": "Aino"
-}, {
-"family": "Schulman",
-"given": "Leif"
-}],
-"containerTitle": "Biodiversity Information Science and Standards",
-"id": "10.3897/biss.5.75559",
-"publisher": "Pensoft Publishers",
-"title": "Tackling Data Quality Challenges in the Finnish Biodiversity Information Facility (Finbif)",
-"type": "article-journal",
-"volume": "5",
-"year": 2021,
-"month": "September",
-"dateAdded": "2021-10-07"
-}, {
 "doi": "10.1016/j.foreco.2021.119151",
 "url": "https://doi.org/10.1016%2Fj.foreco.2021.119151",
 "author": [{
@@ -1331,8 +1306,8 @@
 "month": "January",
 "dateAdded": "2020-12-31"
 }, {
-"doi": "10.22541/au.161011517.73852429/v1",
-"url": "https://doi.org/10.22541%2Fau.161011517.73852429%2Fv1",
+"doi": "10.1111/ele.13774",
+"url": "https://doi.org/10.1111/ele.13774",
 "author": [{
 "family": "Hällfors",
 "given": "Maria H."
@@ -1361,12 +1336,12 @@
 "family": "Saastamoinen",
 "given": "Marjo"
 }],
-"id": "10.22541/au.161011517.73852429/v1",
-"publisher": "Authorea, Inc.",
+"id": "10.1111/ele.13774",
 "title": "Combining Range and Phenology Shifts Offers a Winning Strategy for Boreal Lepidoptera",
 "type": "article-journal",
+"containerTitle": "Ecology Letters",
 "year": 2021,
-"month": "January",
+"month": "April",
 "dateAdded": "2021-01-12"
 }, {
 "doi": "10.3897/rio.7.e61664",
