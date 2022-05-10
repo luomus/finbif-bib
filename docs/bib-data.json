@@ -1,4 +1,51 @@
 [{
+"doi": "10.1016/j.gecco.2022.e02144",
+"url": "https://doi.org/10.1016%2Fj.gecco.2022.e02144",
+"author": [{
+"family": "Holopainen",
+"given": "Sari"
+}, {
+"family": "Čehovská",
+"given": "Markéta"
+}, {
+"family": "Jaatinen",
+"given": "Kim"
+}, {
+"family": "Laaksonen",
+"given": "Toni"
+}, {
+"family": "Lindén",
+"given": "Andreas"
+}, {
+"family": "Nummi",
+"given": "Petri"
+}, {
+"family": "Piha",
+"given": "Markus"
+}, {
+"family": "Pöysä",
+"given": "Hannu"
+}, {
+"family": "Toivanen",
+"given": "Tero"
+}, {
+"family": "Väänänen",
+"given": "Veli-Matti"
+}, {
+"family": "Lehikoinen",
+"given": "Aleksi"
+}],
+"containerTitle": "Global Ecology and Conservation",
+"id": "10.1016/j.gecco.2022.e02144",
+"page": "e02144",
+"publisher": "Elsevier BV",
+"title": "a Rapid Increase of Large-Sized Waterfowl Does not Explain the Population Declines of Small-Sized Waterbird at their Breeding Sites",
+"type": "article-journal",
+"volume": "36",
+"year": 2022,
+"month": "August",
+"dateAdded": "2022-05-10"
+}, {
 "doi": "10.1007/s11104-022-05450-0",
 "url": "https://doi.org/10.1007%2Fs11104-022-05450-0",
 "author": [{
