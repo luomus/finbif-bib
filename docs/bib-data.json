@@ -46,6 +46,38 @@
 "month": "August",
 "dateAdded": "2022-05-10"
 }, {
+"doi": "10.1016/j.jnc.2022.126194",
+"url": "https://doi.org/10.1016%2Fj.jnc.2022.126194",
+"author": [{
+"family": "Kalliolevo",
+"given": "Hanna"
+}, {
+"family": "Salo",
+"given": "Matti"
+}, {
+"family": "Hiedanpää",
+"given": "Juha"
+}, {
+"family": "Jounela",
+"given": "Pekka"
+}, {
+"family": "Saario",
+"given": "Tapio"
+}, {
+"family": "Vuorisalo",
+"given": "Timo"
+}],
+"containerTitle": "Journal for Nature Conservation",
+"id": "10.1016/j.jnc.2022.126194",
+"page": "126194",
+"publisher": "Elsevier BV",
+"title": "Considerable Qualitative Variability in Local-Level Biodiversity Surveys in Finland: a Challenge for Biodiversity Offsetting",
+"titleShort": "Considerable qualitative variability in local-level biodiversity surveys in finland",
+"type": "article-journal",
+"year": 2022,
+"month": "May",
+"dateAdded": "2022-05-12"
+}, {
 "doi": "10.1007/s11104-022-05450-0",
 "url": "https://doi.org/10.1007%2Fs11104-022-05450-0",
 "author": [{
