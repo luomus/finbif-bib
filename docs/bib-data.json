@@ -2725,28 +2725,4 @@
 "volume": "26",
 "year": 2019,
 "dateAdded": "2020-01-11"
-}, {
-"doi": "10.1093/biosci/biw022",
-"url": "https://doi.org/10.1093%2Fbiosci%2Fbiw022",
-"author": [{
-"family": "Amano",
-"given": "Tatsuya"
-}, {
-"family": "Lamming",
-"given": "James D. L."
-}, {
-"family": "Sutherland",
-"given": "William J."
-}],
-"containerTitle": "BioScience",
-"id": "10.1093/biosci/biw022",
-"issue": "5",
-"page": "393-400",
-"publisher": "Oxford University Press (OUP)",
-"title": "Spatial Gaps in Global Biodiversity Information and the Role of  citizen Science",
-"type": "article-journal",
-"volume": "66",
-"year": 2016,
-"month": "March",
-"dateAdded": "2022-05-21"
 }]
