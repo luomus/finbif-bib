@@ -135,6 +135,29 @@
 "month": "June",
 "dateAdded": "2022-06-07"
 }, {
+"doi": "10.1038/s41598-022-13378-9",
+"url": "https://doi.org/10.1038%2Fs41598-022-13378-9",
+"author": [{
+"family": "Stefanaki",
+"given": "Anastasia"
+}, {
+"family": "Walter",
+"given": "Tilmann"
+}, {
+"family": "van Andel",
+"given": "Tinde"
+}],
+"containerTitle": "Scientific Reports",
+"id": "10.1038/s41598-022-13378-9",
+"issue": "1",
+"publisher": "Springer Science; Business Media LLC",
+"title": "Tracing the Introduction History of the Tulip that Went Wild (Tulipa Sylvestris) in Sixteenth-Century Europe",
+"type": "article-journal",
+"volume": "12",
+"year": 2022,
+"month": "June",
+"dateAdded": "2022-06-19"
+}, {
 "doi": "10.1016/j.jnc.2022.126194",
 "url": "https://doi.org/10.1016%2Fj.jnc.2022.126194",
 "author": [{
