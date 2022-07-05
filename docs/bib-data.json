@@ -158,6 +158,33 @@
 "month": "June",
 "dateAdded": "2022-06-19"
 }, {
+"doi": "10.1038/s41598-022-14938-9",
+"url": "https://doi.org/10.1038%2Fs41598-022-14938-9",
+"author": [{
+"family": "Lim",
+"given": "Kayun"
+}, {
+"family": "Lee",
+"given": "Seunghyun"
+}, {
+"family": "Orr",
+"given": "Michael"
+}, {
+"family": "Lee",
+"given": "Seunghwan"
+}],
+"containerTitle": "Scientific Reports",
+"id": "10.1038/s41598-022-14938-9",
+"issue": "1",
+"publisher": "Springer Science; Business Media LLC",
+"title": "Harrison’s Rule Corroborated for the Body Size of Cleptoparasitic Cuckoo Bees (Hymenoptera: Apidae: Nomadinae) and their Hosts",
+"titleShort": "Harrison’s rule corroborated for the body size of cleptoparasitic cuckoo bees (hymenoptera",
+"type": "article-journal",
+"volume": "12",
+"year": 2022,
+"month": "June",
+"dateAdded": "2022-07-05"
+}, {
 "doi": "10.1016/j.jnc.2022.126194",
 "url": "https://doi.org/10.1016%2Fj.jnc.2022.126194",
 "author": [{
