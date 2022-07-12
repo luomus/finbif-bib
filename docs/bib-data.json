@@ -46,6 +46,38 @@
 "month": "August",
 "dateAdded": "2022-05-10"
 }, {
+"doi": "10.1038/s41598-022-15949-2",
+"url": "https://doi.org/10.1038%2Fs41598-022-15949-2",
+"author": [{
+"family": "Santangeli",
+"given": "Andrea"
+}, {
+"family": "Mammola",
+"given": "Stefano"
+}, {
+"family": "Lehikoinen",
+"given": "Aleksi"
+}, {
+"family": "Rajasärkkä",
+"given": "Ari"
+}, {
+"family": "Lindén",
+"given": "Andreas"
+}, {
+"family": "Saastamoinen",
+"given": "Marjo"
+}],
+"containerTitle": "Scientific Reports",
+"id": "10.1038/s41598-022-15949-2",
+"issue": "1",
+"publisher": "Springer Science; Business Media LLC",
+"title": "The Effects of Protected Areas on the Ecological Niches of Birds and Mammals",
+"type": "article-journal",
+"volume": "12",
+"year": 2022,
+"month": "July",
+"dateAdded": "2022-07-12"
+}, {
 "doi": "10.1038/s41558-022-01381-x",
 "url": "https://doi.org/10.1038%2Fs41558-022-01381-x",
 "author": [{
