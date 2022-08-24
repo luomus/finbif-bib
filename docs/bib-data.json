@@ -46,6 +46,30 @@
 "month": "August",
 "dateAdded": "2022-05-10"
 }, {
+"doi": "10.1111/ele.14085",
+"url": "https://doi.org/10.1111%2Fele.14085",
+"author": [{
+"family": "Ittonen",
+"given": "Mats"
+}, {
+"family": "Hagelin",
+"given": "Alexandra"
+}, {
+"family": "Wiklund",
+"given": "Christer"
+}, {
+"family": "Gotthard",
+"given": "Karl"
+}],
+"containerTitle": "Ecology Letters",
+"id": "10.1111/ele.14085",
+"publisher": "Wiley",
+"title": "Local Adaptation to Seasonal Cues at the Fronts of Two Parallel, Climate-Induced Butterfly Range Expansions",
+"type": "article-journal",
+"year": 2022,
+"month": "August",
+"dateAdded": "2022-08-24"
+}, {
 "doi": "10.1038/s41598-022-15949-2",
 "url": "https://doi.org/10.1038%2Fs41598-022-15949-2",
 "author": [{
@@ -659,6 +683,66 @@
 "year": 2021,
 "month": "December",
 "dateAdded": "2021-12-30"
+}, {
+"doi": "10.1079/dfb/20210407800",
+"url": "https://doi.org/10.1079%2Fdfb%2F20210407800",
+"author": [{
+"family": "Cannon",
+"given": "P. F."
+}, {
+"family": "Minter",
+"given": "D. W."
+}],
+"containerTitle": "Descriptions of Fungi and Bacteria",
+"id": "10.1079/dfb/20210407800",
+"page": "2279",
+"publisher": "CABI Publishing",
+"title": "\\lessi\\greaterknufia Peltigerae\\less/I\\greater . [descriptions of Fungi and Bacteria].",
+"type": "article-journal",
+"volume": "228",
+"year": 2021,
+"month": "December",
+"dateAdded": "2022-08-24"
+}, {
+"doi": "10.1079/dfb/20210391610",
+"url": "https://doi.org/10.1079%2Fdfb%2F20210391610",
+"author": [{
+"family": "Minter",
+"given": "D. W."
+}, {
+"family": "Cannon",
+"given": "P. F."
+}],
+"containerTitle": "Descriptions of Fungi and Bacteria",
+"id": "10.1079/dfb/20210391610",
+"page": "2265",
+"publisher": "CABI Publishing",
+"title": "\\lessi\\greatermyriospora Scabrida\\less/I\\greater . [descriptions of Fungi and Bacteria].",
+"type": "article-journal",
+"volume": "227",
+"year": 2021,
+"month": "December",
+"dateAdded": "2022-08-24"
+}, {
+"doi": "10.1079/dfb/20210391613",
+"url": "https://doi.org/10.1079%2Fdfb%2F20210391613",
+"author": [{
+"family": "Minter",
+"given": "D. W."
+}, {
+"family": "Cannon",
+"given": "P. F."
+}],
+"containerTitle": "Descriptions of Fungi and Bacteria",
+"id": "10.1079/dfb/20210391613",
+"page": "2268",
+"publisher": "CABI Publishing",
+"title": "\\lessi\\greaterstereocaulon Dactylophyllum\\less/I\\greater . [descriptions of Fungi and Bacteria].",
+"type": "article-journal",
+"volume": "227",
+"year": 2021,
+"month": "December",
+"dateAdded": "2022-08-24"
 }, {
 "doi": "10.1016/j.landurbplan.2021.104222",
 "url": "https://doi.org/10.1016%2Fj.landurbplan.2021.104222",
@@ -1898,6 +1982,23 @@
 "year": 2020,
 "month": "December",
 "dateAdded": "2020-12-31"
+}, {
+"doi": "10.1079/dfb/20210012870",
+"url": "https://doi.org/10.1079%2Fdfb%2F20210012870",
+"author": [{
+"family": "Minter",
+"given": "D. W."
+}],
+"containerTitle": "Descriptions of Fungi and Bacteria",
+"id": "10.1079/dfb/20210012870",
+"page": "2253",
+"publisher": "CABI Publishing",
+"title": "\\lessi\\greatercalycina Herbarum\\less/I\\greater . [descriptions of Fungi and Bacteria].",
+"type": "article-journal",
+"volume": "226",
+"year": 2020,
+"month": "December",
+"dateAdded": "2022-08-24"
 }, {
 "url": "http://nhm2.uio.no/botanisk/lav/Graphis/32_5/GS_32_86.pdf",
 "author": [{
