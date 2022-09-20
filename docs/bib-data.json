@@ -1,4 +1,22 @@
 [{
+"doi": "10.5817/cpr2022-1-9",
+"url": "https://doi.org/10.5817%2Fcpr2022-1-9",
+"author": [{
+"family": "Rudkovskaya",
+"given": "Оksana"
+}],
+"containerTitle": "Czech Polar Reports",
+"id": "10.5817/cpr2022-1-9",
+"issue": "1",
+"page": "115-130",
+"publisher": "Masaryk University Press",
+"title": "New Records of Alien Plant Species Rare in the Russian Arctic (Murmansk Region, NW Russia)",
+"type": "article-journal",
+"volume": "12",
+"year": 2022,
+"month": "September",
+"dateAdded": "2022-09-20"
+}, {
 "doi": "10.1016/j.gecco.2022.e02144",
 "url": "https://doi.org/10.1016%2Fj.gecco.2022.e02144",
 "author": [{
@@ -3051,7 +3069,8 @@
 "issue": "5",
 "page": "393-400",
 "publisher": "Oxford University Press (OUP)",
-"title": "Spatial Gaps in Global Biodiversity Information and the Role of  citizen Science",
+"title": "Spatial Gaps in Global Biodiversity Information and the Role of
+citizen Science",
 "type": "article-journal",
 "volume": "66",
 "year": 2016,
