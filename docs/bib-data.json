@@ -1,4 +1,37 @@
 [{
+"doi": "10.1111/1365-2664.14297",
+"url": "https://doi.org/10.1111%2F1365-2664.14297",
+"author": [{
+"family": "Heim",
+"given": "Wieland"
+}, {
+"family": "Piironen",
+"given": "Antti"
+}, {
+"family": "Heim",
+"given": "Ramona Julia"
+}, {
+"family": "Piha",
+"given": "Markus"
+}, {
+"family": "Seimola",
+"given": "Tuomas"
+}, {
+"family": "Forsman",
+"given": "Jukka T."
+}, {
+"family": "Laaksonen",
+"given": "Toni"
+}],
+"containerTitle": "Journal of Applied Ecology",
+"id": "10.1111/1365-2664.14297",
+"publisher": "Wiley",
+"title": "Effects of Multiple Targeted Repelling Measures on the Behaviour of Individually Tracked Birds in an Area of Increasing Human–Wildlife Conflict",
+"type": "article-journal",
+"year": 2022,
+"month": "October",
+"dateAdded": "2022-10-04"
+}, {
 "doi": "10.5817/cpr2022-1-9",
 "url": "https://doi.org/10.5817%2Fcpr2022-1-9",
 "author": [{
