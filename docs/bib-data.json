@@ -32,6 +32,39 @@
 "month": "October",
 "dateAdded": "2022-10-04"
 }, {
+"doi": "10.1111/avsc.12690",
+"url": "https://doi.org/10.1111%2Favsc.12690",
+"author": [{
+"family": "Tonteri",
+"given": "Tiina"
+}, {
+"family": "Hallikainen",
+"given": "Ville"
+}, {
+"family": "Merilä",
+"given": "Päivi"
+}, {
+"family": "Miina",
+"given": "Jari"
+}, {
+"family": "Rautio",
+"given": "Pasi"
+}, {
+"family": "Salemaa",
+"given": "Maija"
+}, {
+"family": "Tolvanen",
+"given": "Anne"
+}],
+"containerTitle": "Applied Vegetation Science",
+"id": "10.1111/avsc.12690",
+"publisher": "Wiley",
+"title": "Response of Ground Macrolichens to Site Factors, Co-Existing Plants and Forestry in Boreal Forests",
+"type": "article-journal",
+"year": 2022,
+"month": "October",
+"dateAdded": "2022-10-13"
+}, {
 "doi": "10.5817/cpr2022-1-9",
 "url": "https://doi.org/10.5817%2Fcpr2022-1-9",
 "author": [{
