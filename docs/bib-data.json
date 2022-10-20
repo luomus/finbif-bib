@@ -65,6 +65,31 @@
 "month": "October",
 "dateAdded": "2022-10-13"
 }, {
+"doi": "10.1007/s10841-022-00436-w",
+"url": "https://doi.org/10.1007%2Fs10841-022-00436-w",
+"author": [{
+"family": "Toikkanen",
+"given": "Jenni"
+}, {
+"family": "Halme",
+"given": "Panu"
+}, {
+"family": "Kahanpää",
+"given": "Jere"
+}, {
+"family": "Toivonen",
+"given": "Marjaana"
+}],
+"containerTitle": "Journal of Insect Conservation",
+"id": "10.1007/s10841-022-00436-w",
+"publisher": "Springer Science; Business Media LLC",
+"title": "Effects of Landscape Composition on Hoverflies (Diptera: Syrphidae) in Mass-Flowering Crop Fields Within Forest-Dominated Landscapes",
+"titleShort": "Effects of landscape composition on hoverflies (diptera",
+"type": "article-journal",
+"year": 2022,
+"month": "October",
+"dateAdded": "2022-10-20"
+}, {
 "doi": "10.5817/cpr2022-1-9",
 "url": "https://doi.org/10.5817%2Fcpr2022-1-9",
 "author": [{
@@ -2881,6 +2906,23 @@
 "year": 2020,
 "month": "February",
 "dateAdded": "2020-12-31"
+}, {
+"url": "https://journal.fi/msff/article/view/122353",
+"author": [{
+"family": "Roslin",
+"given": "Tomas"
+}, {
+"family": "Laine",
+"given": "Anna-Liisa"
+}],
+"containerTitle": "Memoranda Societatis pro Fauna et Flora Fennica",
+"id": "Roslin2022",
+"page": "40-53",
+"title": "The Changing Fauna and Flora of Finland – Discovering the Bigger Picture Through Long-term Data",
+"type": "articale-journal",
+"volume": "98",
+"year": 2020,
+"dateAdded": "2020-20-10"
 }, {
 "url": "https://koivu.luomus.fi/sahlbergia/2020/sahlbergia-26-Paappanen.pdf",
 "author": [{
