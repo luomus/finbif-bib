@@ -767,6 +767,20 @@
 "month": "January",
 "dateAdded": "2022-01-11"
 }, {
+"url": "https://journal.fi/msff/article/view/122940",
+"author": [{
+"family": "Komonen",
+"given": "Atte"
+}],
+"containerTitle": "Memoranda Societatis pro Fauna et Flora Fennica",
+"id": "Komonen2022",
+"page": "80-86",
+"title": "Biology of the Parasitic Wasp Nest Beetle, Metoecus paradoxus (Coleoptera: Ripiphoridae), in Finland",
+"type": "articale-journal",
+"volume": "98",
+"year": 2022,
+"dateAdded": "2022-11-15"
+}, {
 "url": "https://luomus.fi/sites/default/files/files/sahlbergia_28_1_2022.pdf#page=17",
 "author": [{
 "family": "Salokannel",
@@ -793,6 +807,23 @@
 "issue": "1",
 "year": 2022,
 "dateAdded": "2022-10-25"
+}, {
+"url": "https://journal.fi/msff/article/view/122353",
+"author": [{
+"family": "Roslin",
+"given": "Tomas"
+}, {
+"family": "Laine",
+"given": "Anna-Liisa"
+}],
+"containerTitle": "Memoranda Societatis pro Fauna et Flora Fennica",
+"id": "Roslin2022",
+"page": "40-53",
+"title": "The Changing Fauna and Flora of Finland – Discovering the Bigger Picture Through Long-term Data",
+"type": "articale-journal",
+"volume": "98",
+"year": 2022,
+"dateAdded": "2022-10-20"
 }, {
 "url": "https://www.entomologai.lt/leidiniai/category/55-volume-5-33-2021?download=383:bles-vol533-p096-099-lazauskaite-etal-megachile-andrena",
 "author": [{
@@ -2933,23 +2964,6 @@
 "year": 2020,
 "month": "February",
 "dateAdded": "2020-12-31"
-}, {
-"url": "https://journal.fi/msff/article/view/122353",
-"author": [{
-"family": "Roslin",
-"given": "Tomas"
-}, {
-"family": "Laine",
-"given": "Anna-Liisa"
-}],
-"containerTitle": "Memoranda Societatis pro Fauna et Flora Fennica",
-"id": "Roslin2022",
-"page": "40-53",
-"title": "The Changing Fauna and Flora of Finland – Discovering the Bigger Picture Through Long-term Data",
-"type": "articale-journal",
-"volume": "98",
-"year": 2020,
-"dateAdded": "2020-20-10"
 }, {
 "url": "https://koivu.luomus.fi/sahlbergia/2020/sahlbergia-26-Paappanen.pdf",
 "author": [{
