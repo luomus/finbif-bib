@@ -1,4 +1,36 @@
 [{
+"doi": "10.24193/entomolrom.26.6",
+"url": "https://doi.org/10.24193%2Fentomolrom.26.6",
+"author": [{
+"family": "Pop",
+"given": "Florin Mihai"
+}, {
+"family": "Ștefan-Fotin",
+"given": "Alexandru Aurel"
+}, {
+"family": "Petrescu",
+"given": "Eugenia"
+}, {
+"family": "Zachi",
+"given": "Mihai"
+}, {
+"family": "Negrea",
+"given": "Elena-Gabriela"
+}, {
+"family": "Lupu",
+"given": "Tudor"
+}],
+"containerTitle": "Entomologica Romanica",
+"id": "10.24193/entomolrom.26.6",
+"page": "133-135",
+"publisher": "Babes-Bolyai University",
+"title": "First Record of Scythris sinensis (Felder &amp; Rogenhofer, 1875) (Lepidoptera, Scythrididae) in Romania",
+"type": "article-journal",
+"volume": "26",
+"year": 2022,
+"month": "November",
+"dateAdded": "2022-11-21"
+}, {
 "doi": "10.1111/1365-2664.14297",
 "url": "https://doi.org/10.1111%2F1365-2664.14297",
 "author": [{
