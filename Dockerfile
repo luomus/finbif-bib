@@ -2,6 +2,7 @@ FROM ubuntu:22.04
 
 RUN  echo 'APT::Install-Recommends "false";' > /etc/apt/apt.conf.d/90local-no-recommends
 
+ENV DEBIAN_FRONTEND=noninteractive
 ENV TZ=Etc/UTC
 
 RUN  apt-get update \
