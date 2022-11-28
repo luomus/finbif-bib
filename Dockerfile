@@ -2,6 +2,8 @@ FROM ubuntu:22.04
 
 RUN  echo 'APT::Install-Recommends "false";' > /etc/apt/apt.conf.d/90local-no-recommends
 
+ENV TZ=Etc/UTC
+
 RUN  apt-get update \
   && apt-get install -y \
        curl \
