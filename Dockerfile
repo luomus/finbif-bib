@@ -1,4 +1,4 @@
-FROM bitnami/minideb:unstable
+FROM ubuntu:22.04
 
 RUN  echo 'APT::Install-Recommends "false";' > /etc/apt/apt.conf.d/90local-no-recommends
 
