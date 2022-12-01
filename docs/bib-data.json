@@ -31,6 +31,28 @@
 "month": "November",
 "dateAdded": "2022-11-21"
 }, {
+"doi": "10.1016/j.seares.2022.102312",
+"url": "https://doi.org/10.1016%2Fj.seares.2022.102312",
+"author": [{
+"family": "Blanc",
+"given": "Jean-Francois"
+}, {
+"family": "Rinne",
+"given": "Henna"
+}, {
+"family": "Salovius-Laurén",
+"given": "Sonja"
+}],
+"containerTitle": "Journal of Sea Research",
+"id": "10.1016/j.seares.2022.102312",
+"page": "102312",
+"publisher": "Elsevier BV",
+"title": "Relationship Between Fucus Coverage and Algal Diversity in the Northern Baltic Sea",
+"type": "article-journal",
+"year": 2022,
+"month": "November",
+"dateAdded": "2022-12-01"
+}, {
 "doi": "10.1111/1365-2664.14297",
 "url": "https://doi.org/10.1111%2F1365-2664.14297",
 "author": [{
