@@ -53,6 +53,27 @@
 "month": "November",
 "dateAdded": "2022-12-01"
 }, {
+"doi": "10.1111/2041-210x.14009",
+"url": "https://doi.org/10.1111%2F2041-210x.14009",
+"author": [{
+"family": "Zito",
+"given": "Alessandro"
+}, {
+"family": "Rigon",
+"given": "Tommaso"
+}, {
+"family": "Dunson",
+"given": "David B."
+}],
+"containerTitle": "Methods in Ecology and Evolution",
+"id": "10.1111/2041-210x.14009",
+"publisher": "Wiley",
+"title": "Inferring Taxonomic Placement from \\lessscp\\greaterdna\\less/Scp\\greater Barcoding Aiding in Discovery of New Taxa",
+"type": "article-journal",
+"year": 2022,
+"month": "November",
+"dateAdded": "2022-12-05"
+}, {
 "doi": "10.1111/1365-2664.14297",
 "url": "https://doi.org/10.1111%2F1365-2664.14297",
 "author": [{
