@@ -1,4 +1,32 @@
 [{
+"doi": "10.1016/j.gecco.2022.e02348",
+"url": "https://doi.org/10.1016%2Fj.gecco.2022.e02348",
+"author": [{
+"family": "Määttänen",
+"given": "Aino-Maija"
+}, {
+"family": "Virkkala",
+"given": "Raimo"
+}, {
+"family": "Leikola",
+"given": "Niko"
+}, {
+"family": "Aalto",
+"given": "Juha"
+}, {
+"family": "Heikkinen",
+"given": "Risto K."
+}],
+"containerTitle": "Global Ecology and Conservation",
+"id": "10.1016/j.gecco.2022.e02348",
+"page": "e02348",
+"publisher": "Elsevier BV",
+"title": "Combined Threats of Climate Change and Land Use to Boreal Protected Areas with Red-Listed Forest Species in Finland",
+"type": "article-journal",
+"year": 2022,
+"month": "December",
+"dateAdded": "2022-12-05"
+}, {
 "doi": "10.24193/entomolrom.26.6",
 "url": "https://doi.org/10.24193%2Fentomolrom.26.6",
 "author": [{
@@ -257,8 +285,8 @@
 "doi": "10.15298/euroasentj.21.3.02",
 "url": "https://doi.org/10.15298/euroasentj.21.3.02",
 "author": [{
-"family": "Thomas",
-"given": "Brockhaus"
+"family": "Brockhaus",
+"given": "Thomas"
 }],
 "containerTitle": "Euroasian Entomological Journal",
 "id": "10.15298/euroasentj.21.3.02",
@@ -324,7 +352,8 @@
 "family": "Dallas",
 "given": "Tad"
 }, {
-"family": "Øystein H. Opedal"
+"family": "Opedal",
+"given": "Øystein H."
 }, {
 "family": "Heliölä",
 "given": "Janne"
@@ -443,7 +472,7 @@
 "dateAdded": "2022-07-05"
 }, {
 "doi": "10.24057/2071-9388-2022-013",
-"url": "https://doi.org/10.24057%2F2071-9388-2022-013",
+"url": "https://doi.org/10.24057/2071-9388-2022-013",
 "author": [{
 "family": "Iurmanov",
 "given": "Anton A."
@@ -451,8 +480,8 @@
 "family": "Romanov",
 "given": "Mikhail S."
 }, {
-"family": "Marika",
-"given": "Gerb A."
+"family": "Gerb",
+"given": "Marika A."
 }, {
 "family": "Volodina",
 "given": "Alexandra A."
@@ -466,7 +495,7 @@
 "family": "Markovets",
 "given": "Mikhail Yu."
 }],
-"containerTitle": "GEOGRAPHY, ENVIRONMENT, SUSTAINABILITY",
+"containerTitle": "Geography, Environent, Sustainability",
 "id": "10.24057/2071-9388-2022-013",
 "issue": "2",
 "page": "111-115",
@@ -543,7 +572,7 @@
 "doi": "10.1080/02827581.2022.2060303",
 "url": "https://doi.org/10.1080%2F02827581.2022.2060303",
 "author": [{
-"family": "Dı́az",
+"family": "Díaz",
 "given": "John Alexander Pulgarin"
 }, {
 "family": "Melin",
@@ -3215,28 +3244,4 @@
 "volume": "26",
 "year": 2019,
 "dateAdded": "2020-01-11"
-}, {
-"doi": "10.1093/biosci/biw022",
-"url": "https://doi.org/10.1093%2Fbiosci%2Fbiw022",
-"author": [{
-"family": "Amano",
-"given": "Tatsuya"
-}, {
-"family": "Lamming",
-"given": "James D. L."
-}, {
-"family": "Sutherland",
-"given": "William J."
-}],
-"containerTitle": "BioScience",
-"id": "10.1093/biosci/biw022",
-"issue": "5",
-"page": "393-400",
-"publisher": "Oxford University Press (OUP)",
-"title": "Spatial Gaps in Global Biodiversity Information and the Role of citizen Science",
-"type": "article-journal",
-"volume": "66",
-"year": 2016,
-"month": "March",
-"dateAdded": "2022-05-25"
 }]
