@@ -1,4 +1,59 @@
 [{
+"doi": "10.1016/j.biocon.2022.109851",
+"url": "https://doi.org/10.1016%2Fj.biocon.2022.109851",
+"author": [{
+"family": "Balotari-Chiebao",
+"given": "Fabio"
+}, {
+"family": "Santangeli",
+"given": "Andrea"
+}, {
+"family": "Piirainen",
+"given": "Sirke"
+}, {
+"family": "Byholm",
+"given": "Patrik"
+}],
+"containerTitle": "Biological Conservation",
+"id": "10.1016/j.biocon.2022.109851",
+"page": "109851",
+"publisher": "Elsevier BV",
+"title": "Wind Energy Expansion and Birds: Identifying Priority Areas for Impact Avoidance at a National Level",
+"titleShort": "Wind energy expansion and birds",
+"type": "article-journal",
+"volume": "277",
+"year": 2023,
+"month": "January",
+"dateAdded": "2023-01-11"
+}, {
+"doi": "10.3897/bdj.10.e96879",
+"url": "https://doi.org/10.3897%2Fbdj.10.e96879",
+"author": [{
+"family": "Moysiyenko",
+"given": "Ivan"
+}, {
+"family": "Sudnik-Wójcikowska",
+"given": "Barbara"
+}, {
+"family": "Dembicz",
+"given": "Iwona"
+}, {
+"family": "Zachwatowicz",
+"given": "Maria"
+}, {
+"family": "Skobel",
+"given": "Nadiia"
+}],
+"containerTitle": "Biodiversity Data Journal",
+"id": "10.3897/bdj.10.e96879",
+"publisher": "Pensoft Publishers",
+"title": "The First Dataset of Vascular Plant Species Occurrences on Kurgans in Southern Ukraine",
+"type": "article-journal",
+"volume": "10",
+"year": 2023,
+"month": "January",
+"dateAdded": "2023-01-11"
+}, {
 "doi": "10.1016/j.gecco.2022.e02348",
 "url": "https://doi.org/10.1016%2Fj.gecco.2022.e02348",
 "author": [{
@@ -26,6 +81,44 @@
 "year": 2022,
 "month": "December",
 "dateAdded": "2022-12-05"
+}, {
+"doi": "10.18476/2022.577933",
+"url": "https://doi.org/10.18476%2F2022.577933",
+"author": [{
+"family": "Rajaei",
+"given": "Hossein"
+}, {
+"family": "Hausmann",
+"given": "Axel"
+}, {
+"family": "Scoble",
+"given": "Malcolm"
+}, {
+"family": "Wanke",
+"given": "Dominic"
+}, {
+"family": "Plotkin",
+"given": "David"
+}, {
+"family": "Brehm",
+"given": "Gunnar"
+}, {
+"family": "Murillo-Ramos",
+"given": "Leidys"
+}, {
+"family": "Sihvonen",
+"given": "Pasi"
+}],
+"containerTitle": "Integrative Systematics: Stuttgart Contributions to Natural History",
+"id": "10.18476/2022.577933",
+"issue": "2",
+"publisher": "Stuttgart State Museum of Natural History",
+"title": "An Online Taxonomic Facility of Geometridae (Lepidoptera), with an Overview of Global Species Richness and Systematics",
+"type": "article-journal",
+"volume": "5",
+"year": 2022,
+"month": "December",
+"dateAdded": "2023-01-11"
 }, {
 "doi": "10.24193/entomolrom.26.6",
 "url": "https://doi.org/10.24193%2Fentomolrom.26.6",
@@ -101,6 +194,27 @@
 "year": 2022,
 "month": "November",
 "dateAdded": "2022-12-05"
+}, {
+"doi": "10.1088/1755-1315/1101/2/022005",
+"url": "https://doi.org/10.1088%2F1755-1315%2F1101%2F2%2F022005",
+"author": [{
+"family": "Kinnunen",
+"given": "Antti"
+}, {
+"family": "Lampinen",
+"given": "Jussi"
+}],
+"containerTitle": "IOP Conference Series: Earth and Environmental Science",
+"id": "10.1088/1755-1315/1101/2/022005",
+"issue": "2",
+"page": "022005",
+"publisher": "IOP Publishing",
+"title": "Urban Biodiversity and Carbon Sinks–Do They Overlap? Case Study of Helsinki Metropolitan Area, Finland",
+"type": "article-journal",
+"volume": "1101",
+"year": 2022,
+"month": "November",
+"dateAdded": "2023-01-11"
 }, {
 "doi": "10.1111/1365-2664.14297",
 "url": "https://doi.org/10.1111%2F1365-2664.14297",

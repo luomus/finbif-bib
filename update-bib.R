@@ -82,7 +82,8 @@ get_bib <- function(x) {
   if (is.na(x)) return(NA)
   Sys.sleep(1L)
   x <- httr::RETRY(
-    "GET", "https://www.doi2bib.org/8350e5a3e24c153df2275c9f80692773/doi2bib", query = list(id = x)
+    "GET", "https://www.doi2bib.org/8350e5a3e24c153df2275c9f80692773/doi2bib",
+    query = list(id = x)
   )
   x <- httr::content(x, type = "text", encoding = "UTF-8")
   x <- gsub("\\{\\\\textendash\\}", " – ", x)
