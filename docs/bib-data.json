@@ -54,6 +54,36 @@
 "month": "January",
 "dateAdded": "2023-01-11"
 }, {
+"doi": "10.1002/pan3.10444",
+"url": "https://doi.org/10.1002%2Fpan3.10444",
+"author": [{
+"family": "Virtanen",
+"given": "Elina A."
+}, {
+"family": "Kallio",
+"given": "Niko"
+}, {
+"family": "Nurmi",
+"given": "Marco"
+}, {
+"family": "Jernberg",
+"given": "Susanna"
+}, {
+"family": "Saikkonen",
+"given": "Liisa"
+}, {
+"family": "Forsblom",
+"given": "Louise"
+}],
+"containerTitle": "People and Nature",
+"id": "10.1002/pan3.10444",
+"publisher": "Wiley",
+"title": "Recreational Land Use Contributes to the Loss of Marine Biodiversity",
+"type": "article-journal",
+"year": 2023,
+"month": "January",
+"dateAdded": "2023-02-06"
+}, {
 "doi": "10.1016/j.gecco.2022.e02348",
 "url": "https://doi.org/10.1016%2Fj.gecco.2022.e02348",
 "author": [{
