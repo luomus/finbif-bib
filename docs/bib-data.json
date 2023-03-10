@@ -1,4 +1,30 @@
 [{
+"doi": "10.1038/s41598-023-30377-6",
+"url": "https://doi.org/10.1038%2Fs41598-023-30377-6",
+"author": [{
+"family": "Karrer",
+"given": "Gerhard"
+}, {
+"family": "Hall",
+"given": "Rea Maria"
+}, {
+"family": "Corre",
+"given": "Valérie Le"
+}, {
+"family": "Kropf",
+"given": "Matthias"
+}],
+"containerTitle": "Scientific Reports",
+"id": "10.1038/s41598-023-30377-6",
+"issue": "1",
+"publisher": "Springer Science; Business Media LLC",
+"title": "Genetic Structuring and Invasion Status of the Perennial Ambrosia psilostachya (Asteraceae) in Europe",
+"type": "article-journal",
+"volume": "13",
+"year": 2023,
+"month": "March",
+"dateAdded": "2023-03-10"
+}, {
 "doi": "10.1016/j.biocon.2022.109851",
 "url": "https://doi.org/10.1016%2Fj.biocon.2022.109851",
 "author": [{
