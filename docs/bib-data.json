@@ -101,6 +101,58 @@
 "month": "March",
 "dateAdded": "2023-03-10"
 }, {
+"doi": "10.3897/alpento.7.98799",
+"url": "https://doi.org/10.3897%2Falpento.7.98799",
+"author": [{
+"family": "Chittaro",
+"given": "Yannick"
+}, {
+"family": "Sanchez",
+"given": "Andreas"
+}, {
+"family": "Szallies",
+"given": "Alexander"
+}, {
+"family": "Gossner",
+"given": "Martin M."
+}, {
+"family": "Lachat",
+"given": "Thibault"
+}],
+"containerTitle": "Alpine Entomology",
+"id": "10.3897/alpento.7.98799",
+"page": "1-11",
+"publisher": "Pensoft Publishers",
+"title": "On the Occurrence of Relict Populations of Pytho Abieticola J. R. Sahlberg, 1875 in Switzerland (Coleoptera, Pythidae)",
+"type": "article-journal",
+"volume": "7",
+"year": 2023,
+"month": "March",
+"dateAdded": "2023-03-13"
+}, {
+"doi": "10.3897/mycokeys.96.98738",
+"url": "https://doi.org/10.3897%2Fmycokeys.96.98738",
+"author": [{
+"family": "Pykälä",
+"given": "Juha"
+}, {
+"family": "Kantelinen",
+"given": "Annina"
+}, {
+"family": "Myllys",
+"given": "Leena"
+}],
+"containerTitle": "MycoKeys",
+"id": "10.3897/mycokeys.96.98738",
+"page": "1-23",
+"publisher": "Pensoft Publishers",
+"title": "﻿taxonomy of Thelidium Auruntii and T. Incavatum Complexes (Lichenized Ascomycota, Verrucariales) in Finland",
+"type": "article-journal",
+"volume": "96",
+"year": 2023,
+"month": "March",
+"dateAdded": "2023-03-13"
+}, {
 "doi": "10.1016/j.biocon.2022.109851",
 "url": "https://doi.org/10.1016%2Fj.biocon.2022.109851",
 "author": [{
