@@ -153,6 +153,45 @@
 "month": "March",
 "dateAdded": "2023-03-13"
 }, {
+"doi": "10.1093/evlett/qrad004",
+"url": "https://doi.org/10.1093%2Fevlett%2Fqrad004",
+"author": [{
+"family": "Hällfors",
+"given": "Maria H"
+}, {
+"family": "Heikkinen",
+"given": "Risto K"
+}, {
+"family": "Kuussaari",
+"given": "Mikko"
+}, {
+"family": "Lehikoinen",
+"given": "Aleksi"
+}, {
+"family": "Luoto",
+"given": "Miska"
+}, {
+"family": "Pöyry",
+"given": "Juha"
+}, {
+"family": "Virkkala",
+"given": "Raimo"
+}, {
+"family": "Saastamoinen",
+"given": "Marjo"
+}, {
+"family": "Kujala",
+"given": "Heini"
+}],
+"containerTitle": "Evolution Letters",
+"id": "10.1093/evlett/qrad004",
+"publisher": "Oxford University Press (OUP)",
+"title": "Recent Range Shifts of Moths, Butterflies, and Birds are Driven by the Breadth of their Climatic Niche",
+"type": "article-journal",
+"year": 2023,
+"month": "March",
+"dateAdded": "2023-03-16"
+}, {
 "doi": "10.1016/j.biocon.2022.109851",
 "url": "https://doi.org/10.1016%2Fj.biocon.2022.109851",
 "author": [{
