@@ -1,4 +1,36 @@
 [{
+"doi": "10.1016/j.jnc.2023.126390",
+"url": "https://doi.org/10.1016%2Fj.jnc.2023.126390",
+"author": [{
+"family": "Heikkinen",
+"given": "Risto K."
+}, {
+"family": "Aapala",
+"given": "Kaisu"
+}, {
+"family": "Määttänen",
+"given": "Aino-Maija"
+}, {
+"family": "Leikola",
+"given": "Niko"
+}, {
+"family": "Kartano",
+"given": "Linda"
+}, {
+"family": "Aalto",
+"given": "Juha"
+}],
+"containerTitle": "Journal for Nature Conservation",
+"id": "10.1016/j.jnc.2023.126390",
+"page": "126390",
+"publisher": "Elsevier BV",
+"title": "Climate Change and Land Use Threats to Species of Aapa Mires, an EU Priority Habitat",
+"type": "article-journal",
+"volume": "73",
+"year": 2023,
+"month": "June",
+"dateAdded": "2023-03-23"
+}, {
 "doi": "10.1038/s41598-023-30377-6",
 "url": "https://doi.org/10.1038%2Fs41598-023-30377-6",
 "author": [{
