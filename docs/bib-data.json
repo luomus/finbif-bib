@@ -224,6 +224,27 @@
 "month": "March",
 "dateAdded": "2023-03-16"
 }, {
+"doi": "10.1016/j.baae.2023.03.003",
+"url": "https://doi.org/10.1016%2Fj.baae.2023.03.003",
+"author": [{
+"family": "Venn",
+"given": "Stephen"
+}, {
+"family": "Teerikangas",
+"given": "Jenny"
+}, {
+"family": "Paukkunen",
+"given": "Juho"
+}],
+"containerTitle": "Basic and Applied Ecology",
+"id": "10.1016/j.baae.2023.03.003",
+"publisher": "Elsevier BV",
+"title": "Bees and Pollination in Grassland Habitats in Helsinki (Finland) are Diverse but Dominated by Polylectic Species",
+"type": "article-journal",
+"year": 2023,
+"month": "March",
+"dateAdded": "2023-03-30"
+}, {
 "doi": "10.1016/j.biocon.2022.109851",
 "url": "https://doi.org/10.1016%2Fj.biocon.2022.109851",
 "author": [{
