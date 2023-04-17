@@ -31,6 +31,45 @@
 "month": "June",
 "dateAdded": "2023-03-23"
 }, {
+"doi": "10.5334/cstp.556",
+"url": "https://doi.org/10.5334%2Fcstp.556",
+"author": [{
+"family": "Lehikoinen",
+"given": "Petteri"
+}, {
+"family": "Rannisto",
+"given": "Meeri"
+}, {
+"family": "Camargo",
+"given": "Ulisses"
+}, {
+"family": "Aintila",
+"given": "Aki"
+}, {
+"family": "Lauha",
+"given": "Patrik"
+}, {
+"family": "Piirainen",
+"given": "Esko"
+}, {
+"family": "Somervuo",
+"given": "Panu"
+}, {
+"family": "Ovaskainen",
+"given": "Otso"
+}],
+"containerTitle": "Citizen Science: Theory and Practice",
+"id": "10.5334/cstp.556",
+"issue": "1",
+"page": "16",
+"publisher": "Ubiquity Press, Ltd.",
+"title": "A Successful Crowdsourcing Approach for Bird Sound Classification",
+"type": "article-journal",
+"volume": "8",
+"year": 2023,
+"month": "April",
+"dateAdded": "2023-04-17"
+}, {
 "doi": "10.1038/s41598-023-30377-6",
 "url": "https://doi.org/10.1038%2Fs41598-023-30377-6",
 "author": [{
