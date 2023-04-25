@@ -70,6 +70,33 @@
 "month": "April",
 "dateAdded": "2023-04-17"
 }, {
+"doi": "10.3390/d15050585",
+"url": "https://doi.org/10.3390%2Fd15050585",
+"author": [{
+"family": "Jauni",
+"given": "Miia"
+}, {
+"family": "Huusela",
+"given": "Erja"
+}, {
+"family": "Urho",
+"given": "Lauri"
+}, {
+"family": "Hyvönen",
+"given": "Terho"
+}],
+"containerTitle": "Diversity",
+"id": "10.3390/d15050585",
+"issue": "5",
+"page": "585",
+"publisher": "MDPI AG",
+"title": "Prioritizing Management of Invasive Alien Species of EU Concern—a Northern Perspective",
+"type": "article-journal",
+"volume": "15",
+"year": 2023,
+"month": "April",
+"dateAdded": "2023-04-25"
+}, {
 "doi": "10.1038/s41598-023-30377-6",
 "url": "https://doi.org/10.1038%2Fs41598-023-30377-6",
 "author": [{
