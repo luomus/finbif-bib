@@ -31,6 +31,33 @@
 "month": "June",
 "dateAdded": "2023-03-23"
 }, {
+"doi": "10.1111/ecog.06397",
+"url": "https://doi.org/10.1111%2Fecog.06397",
+"author": [{
+"family": "Rissanen",
+"given": "Tuuli"
+}, {
+"family": "Niittynen",
+"given": "Pekka"
+}, {
+"family": "Soininen",
+"given": "Janne"
+}, {
+"family": "Virkkala",
+"given": "Anna-Maria"
+}, {
+"family": "Luoto",
+"given": "Miska"
+}],
+"containerTitle": "Ecography",
+"id": "10.1111/ecog.06397",
+"publisher": "Wiley",
+"title": "Plant Trait-Environment Relationships in Tundra are Consistent Across Spatial Scales",
+"type": "article-journal",
+"year": 2023,
+"month": "May",
+"dateAdded": "2023-05-15"
+}, {
 "doi": "10.5334/cstp.556",
 "url": "https://doi.org/10.5334%2Fcstp.556",
 "author": [{
