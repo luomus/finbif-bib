@@ -58,6 +58,36 @@
 "month": "May",
 "dateAdded": "2023-05-15"
 }, {
+"doi": "10.1038/s41597-023-02169-0",
+"url": "https://doi.org/10.1038%2Fs41597-023-02169-0",
+"author": [{
+"family": "Haukka",
+"given": "Anna"
+}, {
+"family": "Lehikoinen",
+"given": "Aleksi"
+}, {
+"family": "Mammola",
+"given": "Stefano"
+}, {
+"family": "Morris",
+"given": "William"
+}, {
+"family": "Santangeli",
+"given": "Andrea"
+}],
+"containerTitle": "Scientific Data",
+"id": "10.1038/s41597-023-02169-0",
+"issue": "1",
+"publisher": "Springer Science; Business Media LLC",
+"title": "The iratebirds Citizen Science Project: a Dataset on Birds’ Visual Aesthetic Attractiveness to Humans",
+"titleShort": "The iratebirds citizen science project",
+"type": "article-journal",
+"volume": "10",
+"year": 2023,
+"month": "May",
+"dateAdded": "2023-05-23"
+}, {
 "doi": "10.5334/cstp.556",
 "url": "https://doi.org/10.5334%2Fcstp.556",
 "author": [{
