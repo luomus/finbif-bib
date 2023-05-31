@@ -1,4 +1,42 @@
 [{
+"doi": "10.1016/j.gecco.2023.e02526",
+"url": "https://doi.org/10.1016%2Fj.gecco.2023.e02526",
+"author": [{
+"family": "Suppula",
+"given": "Meri"
+}, {
+"family": "Hällfors",
+"given": "Maria H."
+}, {
+"family": "Aapala",
+"given": "Kaisu"
+}, {
+"family": "Aalto",
+"given": "Juha"
+}, {
+"family": "Kemppainen",
+"given": "Eija"
+}, {
+"family": "Leikola",
+"given": "Niko"
+}, {
+"family": "Pirinen",
+"given": "Pentti"
+}, {
+"family": "Heikkinen",
+"given": "Risto K."
+}],
+"containerTitle": "Global Ecology and Conservation",
+"id": "10.1016/j.gecco.2023.e02526",
+"page": "e02526",
+"publisher": "Elsevier BV",
+"title": "Climate and Land-Use Change Drive Population Decline in a Red-Listed Plant Species",
+"type": "article-journal",
+"volume": "45",
+"year": 2023,
+"month": "September",
+"dateAdded": "2023-05-31"
+}, {
 "doi": "10.1016/j.jnc.2023.126390",
 "url": "https://doi.org/10.1016%2Fj.jnc.2023.126390",
 "author": [{
@@ -87,6 +125,47 @@
 "year": 2023,
 "month": "May",
 "dateAdded": "2023-05-23"
+}, {
+"doi": "10.1038/s41598-023-35918-7",
+"url": "https://doi.org/10.1038%2Fs41598-023-35918-7",
+"author": [{
+"family": "Mattalia",
+"given": "Giulia"
+}, {
+"family": "Svanberg",
+"given": "Ingvar"
+}, {
+"family": "Ståhlberg",
+"given": "Sabira"
+}, {
+"family": "Kuznetsova",
+"given": "Natalia"
+}, {
+"family": "Prūse",
+"given": "Baiba"
+}, {
+"family": "Kolosova",
+"given": "Valeriia"
+}, {
+"family": "Aziz",
+"given": "Muhammad Abdul"
+}, {
+"family": "Kalle",
+"given": "Raivo"
+}, {
+"family": "Sõukand",
+"given": "Renata"
+}],
+"containerTitle": "Scientific Reports",
+"id": "10.1038/s41598-023-35918-7",
+"issue": "1",
+"publisher": "Springer Science; Business Media LLC",
+"title": "Outdoor Activities Foster Local Plant Knowledge in Karelia, NE Europe",
+"type": "article-journal",
+"volume": "13",
+"year": 2023,
+"month": "May",
+"dateAdded": "2023-05-31"
 }, {
 "doi": "10.5334/cstp.556",
 "url": "https://doi.org/10.5334%2Fcstp.556",
@@ -452,6 +531,31 @@
 "year": 2023,
 "month": "January",
 "dateAdded": "2023-02-06"
+}, {
+"doi": "10.14214/sf.22019",
+"url": "https://doi.org/10.14214%2Fsf.22019",
+"author": [{
+"family": "Nirhamo",
+"given": "Aleksi"
+}, {
+"family": "Pykälä",
+"given": "Juha"
+}, {
+"family": "Jääskeläinen",
+"given": "Kimmo"
+}, {
+"family": "Kouki",
+"given": "Jari"
+}],
+"containerTitle": "Silva Fennica",
+"id": "10.14214/sf.22019",
+"issue": "1",
+"publisher": "Finnish Society of Forest Science",
+"title": "Habitat Associations of Red-Listed Epiphytic Lichens in Finland",
+"type": "article-journal",
+"volume": "57",
+"year": 2023,
+"dateAdded": "2023-05-31"
 }, {
 "doi": "10.1016/j.gecco.2022.e02348",
 "url": "https://doi.org/10.1016%2Fj.gecco.2022.e02348",
