@@ -69,6 +69,44 @@
 "month": "June",
 "dateAdded": "2023-03-23"
 }, {
+"doi": "10.1038/s42003-023-04967-z",
+"url": "https://doi.org/10.1038%2Fs42003-023-04967-z",
+"author": [{
+"family": "Sunde",
+"given": "Johanna"
+}, {
+"family": "Franzén",
+"given": "Markus"
+}, {
+"family": "Betzholtz",
+"given": "Per-Eric"
+}, {
+"family": "Francioli",
+"given": "Yannick"
+}, {
+"family": "Pettersson",
+"given": "Lars B."
+}, {
+"family": "Pöyry",
+"given": "Juha"
+}, {
+"family": "Ryrholm",
+"given": "Nils"
+}, {
+"family": "Forsman",
+"given": "Anders"
+}],
+"containerTitle": "Communications Biology",
+"id": "10.1038/s42003-023-04967-z",
+"issue": "1",
+"publisher": "Springer Science; Business Media LLC",
+"title": "Century-Long Butterfly Range Expansions in Northern Europe Depend on Climate, Land Use and Species Traits",
+"type": "article-journal",
+"volume": "6",
+"year": 2023,
+"month": "June",
+"dateAdded": "2023-06-06"
+}, {
 "doi": "10.1111/ecog.06397",
 "url": "https://doi.org/10.1111%2Fecog.06397",
 "author": [{
