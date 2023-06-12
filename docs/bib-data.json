@@ -37,6 +37,35 @@
 "month": "September",
 "dateAdded": "2023-05-31"
 }, {
+"doi": "10.1016/j.foreco.2023.121079",
+"url": "https://doi.org/10.1016%2Fj.foreco.2023.121079",
+"author": [{
+"family": "Mikkonen",
+"given": "Ninni"
+}, {
+"family": "Leikola",
+"given": "Niko"
+}, {
+"family": "Lehtomäki",
+"given": "Joona"
+}, {
+"family": "Halme",
+"given": "Panu"
+}, {
+"family": "Moilanen",
+"given": "Atte"
+}],
+"containerTitle": "Forest Ecology and Management",
+"id": "10.1016/j.foreco.2023.121079",
+"page": "121079",
+"publisher": "Elsevier BV",
+"title": "National High-Resolution Conservation Prioritisation of Boreal Forests",
+"type": "article-journal",
+"volume": "541",
+"year": 2023,
+"month": "August",
+"dateAdded": "2023-06-12"
+}, {
 "doi": "10.1016/j.jnc.2023.126390",
 "url": "https://doi.org/10.1016%2Fj.jnc.2023.126390",
 "author": [{
