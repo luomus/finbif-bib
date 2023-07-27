@@ -624,6 +624,24 @@
 "year": 2023,
 "dateAdded": "2023-05-31"
 }, {
+"doi": "10.35513/botlit.2023.1.1",
+"url": "https://doi.org/10.35513%2Fbotlit.2023.1.1",
+"author": [{
+"family": "Kasparavičius",
+"given": "Jonas"
+}, {
+"family": "Iršėnaitė",
+"given": "Reda"
+}],
+"containerTitle": "Botanica",
+"id": "10.35513/botlit.2023.1.1",
+"page": "1-8",
+"publisher": "Nature Research Centre -NRC",
+"title": "A New Addition to the Mycota of Lithuania",
+"type": "article-journal",
+"year": 2023,
+"dateAdded": "2023-07-27"
+}, {
 "doi": "10.1016/j.gecco.2022.e02348",
 "url": "https://doi.org/10.1016%2Fj.gecco.2022.e02348",
 "author": [{
