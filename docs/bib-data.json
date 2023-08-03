@@ -1,4 +1,45 @@
 [{
+"doi": "10.1016/j.gecco.2023.e02589",
+"url": "https://doi.org/10.1016%2Fj.gecco.2023.e02589",
+"author": [{
+"family": "Suominen",
+"given": "Kati M."
+}, {
+"family": "Vesterinen",
+"given": "Eero J."
+}, {
+"family": "Kivistö",
+"given": "Ilkka"
+}, {
+"family": "Reiman",
+"given": "Maria"
+}, {
+"family": "Virtanen",
+"given": "Tarmo"
+}, {
+"family": "Meierhofer",
+"given": "Melissa B."
+}, {
+"family": "Vasko",
+"given": "Ville"
+}, {
+"family": "Sironen",
+"given": "Tarja"
+}, {
+"family": "Lilley",
+"given": "Thomas M."
+}],
+"containerTitle": "Global Ecology and Conservation",
+"id": "10.1016/j.gecco.2023.e02589",
+"page": "e02589",
+"publisher": "Elsevier BV",
+"title": "Environmental Features Around Roost Sites Drive Species-Specific Roost Preferences for Boreal Bats",
+"type": "article-journal",
+"volume": "46",
+"year": 2023,
+"month": "October",
+"dateAdded": "2023-08-03"
+}, {
 "doi": "10.1016/j.gecco.2023.e02526",
 "url": "https://doi.org/10.1016%2Fj.gecco.2023.e02526",
 "author": [{
