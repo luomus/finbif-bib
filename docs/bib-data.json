@@ -107,6 +107,29 @@
 "month": "August",
 "dateAdded": "2023-06-12"
 }, {
+"doi": "10.1093/aesa/saad021",
+"url": "https://doi.org/10.1093%2Faesa%2Fsaad021",
+"author": [{
+"family": "Skvarla",
+"given": "Michael J."
+}, {
+"family": "Fisher",
+"given": "Jon Ray"
+}],
+"containerTitle": "Annals of the Entomological Society of America",
+"editor": [{
+"family": "Fraser",
+"given": "Ann"
+}],
+"id": "10.1093/aesa/saad021",
+"publisher": "Oxford University Press (OUP)",
+"title": "Online Community Photo-Sharing in Entomology: a Large-Scale Review with Suggestions on Best Practices",
+"titleShort": "Online community photo-sharing in entomology",
+"type": "article-journal",
+"year": 2023,
+"month": "August",
+"dateAdded": "2023-08-21"
+}, {
 "doi": "10.1016/j.jnc.2023.126390",
 "url": "https://doi.org/10.1016%2Fj.jnc.2023.126390",
 "author": [{
