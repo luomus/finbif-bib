@@ -40,6 +40,36 @@
 "month": "October",
 "dateAdded": "2023-08-03"
 }, {
+"doi": "10.1016/j.biocon.2023.110247",
+"url": "https://doi.org/10.1016%2Fj.biocon.2023.110247",
+"author": [{
+"family": "Bourlat",
+"given": "Sarah J."
+}, {
+"family": "Tschan",
+"given": "Georg F."
+}, {
+"family": "Martin",
+"given": "Sebastian"
+}, {
+"family": "Iqram",
+"given": "Muhammad"
+}, {
+"family": "Leidenberger",
+"given": "Sonja"
+}],
+"containerTitle": "Biological Conservation",
+"id": "10.1016/j.biocon.2023.110247",
+"page": "110247",
+"publisher": "Elsevier BV",
+"title": "A Red Listing Gap Analysis of Molluscs and Crustaceans in Northern Europe: What Has Happened in the Last 10 years?",
+"titleShort": "A red listing gap analysis of molluscs and crustaceans in northern europe",
+"type": "article-journal",
+"volume": "286",
+"year": 2023,
+"month": "October",
+"dateAdded": "2023-09-07"
+}, {
 "doi": "10.1016/j.gecco.2023.e02526",
 "url": "https://doi.org/10.1016%2Fj.gecco.2023.e02526",
 "author": [{
