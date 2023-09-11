@@ -70,6 +70,32 @@
 "month": "October",
 "dateAdded": "2023-09-07"
 }, {
+"doi": "10.1016/j.funeco.2023.101282",
+"url": "https://doi.org/10.1016%2Fj.funeco.2023.101282",
+"author": [{
+"family": "Ruotsalainen",
+"given": "Anna L."
+}, {
+"family": "Kekki",
+"given": "Tapio"
+}, {
+"family": "Ohenoja",
+"given": "Esteri"
+}, {
+"family": "von Bonsdorff",
+"given": "Tea"
+}],
+"containerTitle": "Fungal Ecology",
+"id": "10.1016/j.funeco.2023.101282",
+"page": "101282",
+"publisher": "Elsevier BV",
+"title": "Increase in Sarcosoma Globosum Observations Reveals New Fungal Observation Culture",
+"type": "article-journal",
+"volume": "65",
+"year": 2023,
+"month": "October",
+"dateAdded": "2023-09-11"
+}, {
 "doi": "10.1016/j.gecco.2023.e02526",
 "url": "https://doi.org/10.1016%2Fj.gecco.2023.e02526",
 "author": [{
