@@ -134,6 +134,47 @@
 "month": "September",
 "dateAdded": "2023-05-31"
 }, {
+"doi": "10.1016/j.ufug.2023.128082",
+"url": "https://doi.org/10.1016%2Fj.ufug.2023.128082",
+"author": [{
+"family": "Kuoppamäki",
+"given": "Kirsi"
+}, {
+"family": "Prass",
+"given": "Marju"
+}, {
+"family": "Hagner",
+"given": "Marleena"
+}],
+"containerTitle": "Urban Forestry and Urban Greening",
+"id": "10.1016/j.ufug.2023.128082",
+"page": "128082",
+"publisher": "Elsevier BV",
+"title": "Crushed Concrete and Biochar: A Sustainable Solution for Vegetated Roofs",
+"titleShort": "Crushed concrete and biochar",
+"type": "article-journal",
+"year": 2023,
+"month": "September",
+"dateAdded": "2023-09-12"
+}, {
+"doi": "10.6084/m9.figshare.23803470",
+"url": "https://figshare.com/articles/journal_contribution/Phegea_51-3_i_Scythris_sinensis_i_Lepidoptera_Scythrididae_nieuw_voor_de_Belgische_fauna/23803470",
+"author": [{
+"family": "Steeman",
+"given": "Chris"
+}],
+"id": "10.6084/m9.figshare.23803470",
+"keyword": "Invertebrate biology",
+"publisher": "figshare",
+"containerTitle": "Phegea",
+"volume": "51",
+"issue": "3",
+"title": "Scythris sinensis (Lepidoptera: Scythrididae), Nieuw Voor de Belgische Fauna",
+"type": "article-journal",
+"year": 2023,
+"month": "September",
+"dateAdded": "2023-09-12"
+}, {
 "doi": "10.1016/j.foreco.2023.121079",
 "url": "https://doi.org/10.1016%2Fj.foreco.2023.121079",
 "author": [{
