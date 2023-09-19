@@ -598,6 +598,48 @@
 "month": "September",
 "dateAdded": "2023-09-18"
 }, {
+"doi": "10.1007/s10531-023-02705-9",
+"url": "https://doi.org/10.1007%2Fs10531-023-02705-9",
+"author": [{
+"family": "Matten",
+"given": "Damaris M."
+}, {
+"family": "Mienna",
+"given": "Ida M."
+}, {
+"family": "Bieker",
+"given": "Vanessa C."
+}, {
+"family": "Mishler",
+"given": "Brent D."
+}, {
+"family": "Moen",
+"given": "Victoria S."
+}, {
+"family": "Nygaard",
+"given": "Malene"
+}, {
+"family": "Vuorinen",
+"given": "Katariina E. M."
+}, {
+"family": "Bendiksby",
+"given": "Mika"
+}, {
+"family": "Martin",
+"given": "Michael D."
+}, {
+"family": "Speed",
+"given": "James D. M."
+}],
+"containerTitle": "Biodiversity and Conservation",
+"id": "10.1007/s10531-023-02705-9",
+"publisher": "Springer Science; Business Media LLC",
+"title": "Spatial Patterns of Phylogenetic and Species Diversity of Fennoscandian Vascular Plants in Protected Areas",
+"type": "article-journal",
+"year": 2023,
+"month": "September",
+"dateAdded": "2023-09-19"
+}, {
 "doi": "10.1016/j.foreco.2023.121079",
 "url": "https://doi.org/10.1016%2Fj.foreco.2023.121079",
 "author": [{
