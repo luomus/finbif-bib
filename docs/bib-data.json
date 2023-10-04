@@ -640,6 +640,25 @@
 "month": "September",
 "dateAdded": "2023-09-19"
 }, {
+"doi": "10.1002/aps3.11545",
+"url": "https://doi.org/10.1002%2Faps3.11545",
+"author": [{
+"family": "Weaver",
+"given": "William N."
+}, {
+"family": "Smith",
+"given": "Stephen A."
+}],
+"containerTitle": "Applications in Plant Sciences",
+"id": "10.1002/aps3.11545",
+"publisher": "Wiley",
+"title": "Fieldprism: a System for Creating Snapshot Vouchers from Field Images using Photogrammetric Markers and Qr Codes",
+"titleShort": "FieldPrism",
+"type": "article-journal",
+"year": 2023,
+"month": "September",
+"dateAdded": "2023-10-04"
+}, {
 "doi": "10.1016/j.foreco.2023.121079",
 "url": "https://doi.org/10.1016%2Fj.foreco.2023.121079",
 "author": [{
