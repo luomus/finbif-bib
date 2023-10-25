@@ -96,6 +96,38 @@
 "month": "October",
 "dateAdded": "2023-09-11"
 }, {
+"doi": "10.1002/ece3.10612",
+"url": "https://doi.org/10.1002%2Fece3.10612",
+"author": [{
+"family": "Westerduin",
+"given": "Coen"
+}, {
+"family": "Suokas",
+"given": "Marko"
+}, {
+"family": "Petäjä",
+"given": "Tuukka"
+}, {
+"family": "Saarela",
+"given": "Ulla"
+}, {
+"family": "Vainio",
+"given": "Seppo"
+}, {
+"family": "Mutanen",
+"given": "Marko"
+}],
+"containerTitle": "Ecology & Evolution",
+"id": "10.1002/ece3.10612",
+"issue": "10",
+"publisher": "Wiley",
+"title": "Exploring and Validating Observations of Non-Local Species in eDNA Samples",
+"type": "article-journal",
+"volume": "13",
+"year": 2023,
+"month": "October",
+"dateAdded": "2023-10-26"
+}, {
 "doi": "10.1016/j.gecco.2023.e02526",
 "url": "https://doi.org/10.1016%2Fj.gecco.2023.e02526",
 "author": [{
