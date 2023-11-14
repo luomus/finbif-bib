@@ -1,4 +1,30 @@
 [{
+"doi": "10.1016/j.foreco.2023.121558",
+"url": "https://doi.org/10.1016%2Fj.foreco.2023.121558",
+"author": [{
+"family": "Nirhamo",
+"given": "Aleksi"
+}, {
+"family": "Hämäläinen",
+"given": "Aino"
+}, {
+"family": "Hämäläinen",
+"given": "Karoliina"
+}, {
+"family": "Kouki",
+"given": "Jari"
+}],
+"containerTitle": "Forest Ecology and Management",
+"id": "10.1016/j.foreco.2023.121558",
+"page": "121558",
+"publisher": "Elsevier BV",
+"title": "The Response of Epiphytic Lichens on Living and Dead Pinus sylvestris to Prescribed Fires of Varying Severity",
+"type": "article-journal"
+"volume": "551",
+"year": 2024,
+"month": "January",
+"dateAdded": "2023-11-14"
+}, {
 "doi": "10.1016/j.gecco.2023.e02589",
 "url": "https://doi.org/10.1016%2Fj.gecco.2023.e02589",
 "author": [{
