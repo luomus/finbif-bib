@@ -25,6 +25,28 @@
 "month": "January",
 "dateAdded": "2023-11-14"
 }, {
+"doi": "10.3390/d15111155",
+"issn": "1424-2818",
+"url": "http://dx.doi.org/10.3390/d15111155",
+"author": [{
+"family": "Adamova",
+"given": "Valeria V."
+}, {
+"family": "Ukrainskiy",
+"given": "Pavel A."
+}],
+"containerTitle": "Diversity",
+"id": "10.3390/d15111155",
+"issue": "11",
+"page": "1155",
+"publisher": "MDPI AG",
+"title": "Modeling Current and Future Distribution of Cochlodina laminata in Eastern Europe under Climate Change",
+"type": "article-journal",
+"volume": "15",
+"year": 2023,
+"month": "November",
+"dateAdded": "2023-11-23"
+}, {
 "doi": "10.1016/j.gecco.2023.e02589",
 "url": "https://doi.org/10.1016%2Fj.gecco.2023.e02589",
 "author": [{
