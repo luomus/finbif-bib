@@ -47,6 +47,42 @@
 "month": "November",
 "dateAdded": "2023-11-23"
 }, {
+"doi": "10.5751/es-14190-280419",
+"issn": "1708-3087",
+"url": "http://dx.doi.org/10.5751/ES-14190-280419",
+"author": [{
+"family": "Juutinen",
+"given": "Artti"
+}, {
+"family": "Ilvonen",
+"given": "Suvi"
+}, {
+"family": "Haltia",
+"given": "Emmi"
+}, {
+"family": "Kangas",
+"given": "Katja"
+}, {
+"family": "Pellikka",
+"given": "Jani"
+}, {
+"family": "Rana",
+"given": "Parvez"
+}, {
+"family": "Tolvanen",
+"given": "Anne"
+}],
+"containerTitle": "Ecology and Society",
+"id": "10.5751/es-14190-280419",
+"issue": "4",
+"publisher": "Resilience Alliance, Inc.",
+"type": "article-journal",
+"volume": "28",
+"title": "Citizens’ Attitudes Toward the Protection of Flying Squirrels in Urban Areas",
+"year": 2023,
+"month": "November",
+"dateAdded": "2023-11-28"
+}, {
 "doi": "10.1016/j.gecco.2023.e02589",
 "url": "https://doi.org/10.1016%2Fj.gecco.2023.e02589",
 "author": [{
