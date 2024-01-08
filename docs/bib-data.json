@@ -25,6 +25,25 @@
 "month": "January",
 "dateAdded": "2023-11-14"
 }, {
+"doi": "10.14411/eje.2024.001",
+"issn": "1802-8829",
+"url": "http://dx.doi.org/10.14411/eje.2024.001",
+"author": [{
+"family": "Gunnarson",
+"given": "Karl"
+}],
+"containerTitle": "European Journal of Entomology",
+"id": "10.14411/eje.2024.001",
+"page": "1-6",
+"publisher": "Biology Centre, AS CR",
+"title": "Abiotic Factors Associated with the Distribution of Mutilla europaea (Hymenoptera: Mutillidae) in Northern Europe",
+"titleShort": "Abiotic Factors Associated with the Distribution of Mutilla europaea (Hymenoptera",
+"type": "article-journal",
+"volume": "121",
+"year": 2024,
+"month": "January",
+"dateAdded": "2024-01-08"
+}, {
 "doi": "10.3390/d15111155",
 "issn": "1424-2818",
 "url": "http://dx.doi.org/10.3390/d15111155",
