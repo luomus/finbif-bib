@@ -1,3 +1,5 @@
+bib_data <- ""
+
 get_bib <- function(x) {
   if (is.na(x)) return(NA)
   Sys.sleep(1L)
