@@ -68,6 +68,39 @@
 "month": "January",
 "dateAdded": "2024-01-11"
 }, {
+"doi": "10.1007/s11676-023-01678-3",
+"issn": "1993-0607",
+"url": "http://dx.doi.org/10.1007/s11676-023-01678-3",
+"author": [{
+"family": "Ekman",
+"given": "Ellinoora"
+}, {
+"family": "Triviño",
+"given": "María"
+}, {
+"family": "Blattert",
+"given": "Clemens"
+}, {
+"family": "Mazziotta",
+"given": "Adriano"
+}, {
+"family": "Potterf",
+"given": "Maria"
+}, {
+"family": "Eyvindson",
+"given": "Kyle"
+}],
+"containerTitle": "Journal of Forestry Research",
+"id": "10.1007/s11676-023-01678-3",
+"issue": "1",
+"publisher": "Springer Science; Business Media LLC",
+"title": "Disentangling the Effects of Management and Climate Change on Habitat Suitability for Saproxylic Species in Boreal Forests",
+"type": "article-journal",
+"volume": "35",
+"year": 2024,
+"month": "January",
+"dateAdded": "2024-01-16"
+}, {
 "doi": "10.3390/d15111155",
 "issn": "1424-2818",
 "url": "http://dx.doi.org/10.3390/d15111155",
