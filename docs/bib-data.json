@@ -101,6 +101,35 @@
 "month": "January",
 "dateAdded": "2024-01-16"
 }, {
+"doi": "10.1016/j.ijpara.2024.01.002",
+"issn": "0020-7519",
+"url": "http://dx.doi.org/10.1016/j.ijpara.2024.01.002",
+"author": [{
+"family": "Häkkänen",
+"given": "Tessa"
+}, {
+"family": "Rimhanen-Finne",
+"given": "Ruska"
+}, {
+"family": "Antikainen",
+"given": "Jenni"
+}, {
+"family": "Ruotsalainen",
+"given": "Eeva"
+}, {
+"family": "Vainio",
+"given": "Anni"
+}],
+"containerTitle": "International Journal for Parasitology",
+"id": "10.1016/j.ijpara.2024.01.002",
+"publisher": "Elsevier BV",
+"title": "Molecular Characteristics of Cryptosporidium spp. in Human Cases in Five Finnish Hospital Districts During 2021: First Findings of Cryptosporidium mortiferum (Cryptosporidium Chipmunk Genotype i) in Finland",
+"titleShort": "Molecular characteristics of cryptosporidium spp. In human cases in five finnish hospital districts during 2021",
+"type": "article-journal",
+"year": 2024,
+"month": "January",
+"dateAdded": "2024-01-23"
+}, {
 "doi": "10.3390/d15111155",
 "issn": "1424-2818",
 "url": "http://dx.doi.org/10.3390/d15111155",
