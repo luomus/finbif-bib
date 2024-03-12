@@ -1,4 +1,42 @@
 [{
+"doi": "10.24072/pcjournal.393",
+"issn": "2804-3871",
+"url": "http://dx.doi.org/10.24072/pcjournal.393",
+"author": [{
+"family": "Michell",
+"given": "Craig"
+}, {
+"family": "Collins",
+"given": "Joanna"
+}, {
+"family": "Laine",
+"given": "Pia K."
+}, {
+"family": "Fekete",
+"given": "Zsófia"
+}, {
+"family": "Tapanainen",
+"given": "Riikka"
+}, {
+"family": "Wood",
+"given": "Jonathan M. D."
+}, {
+"family": "Goffart",
+"given": "Steffi"
+}, {
+"family": "Pohjoismäki",
+"given": "Jaakko L. O."
+}],
+"containerTitle": "Peer Community Journal",
+"id": "10.24072/pcjournal.393",
+"publisher": "Peer Community In",
+"title": "High Quality Genome Assembly of the Brown Hare (Lepus europaeus) with Chromosome-Level Scaffolding",
+"type": "article-journal",
+"volume": "4",
+"year": 2024,
+"month": "March",
+"dateAdded": "2024-03-12"
+}, {
 "doi": "10.1016/j.foreco.2023.121558",
 "url": "https://doi.org/10.1016%2Fj.foreco.2023.121558",
 "author": [{
