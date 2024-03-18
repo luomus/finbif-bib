@@ -50,10 +50,7 @@ bib_data <- c(jsonlite::read_json("docs/bib-data.json"), bib_data)
 
 ids <- vapply(bib_data, getElement, character(1L), "id")
 
-bib_data <- bib_data[
-  !duplicated(ids) &
-  !ids %in% readLines("blacklist.txt")
-]
+bib_data <- bib_data[!duplicated(ids)]
 
 bib_data <- bib_data[
   order(
