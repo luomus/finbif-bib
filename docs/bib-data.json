@@ -1,4 +1,21 @@
 [{
+"doi": "10.3897/bdj.12.e118563",
+"issn": "1314-2836",
+"url": "http://dx.doi.org/10.3897/BDJ.12.e118563",
+"author": [{
+"family": "Ståhls",
+"given": "Gunilla"
+}],
+"containerTitle": "Biodiversity Data Journal",
+"id": "10.3897/bdj.12.e118563",
+"publisher": "Pensoft Publishers",
+"title": "Pelecocera (Pelecocera) Tricincta and Pelecocera (Chamaesyrphus) Caledonica (Diptera, Syrphidae) Reared from Rhizopogon Fungal Host in Finland",
+"type": "article-journal",
+"volume": "12",
+"year": 2024,
+"month": "April",
+"dateAdded": "2024-04-18"
+}, {
 "doi": "10.24072/pcjournal.393",
 "issn": "2804-3871",
 "url": "http://dx.doi.org/10.24072/pcjournal.393",
