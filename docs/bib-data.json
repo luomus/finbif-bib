@@ -16,6 +16,44 @@
 "month": "April",
 "dateAdded": "2024-04-18"
 }, {
+"doi": "10.1371/journal.pone.0302259",
+"issn": "1932-6203",
+"url": "http://dx.doi.org/10.1371/journal.pone.0302259",
+"author": [{
+"family": "Seehausen",
+"given": "M. Lukas"
+}, {
+"family": "Rimmer",
+"given": "Alex"
+}, {
+"family": "Wiesner",
+"given": "Abigail"
+}, {
+"family": "Kenis",
+"given": "Marc"
+}, {
+"family": "Scott-Dupree",
+"given": "Cynthia"
+}, {
+"family": "Smith",
+"given": "Sandy M."
+}],
+"containerTitle": "PLOS ONE",
+"editor": [{
+"family": "Papadopoulos",
+"given": "Nikos T."
+}],
+"id": "10.1371/journal.pone.0302259",
+"issue": "4",
+"page": "e0302259",
+"publisher": "Public Library of Science (PLoS)",
+"title": "Modelling Potential Distribution of the Invasive Box Tree Moth Across Asia, Europe, and North America",
+"type": "article-journal",
+"volume": "19",
+"year": 2024,
+"month": "April",
+"dateAdded": "2024-04-29"
+}, {
 "doi": "10.24072/pcjournal.393",
 "issn": "2804-3871",
 "url": "http://dx.doi.org/10.24072/pcjournal.393",
