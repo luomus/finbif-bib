@@ -1,4 +1,39 @@
 [{
+"doi": "10.1145/3613904.3643044",
+"url": "http://dx.doi.org/10.1145/3613904.3643044",
+"author": [{
+"family": "Longdon",
+"given": "Joycelyn"
+}, {
+"family": "Westerlaken",
+"given": "Michelle"
+}, {
+"family": "Blackwell",
+"given": "Alan F"
+}, {
+"family": "Gabrys",
+"given": "Jennifer"
+}, {
+"family": "Ossom",
+"given": "Benjamin"
+}, {
+"family": "Ashton-Butt",
+"given": "Adham"
+}, {
+"family": "Acheampong",
+"given": "Emmanuel"
+}],
+"collectionTitle": "CHI ’24",
+"containerTitle": "Proceedings of the CHI conference on human factors in computing systems",
+"id": "10.1145/3613904.3643044",
+"publisher": "ACM",
+"title": "Justice-Oriented Design Listening: Participatory Ecoacoustics with a Ghanaian Forest Community",
+"titleShort": "Justice-oriented design listening",
+"type": "paper-conference",
+"year": 2024,
+"month": "May",
+"dateAdded": "2024-05-16"
+}, {
 "doi": "10.3897/bdj.12.e118563",
 "issn": "1314-2836",
 "url": "http://dx.doi.org/10.3897/BDJ.12.e118563",
