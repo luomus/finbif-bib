@@ -34,6 +34,25 @@
 "month": "May",
 "dateAdded": "2024-05-16"
 }, {
+"doi": "10.1111/ddi.13864",
+"issn": "1472-4642",
+"url": "http://dx.doi.org/10.1111/ddi.13864",
+"author": [{
+"family": "Duflot",
+"given": "Rémi"
+}, {
+"family": "Vähätalo",
+"given": "Anssi V."
+}],
+"containerTitle": "Diversity and Distributions",
+"id": "10.1111/ddi.13864",
+"publisher": "Wiley",
+"title": "Identifying Sites with High Biodiversity Value using Filtered Species Records from a Biodiversity Information Facility",
+"type": "article-journal",
+"year": 2024,
+"month": "May",
+"dateAdded": "2024-06-03"
+}, {
 "doi": "10.3897/bdj.12.e118563",
 "issn": "1314-2836",
 "url": "http://dx.doi.org/10.3897/BDJ.12.e118563",
