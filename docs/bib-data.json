@@ -1,4 +1,31 @@
 [{
+"doi": "10.3897/bdj.12.e120304",
+"issn": "1314-2836",
+"url": "http://dx.doi.org/10.3897/BDJ.12.e120304",
+"author": [{
+"family": "Rossini",
+"given": "Michele"
+}, {
+"family": "Montanaro",
+"given": "Giulio"
+}, {
+"family": "Montreuil",
+"given": "Olivier"
+}, {
+"family": "Tarasov",
+"given": "Sergei"
+}],
+"containerTitle": "Biodiversity Data Journal",
+"id": "10.3897/bdj.12.e120304",
+"publisher": "Pensoft Publishers",
+"title": "Towards Computable Taxonomic Knowledge: Leveraging Nanopublications for Sharing New Synonyms in the Madagascan Genus Helictopleurus (Coleoptera, Scarabaeinae)",
+"titleShort": "Towards computable taxonomic knowledge",
+"type": "article-journal",
+"volume": "12",
+"year": 2024,
+"month": "June",
+"dateAdded": "2024-06-17"
+}, {
 "doi": "10.1145/3613904.3643044",
 "url": "http://dx.doi.org/10.1145/3613904.3643044",
 "author": [{
