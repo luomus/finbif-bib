@@ -1,4 +1,72 @@
 [{
+"doi": "10.1016/j.ecolind.2024.112404",
+"issn": "1470-160X",
+"url": "http://dx.doi.org/10.1016/j.ecolind.2024.112404",
+"author": [{
+"family": "Polazzo",
+"given": "Francesco"
+}, {
+"family": "Domisch",
+"given": "Sami"
+}, {
+"family": "Flörke",
+"given": "Martina"
+}, {
+"family": "Rico",
+"given": "Andreu"
+}],
+"containerTitle": "Ecological Indicators",
+"id": "10.1016/j.ecolind.2024.112404",
+"page": "112404",
+"publisher": "Elsevier BV",
+"title": "A Modelling Approach to Assess Climate Change Impacts on Taxonomic and Functional Diversity of European Stream Macroinvertebrates: Implications for Water Quality Monitoring",
+"titleShort": "A modelling approach to assess climate change impacts on taxonomic and functional diversity of european stream macroinvertebrates",
+"type": "article-journal",
+"volume": "166",
+"year": 2024,
+"month": "September",
+"dateAdded": "2024-08-05"
+}, {
+"doi": "10.3390/pharmaceutics16070916",
+"issn": "1999-4923",
+"url": "http://dx.doi.org/10.3390/pharmaceutics16070916",
+"author": [{
+"family": "Salih",
+"given": "Enass"
+}, {
+"family": "Mgbeahuruike",
+"given": "Eunice Ego"
+}, {
+"family": "Prévost-Monteiro",
+"given": "Stella"
+}, {
+"family": "Sipari",
+"given": "Nina"
+}, {
+"family": "Väre",
+"given": "Henry"
+}, {
+"family": "Novak",
+"given": "Brigita"
+}, {
+"family": "Julkunen-Tiitto",
+"given": "Riitta"
+}, {
+"family": "Fyhrqvist",
+"given": "Pia"
+}],
+"containerTitle": "Pharmaceutics",
+"id": "10.3390/pharmaceutics16070916",
+"issue": "7",
+"page": "916",
+"publisher": "MDPI AG",
+"title": "Polyphenols and Phenolic Glucosides in Antibacterial Twig Extracts of Naturally Occurring Salix myrsinifolia (Salisb.), S. phylicifolia (L.) and S. starkeana (Willd.) and the Cultivated Hybrid S. x pendulina (Wender.)",
+"type": "article-journal",
+"volume": "16",
+"year": 2024,
+"month": "July",
+"dateAdded": "2024-08-05"
+}, {
 "doi": "10.3897/bdj.12.e120304",
 "issn": "1314-2836",
 "url": "http://dx.doi.org/10.3897/BDJ.12.e120304",
@@ -25,6 +93,43 @@
 "year": 2024,
 "month": "June",
 "dateAdded": "2024-06-17"
+}, {
+"doi": "10.1071/wr24046",
+"issn": "1448-5494",
+"url": "http://dx.doi.org/10.1071/WR24046",
+"author": [{
+"family": "Roger",
+"given": "Erin"
+}, {
+"family": "Turley",
+"given": "Andrew"
+}, {
+"family": "Waite",
+"given": "Callum"
+}, {
+"family": "Balasubramaniam",
+"given": "Shandiya"
+}, {
+"family": "Slatyer",
+"given": "Cameron"
+}, {
+"family": "Andrew Pearce",
+"given": "J."
+}],
+"containerTitle": "Wildlife Research",
+"editor": [{
+"family": "Shwiff",
+"given": "Stephanie"
+}],
+"id": "10.1071/wr24046",
+"issue": "7",
+"publisher": "CSIRO Publishing",
+"title": "Citizen Science Delivers High-Value Biosecurity Surveillance and Reporting Capability",
+"type": "article-journal",
+"volume": "51",
+"year": 2024,
+"month": "June",
+"dateAdded": "2024-08-05"
 }, {
 "doi": "10.1145/3613904.3643044",
 "url": "http://dx.doi.org/10.1145/3613904.3643044",
