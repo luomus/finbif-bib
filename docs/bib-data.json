@@ -27,6 +27,89 @@
 "month": "September",
 "dateAdded": "2024-08-05"
 }, {
+"doi": "10.1007/s10841-024-00617-9",
+"issn": "1572-9753",
+"url": "http://dx.doi.org/10.1007/s10841-024-00617-9",
+"author": [{
+"family": "Kukkonen",
+"given": "Jonna M."
+}, {
+"family": "von Numers",
+"given": "Mikael"
+}, {
+"family": "Brommer",
+"given": "Jon E."
+}],
+"containerTitle": "Journal of Insect Conservation",
+"id": "10.1007/s10841-024-00617-9",
+"publisher": "Springer Science; Business Media LLC",
+"title": "Conserving Apollo Butterflies: Habitat Characteristics and Conservation Implications in Southwest Finland",
+"titleShort": "Conserving apollo butterflies",
+"type": "article-journal",
+"year": 2024,
+"month": "August",
+"dateAdded": "2024-08-19"
+}, {
+"doi": "10.1111/ddi.13905",
+"issn": "1472-4642",
+"url": "http://dx.doi.org/10.1111/ddi.13905",
+"author": [{
+"family": "Seibold",
+"given": "Sebastian"
+}, {
+"family": "Richter",
+"given": "Tobias"
+}, {
+"family": "Geres",
+"given": "Lisa"
+}, {
+"family": "Seidl",
+"given": "Rupert"
+}, {
+"family": "Martin",
+"given": "Ralph"
+}, {
+"family": "Mitesser",
+"given": "Oliver"
+}, {
+"family": "Senf",
+"given": "Cornelius"
+}, {
+"family": "Griem",
+"given": "Lukas"
+}, {
+"family": "Müller",
+"given": "Jörg"
+}],
+"containerTitle": "Diversity and Distributions",
+"id": "10.1111/ddi.13905",
+"publisher": "Wiley",
+"title": "Soundscapes and Airborne Laser Scanning Identify Vegetation Density and Its Interaction with Elevation as Main Driver of Bird Diversity and Community Composition",
+"type": "article-journal",
+"year": 2024,
+"month": "August",
+"dateAdded": "2024-08-19"
+}, {
+"doi": "10.1007/s13744-024-01189-8",
+"issn": "1678-8052",
+"url": "http://dx.doi.org/10.1007/s13744-024-01189-8",
+"author": [{
+"family": "Arias-Buriticá",
+"given": "Jorge Armando"
+}, {
+"family": "Vaz-de-Mello",
+"given": "Fernando Zagury"
+}],
+"containerTitle": "Neotropical Entomology",
+"id": "10.1007/s13744-024-01189-8",
+"publisher": "Springer Science; Business Media LLC",
+"title": "Taxonomic Revision of the Dichotomius mormon (Ljungh, 1799) Species Group (Coleoptera: Scarabaeidae: Scarabaeinae), with a Description of a New Species from Bolivia",
+"titleShort": "Taxonomic revision of the Dichotomius mormon (Ljungh, 1799) species group (coleoptera)",
+"type": "article-journal",
+"year": 2024,
+"month": "August",
+"dateAdded": "2024-08-19"
+}, {
 "doi": "10.3390/pharmaceutics16070916",
 "issn": "1999-4923",
 "url": "http://dx.doi.org/10.3390/pharmaceutics16070916",
