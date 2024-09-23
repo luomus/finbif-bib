@@ -659,6 +659,28 @@
 "year": 2024,
 "dateAdded": "2024-09-13"
 }, {
+"doi": "10.3897/zookeys.1212.126598",
+"issn": "1313-2989",
+"url": "https://doi.org/10.3897/zookeys.1212.126598",
+"abstract": "Elachista dimicatella Rebel, 1903, has so far been considered a species in Europe with restricted distribution from Ukraine to western France. The species occurs on mountainous regions. However, the in-depth analysis of a taxonomically uncertain species of Elachista from the Cottian Alps (Italy), especially through DNA barcoding and subsequent morphological studies, led to the realization that individuals previously identified as E. dimicatella from the Cottian Alps and the Pyrenees were misidentified. According to our research, a total of three species can be differentiated: E. dimicatella from Carpathians and its former junior synonym E. niphadophanes Meyrick, 1937, sp. rev., from the Pyrenees, as well as the newly described E. cottiella sp. nov. from southwestern Alps, hitherto incorrectly identified as E. dimicatella. Diagnostic features of the three species are discussed and illustrated. Elachista dimicatella and E. niphadophanes are redescribed.",
+"author": [{
+"family": "Kaila",
+"given": "Lauri"
+}, {
+"family": "Huemer",
+"given": "Peter"
+}],
+"containerTitle": "ZooKeys",
+"id": "10.3897/zookeys.1212.126598",
+"issue": "",
+"page": "179-194",
+"publisher": "Pensoft Publishers",
+"title": "Elachista Dimicatella Sensu Auctt.—a Complex of Neglected Species Diversity (Lepidoptera, Elachistidae) from European Mountain Systems",
+"type": "article-journal",
+"volume": "1212",
+"year": 2024,
+"dateAdded": "2024-09-23"
+}, {
 "doi": "10.3390/d15111155",
 "issn": "1424-2818",
 "url": "http://dx.doi.org/10.3390/d15111155",
