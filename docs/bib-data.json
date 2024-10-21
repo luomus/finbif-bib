@@ -186,6 +186,30 @@
 "month": "August",
 "dateAdded": "2024-08-19"
 }, {
+"doi": "10.31111/nsnr/2024.58.2.b39",
+"issn": "0568-5435",
+"url": "http://dx.doi.org/10.31111/nsnr/2024.58.2.B39",
+"author": [{
+"family": "Belkina",
+"given": "O. A."
+}, {
+"family": "Vilnet",
+"given": "A. A."
+}, {
+"family": "Kozhin",
+"given": "M. N."
+}],
+"containerTitle": "Novosti sistematiki nizshikh rastenii",
+"id": "10.31111/nsnr/2024.58.2.b39",
+"issue": "2",
+"publisher": "Komarov Botanical Institute of the Russian Academy of Sciences",
+"title": "Notes on the Genus Timmia (Bryophyta) in the Murmansk Region, Russia",
+"type": "article-journal",
+"volume": "58",
+"year": 2024,
+"month": "August",
+"dateAdded": "2024-10-21"
+}, {
 "doi": "10.3390/pharmaceutics16070916",
 "issn": "1999-4923",
 "url": "http://dx.doi.org/10.3390/pharmaceutics16070916",
