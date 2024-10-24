@@ -1,4 +1,25 @@
 [{
+"doi": "10.3897/bdj.12.e134364",
+"issn": "1314-2836",
+"url": "http://dx.doi.org/10.3897/BDJ.12.e134364",
+"author": [{
+"family": "Montanaro",
+"given": "Giulio"
+}, {
+"family": "Tarasov",
+"given": "Sergei"
+}],
+"containerTitle": "Biodiversity Data Journal",
+"id": "10.3897/bdj.12.e134364",
+"publisher": "Pensoft Publishers",
+"title": "Beyond Natural Language: An Ontology-Based Description of a New Scarabaeus Dung Beetle from Madagascar (Coleoptera, Scarabaeinae)",
+"titleShort": "Beyond natural language",
+"type": "article-journal",
+"volume": "12",
+"year": 2024,
+"month": "October",
+"dateAdded": "2024-10-24"
+}, {
 "doi": "10.1016/j.ecolind.2024.112404",
 "issn": "1470-160X",
 "url": "http://dx.doi.org/10.1016/j.ecolind.2024.112404",
