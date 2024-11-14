@@ -1,4 +1,38 @@
 [{
+"doi": "10.1111/rec.14338",
+"issn": "1526-100X",
+"url": "http://dx.doi.org/10.1111/rec.14338",
+"author": [{
+"family": "Räsänen",
+"given": "Aleksi"
+}, {
+"family": "Jantunen",
+"given": "Aapo"
+}, {
+"family": "Isoaho",
+"given": "Aleksi"
+}, {
+"family": "Ikkala",
+"given": "Lauri"
+}, {
+"family": "Rana",
+"given": "Parvez"
+}, {
+"family": "Marttila",
+"given": "Hannu"
+}, {
+"family": "Elo",
+"given": "Merja"
+}],
+"containerTitle": "Restoration Ecology",
+"id": "10.1111/rec.14338",
+"publisher": "Wiley",
+"title": "Changes in Satellite‐derived Spectral Variables and their Linkages with Vegetation Changes after Peatland Restoration",
+"type": "article-journal",
+"year": 2024,
+"month": "November",
+"dateAdded": "2024-11-14"
+}, {
 "doi": "10.3897/bdj.12.e134364",
 "issn": "1314-2836",
 "url": "http://dx.doi.org/10.3897/BDJ.12.e134364",
