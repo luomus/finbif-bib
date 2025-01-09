@@ -170,6 +170,28 @@
 "month": "November",
 "dateAdded": "2024-11-29"
 }, {
+"doi": "10.1111/njb.04430",
+"issn": "1756-1051",
+"url": "http://dx.doi.org/10.1111/njb.04430",
+"author": [{
+"family": "Kuusisto",
+"given": "Inka"
+}, {
+"family": "Huttunen",
+"given": "Sanna"
+}, {
+"family": "Virtanen",
+"given": "Risto"
+}],
+"containerTitle": "Nordic Journal of Botany",
+"id": "10.1111/njb.04430",
+"publisher": "Wiley",
+"title": "Tundra Plant Communities along the Mesotopographic Gradient in NE Finland",
+"type": "article-journal",
+"year": 2024,
+"month": "November",
+"dateAdded": "2025-01-09"
+}, {
 "doi": "10.3897/bdj.12.e134364",
 "issn": "1314-2836",
 "url": "http://dx.doi.org/10.3897/BDJ.12.e134364",
