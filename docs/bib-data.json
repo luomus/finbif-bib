@@ -16,6 +16,45 @@
 "month": "January",
 "dateAdded": "2025-01-20"
 }, {
+"doi": "10.1002/ece3.70599",
+"issn": "2045-7758",
+"url": "http://dx.doi.org/10.1002/ece3.70599",
+"author": [{
+"family": "Lundberg",
+"given": "Piia"
+}, {
+"family": "Kotila",
+"given": "Miika"
+}, {
+"family": "Meramo",
+"given": "Katarina"
+}, {
+"family": "Suominen",
+"given": "Kati M."
+}, {
+"family": "Suutari",
+"given": "Miina"
+}, {
+"family": "Pietikäinen",
+"given": "Tia‐Marie"
+}, {
+"family": "Vasko",
+"given": "Ville"
+}, {
+"family": "Lilley",
+"given": "Thomas M."
+}],
+"containerTitle": "Ecology and Evolution",
+"id": "10.1002/ece3.70599",
+"issue": "1",
+"publisher": "Wiley",
+"title": "Contrasting Seasonal Distribution Patterns of Two Boreal Aerial Hawking Bat Species in Finland",
+"type": "article-journal",
+"volume": "15",
+"year": 2025,
+"month": "January",
+"dateAdded": "2025-01-22"
+}, {
 "doi": "10.1111/rec.14338",
 "issn": "1526-100X",
 "url": "http://dx.doi.org/10.1111/rec.14338",
