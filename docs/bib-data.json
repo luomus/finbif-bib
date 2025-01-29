@@ -55,6 +55,28 @@
 "month": "January",
 "dateAdded": "2025-01-22"
 }, {
+"doi": "10.1111/cote.12810",
+"issn": "1478-4408",
+"url": "http://dx.doi.org/10.1111/cote.12810",
+"author": [{
+"family": "Negi",
+"given": "Arvind"
+}, {
+"family": "Toukola",
+"given": "Peppi"
+}, {
+"family": "Räisänen",
+"given": "Riikka"
+}],
+"containerTitle": "Coloration Technology",
+"id": "10.1111/cote.12810",
+"publisher": "Wiley",
+"title": "Chemical Profiling and Characterisation of Anthraquinone‐based Polyphenols as Biocolourants from Cortinarius semisanguineus",
+"type": "article-journal",
+"year": 2025,
+"month": "January",
+"dateAdded": "2025-01-29"
+}, {
 "doi": "10.1111/rec.14338",
 "issn": "1526-100X",
 "url": "http://dx.doi.org/10.1111/rec.14338",
