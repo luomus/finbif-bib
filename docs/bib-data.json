@@ -1,4 +1,72 @@
 [{
+"doi": "10.1007/s13347-025-00841-4",
+"issn": "2210-5441",
+"url": "http://dx.doi.org/10.1007/s13347-025-00841-4",
+"author": [{
+"family": "Rubel",
+"given": "Alan"
+}, {
+"family": "Kaehrle",
+"given": "Martin"
+}, {
+"family": "Streiffer",
+"given": "Robert"
+}],
+"containerTitle": "Philosophy &amp; Technology",
+"id": "10.1007/s13347-025-00841-4",
+"issue": "1",
+"publisher": "Springer Science; Business Media LLC",
+"title": "Digital Platforms, Privacy, and the Ethics of Wildlife Information Sharing",
+"type": "article-journal",
+"volume": "38",
+"year": 2025,
+"month": "February",
+"dateAdded": "2025-02-17"
+}, {
+"doi": "10.3390/ecologies6010016",
+"issn": "2673-4133",
+"url": "http://dx.doi.org/10.3390/ecologies6010016",
+"author": [{
+"family": "Haris",
+"given": "Attila"
+}, {
+"family": "Józan",
+"given": "Zsolt"
+}, {
+"family": "Schmidt",
+"given": "Péter"
+}, {
+"family": "Glemba",
+"given": "Gábor"
+}, {
+"family": "Tomozii",
+"given": "Bogdan"
+}, {
+"family": "Csóka",
+"given": "György"
+}, {
+"family": "Hirka",
+"given": "Anikó"
+}, {
+"family": "Šima",
+"given": "Peter"
+}, {
+"family": "Tóth",
+"given": "Sándor"
+}],
+"containerTitle": "Ecologies",
+"id": "10.3390/ecologies6010016",
+"issue": "1",
+"page": "16",
+"publisher": "MDPI AG",
+"title": "Climate Change Influences on Central European Insect Fauna Over the Last 50 Years: Mediterranean Influx and Non-Native Species",
+"titleShort": "Climate change influences on central european insect fauna over the last 50 years",
+"type": "article-journal",
+"volume": "6",
+"year": 2025,
+"month": "February",
+"dateAdded": "2025-02-17"
+}, {
 "doi": "10.1556/1777.2024.00041",
 "issn": "3004-3018",
 "url": "http://dx.doi.org/10.1556/1777.2024.00041",
