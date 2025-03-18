@@ -1,5 +1,37 @@
 [
   {
+    "doi": "10.3897/bdj.13.e141363",
+    "issn": "1314-2836",
+    "url": "http://dx.doi.org/10.3897/BDJ.13.e141363",
+    "author": [
+      {
+        "family": "Starkevich",
+        "given": "Pavel"
+      },
+      {
+        "family": "Salmela",
+        "given": "Jukka"
+      },
+      {
+        "family": "Olsen",
+        "given": "Kjell Magne"
+      },
+      {
+        "family": "Andersson",
+        "given": "Michael"
+      }
+    ],
+    "containerTitle": "Biodiversity Data Journal",
+    "id": "10.3897/bdj.13.e141363",
+    "publisher": "Pensoft Publishers",
+    "title": "New Synonyms of Tipula (Vestiplex) balioptera Loew, 1863 (Diptera, Tipulidae)",
+    "type": "article-journal",
+    "volume": "13",
+    "year": 2025,
+    "month": "March",
+    "dateAdded": "2025-03-18"
+  },
+  {
     "doi": "10.1007/s13347-025-00841-4",
     "issn": "2210-5441",
     "url": "http://dx.doi.org/10.1007/s13347-025-00841-4",
