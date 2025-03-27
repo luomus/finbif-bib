@@ -57,6 +57,63 @@
     "dateAdded": "2025-03-18"
   },
   {
+    "doi": "10.1371/journal.pone.0313829",
+    "issn": "1932-6203",
+    "url": "http://dx.doi.org/10.1371/journal.pone.0313829",
+    "author": [
+      {
+        "family": "Radenković",
+        "given": "Snežana"
+      },
+      {
+        "family": "Veličković",
+        "given": "Nevena"
+      },
+      {
+        "family": "Jordaens",
+        "given": "Kurt"
+      },
+      {
+        "family": "Grković",
+        "given": "Ana S."
+      },
+      {
+        "family": "Djan",
+        "given": "Mihajla"
+      },
+      {
+        "family": "Ståhls",
+        "given": "Gunilla"
+      },
+      {
+        "family": "Smit",
+        "given": "John"
+      },
+      {
+        "family": "Vujić",
+        "given": "Ante"
+      }
+    ],
+    "containerTitle": "PLOS ONE",
+    "editor": [
+      {
+        "family": "Pandiarajan",
+        "given": "Srinivasan"
+      }
+    ],
+    "id": "10.1371/journal.pone.0313829",
+    "issue": "3",
+    "page": "e0313829",
+    "publisher": "Public Library of Science (PLoS)",
+    "title": "Revision of the Afrotropical Endemic Eumerus triangularis Group (Diptera: Syrphidae: Merodontini)–Species with Glistering Antennae",
+    "titleShort": "Revision of the afrotropical endemic eumerus triangularis group (diptera",
+    "type": "article-journal",
+    "volume": "20",
+    "year": 2025,
+    "month": "March",
+    "dateAdded": "2025-03-27"
+  },
+  {
     "doi": "10.1007/s13347-025-00841-4",
     "issn": "2210-5441",
     "url": "http://dx.doi.org/10.1007/s13347-025-00841-4",
