@@ -41,6 +41,163 @@
     "dateAdded": "2025-04-22"
   },
   {
+    "doi": "10.1073/pnas.2415260122",
+    "issn": "1091-6490",
+    "url": "http://dx.doi.org/10.1073/pnas.2415260122",
+    "author": [
+      {
+        "family": "Mäkinen",
+        "given": "Jussi"
+      },
+      {
+        "family": "Ellis",
+        "given": "Emilie E."
+      },
+      {
+        "family": "Antão",
+        "given": "Laura H."
+      },
+      {
+        "family": "Davrinche",
+        "given": "Andréa"
+      },
+      {
+        "family": "Laine",
+        "given": "Anna-Liisa"
+      },
+      {
+        "family": "Saastamoinen",
+        "given": "Marjo"
+      },
+      {
+        "family": "Conenna",
+        "given": "Irene"
+      },
+      {
+        "family": "Hällfors",
+        "given": "Maria"
+      },
+      {
+        "family": "Santangeli",
+        "given": "Andrea"
+      },
+      {
+        "family": "Kaarlejärvi",
+        "given": "Elina"
+      },
+      {
+        "family": "Heliölä",
+        "given": "Janne"
+      },
+      {
+        "family": "Huikkonen",
+        "given": "Ida-Maria"
+      },
+      {
+        "family": "Kuussaari",
+        "given": "Mikko"
+      },
+      {
+        "family": "Leinonen",
+        "given": "Reima"
+      },
+      {
+        "family": "Lehikoinen",
+        "given": "Aleksi"
+      },
+      {
+        "family": "Pöyry",
+        "given": "Juha"
+      },
+      {
+        "family": "Suuronen",
+        "given": "Anna"
+      },
+      {
+        "family": "Salemaa",
+        "given": "Maija"
+      },
+      {
+        "family": "Tonteri",
+        "given": "Tiina"
+      },
+      {
+        "family": "Vuorio",
+        "given": "Kristiina M."
+      },
+      {
+        "family": "Skjelbred",
+        "given": "Birger"
+      },
+      {
+        "family": "Järvinen",
+        "given": "Marko"
+      },
+      {
+        "family": "Drakare",
+        "given": "Stina"
+      },
+      {
+        "family": "Carvalho",
+        "given": "Laurence"
+      },
+      {
+        "family": "Welk",
+        "given": "Erik"
+      },
+      {
+        "family": "Seidler",
+        "given": "Gunnar"
+      },
+      {
+        "family": "Vangansbeke",
+        "given": "Pieter"
+      },
+      {
+        "family": "Máliš",
+        "given": "František"
+      },
+      {
+        "family": "Hédl",
+        "given": "Radim"
+      },
+      {
+        "family": "Auffret",
+        "given": "Alistair G."
+      },
+      {
+        "family": "Plue",
+        "given": "Jan"
+      },
+      {
+        "family": "De Frenne",
+        "given": "Pieter"
+      },
+      {
+        "family": "Kalwij",
+        "given": "Jesse M."
+      },
+      {
+        "family": "Vanhatalo",
+        "given": "Jarno"
+      },
+      {
+        "family": "Roslin",
+        "given": "Tomas"
+      }
+    ],
+    "containerTitle": "Proceedings of the National Academy of Sciences",
+    "id": "10.1073/pnas.2415260122",
+    "issue": "17",
+    "publisher": "Proceedings of the National Academy of Sciences",
+    "title": "Thermal Homogenization of Boreal Communities in Response to Climate Warming",
+    "type": "article-journal",
+    "volume": "122",
+    "year": 2025,
+    "month": "April",
+    "dateAdded": "2025-04-24"
+  },
+  {
     "doi": "10.3897/bdj.13.e141363",
     "issn": "1314-2836",
     "url": "http://dx.doi.org/10.3897/BDJ.13.e141363",
