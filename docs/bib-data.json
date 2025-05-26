@@ -47,6 +47,112 @@
     "dateAdded": "2025-05-08"
   },
   {
+    "doi": "10.25227/linbg.025337",
+    "issn": "0105-0761",
+    "url": "http://dx.doi.org/10.25227/linbg.025337",
+    "author": [
+      {
+        "family": "Hassel",
+        "given": "Kristian"
+      },
+      {
+        "family": "Goldberg",
+        "given": "Irina"
+      },
+      {
+        "family": "Huttunen",
+        "given": "Sanna"
+      },
+      {
+        "family": "Bjarnason",
+        "given": "Ágúst H."
+      },
+      {
+        "family": "Blom",
+        "given": "Hans H."
+      },
+      {
+        "family": "Hallingbäck",
+        "given": "Tomas"
+      },
+      {
+        "family": "Hedenäs",
+        "given": "Lars"
+      },
+      {
+        "family": "Høitomt",
+        "given": "Torbjørn"
+      },
+      {
+        "family": "Pihlaja",
+        "given": "Kati"
+      },
+      {
+        "family": "Prestø",
+        "given": "Tommy"
+      },
+      {
+        "family": "Syrjänen",
+        "given": "Kimmo"
+      },
+      {
+        "family": "Söderström",
+        "given": "Lars"
+      },
+      {
+        "family": "Ulvinen",
+        "given": "Tauno"
+      },
+      {
+        "family": "Weibull",
+        "given": "Henrik"
+      }
+    ],
+    "containerTitle": "Lindbergia",
+    "id": "10.25227/linbg.025337",
+    "issue": "1",
+    "publisher": "Dutch Bryological; Lichenological Society; Nordic Bryological Society",
+    "title": "An Annotated Checklist of Bryophytes of the Nordic Countries",
+    "type": "article-journal",
+    "volume": "2025",
+    "year": 2025,
+    "month": "May",
+    "dateAdded": "2025-05-26"
+  },
+  {
+    "doi": "10.37828/em.2025.86.8",
+    "issn": "2337-0173",
+    "url": "http://dx.doi.org/10.37828/em.2025.86.8",
+    "author": [
+      {
+        "family": "Potapov",
+        "given": "Grigory S."
+      },
+      {
+        "family": "Bovykina",
+        "given": "Galina V."
+      },
+      {
+        "family": "Kolosova",
+        "given": "Yulia S."
+      },
+      {
+        "family": "Kondakov",
+        "given": "Alexander V."
+      }
+    ],
+    "containerTitle": "Ecologica Montenegrina",
+    "id": "10.37828/em.2025.86.8",
+    "page": "142-149",
+    "publisher": "Institute for Biodiversity; Ecology",
+    "title": "The Distribution of Cryptic Species of the Bombus lucorum-complex in the North-East of Northern European Russia and the Polar Urals",
+    "type": "article-journal",
+    "volume": "86",
+    "year": 2025,
+    "month": "May",
+    "dateAdded": "2025-05-26"
+  },
+  {
     "doi": "10.1080/21548455.2025.2488403",
     "issn": "2154-8463",
     "url": "http://dx.doi.org/10.1080/21548455.2025.2488403",
