@@ -1,5 +1,40 @@
 [
   {
+    "doi": "10.1007/s10750-025-05908-z",
+    "issn": "1573-5117",
+    "url": "http://dx.doi.org/10.1007/s10750-025-05908-z",
+    "author": [
+      {
+        "family": "Lüskow",
+        "given": "Florian"
+      },
+      {
+        "family": "Väinölä",
+        "given": "Risto"
+      },
+      {
+        "family": "Lehtiniemi",
+        "given": "Maiju"
+      },
+      {
+        "family": "von Numers",
+        "given": "Mikael"
+      },
+      {
+        "family": "Pakhomov",
+        "given": "Evgeny A."
+      }
+    ],
+    "containerTitle": "Hydrobiologia",
+    "id": "10.1007/s10750-025-05908-z",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Evidence for Non-Indigenous Freshwater Jellyfish Craspedacusta sowerbii Spreading in Finland",
+    "type": "article-journal",
+    "year": 2025,
+    "month": "June",
+    "dateAdded": "2025-06-13"
+  },
+  {
     "doi": "10.1007/s10453-025-09860-2",
     "issn": "1573-3025",
     "url": "http://dx.doi.org/10.1007/s10453-025-09860-2",
