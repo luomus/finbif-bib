@@ -61,6 +61,55 @@
     "dateAdded": "2025-07-01"
   },
   {
+    "doi": "10.61698/nje.v72n1.9",
+    "issn": "1501-8415",
+    "url": "http://dx.doi.org/10.61698/nje.v72n1.9",
+    "author": [
+      {
+        "family": "Aarvik",
+        "given": "Leif"
+      },
+      {
+        "family": "Bengtsson",
+        "given": "Bengt Å."
+      },
+      {
+        "family": "Elven",
+        "given": "Hallvard"
+      },
+      {
+        "family": "Falck",
+        "given": "Per"
+      },
+      {
+        "family": "Ivinskis",
+        "given": "Povilas"
+      },
+      {
+        "family": "Karsholt",
+        "given": "Ole"
+      },
+      {
+        "family": "Mutanen",
+        "given": "Marko"
+      },
+      {
+        "family": "Savenkov",
+        "given": "Nikolay"
+      }
+    ],
+    "containerTitle": "Norwegian Journal of Entomology",
+    "id": "10.61698/nje.v72n1.9",
+    "issue": "1",
+    "publisher": "The Norwegian Entomological Society",
+    "title": "Second Update to the Nordic-Baltic Checklist of Lepidoptera",
+    "type": "article-journal",
+    "volume": "72",
+    "year": 2025,
+    "month": "June",
+    "dateAdded": "2025-07-03"
+  },
+  {
     "doi": "10.1007/s10453-025-09860-2",
     "issn": "1573-3025",
     "url": "http://dx.doi.org/10.1007/s10453-025-09860-2",
