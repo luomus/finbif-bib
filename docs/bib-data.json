@@ -1,5 +1,45 @@
 [
   {
+    "doi": "10.1080/02827581.2025.2531999",
+    "issn": "1651-1891",
+    "url": "http://dx.doi.org/10.1080/02827581.2025.2531999",
+    "author": [
+      {
+        "family": "Kaitera",
+        "given": "Juha"
+      },
+      {
+        "family": "Piri",
+        "given": "Tuula"
+      },
+      {
+        "family": "Männistö",
+        "given": "Minna"
+      },
+      {
+        "family": "Vinblad",
+        "given": "Sanna"
+      },
+      {
+        "family": "Väätäjä",
+        "given": "Heli"
+      },
+      {
+        "family": "Mäkitalo",
+        "given": "Kari"
+      }
+    ],
+    "containerTitle": "Scandinavian Journal of Forest Research",
+    "id": "10.1080/02827581.2025.2531999",
+    "page": "1-12",
+    "publisher": "Informa UK Limited",
+    "title": "Dogs can be Trained to Detect Heterobasidion Root Rot in the Forest",
+    "type": "article-journal",
+    "year": 2025,
+    "month": "July",
+    "dateAdded": "2025-07-28"
+  },
+  {
     "doi": "10.1007/s10750-025-05908-z",
     "issn": "1573-5117",
     "url": "http://dx.doi.org/10.1007/s10750-025-05908-z",
