@@ -61,6 +61,79 @@
     "dateAdded": "2025-08-11"
   },
   {
+    "doi": "10.1038/s41467-025-62216-9",
+    "issn": "2041-1723",
+    "url": "http://dx.doi.org/10.1038/s41467-025-62216-9",
+    "author": [
+      {
+        "family": "Ellis",
+        "given": "Emilie E."
+      },
+      {
+        "family": "Antão",
+        "given": "Laura H."
+      },
+      {
+        "family": "Davrinche",
+        "given": "Andréa"
+      },
+      {
+        "family": "Mäkinen",
+        "given": "Jussi"
+      },
+      {
+        "family": "Rees",
+        "given": "Mark"
+      },
+      {
+        "family": "Conenna",
+        "given": "Irene"
+      },
+      {
+        "family": "Huikkonen",
+        "given": "Ida-Maria"
+      },
+      {
+        "family": "Leinonen",
+        "given": "Reima"
+      },
+      {
+        "family": "Pöyry",
+        "given": "Juha"
+      },
+      {
+        "family": "Suuronen",
+        "given": "Anna"
+      },
+      {
+        "family": "Laine",
+        "given": "Anna-Liisa"
+      },
+      {
+        "family": "Saastamoinen",
+        "given": "Marjo"
+      },
+      {
+        "family": "Vanhatalo",
+        "given": "Jarno"
+      },
+      {
+        "family": "Roslin",
+        "given": "Tomas"
+      }
+    ],
+    "containerTitle": "Nature Communications",
+    "id": "10.1038/s41467-025-62216-9",
+    "issue": "1",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Recent Community Warming of Moths in Finland is Driven by Extinction in the North and Colonisation in the South",
+    "type": "article-journal",
+    "volume": "16",
+    "year": 2025,
+    "month": "August",
+    "dateAdded": "2025-08-15"
+  },
+  {
     "doi": "10.1080/02827581.2025.2531999",
     "issn": "1651-1891",
     "url": "http://dx.doi.org/10.1080/02827581.2025.2531999",
