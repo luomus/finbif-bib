@@ -134,6 +134,83 @@
     "dateAdded": "2025-08-15"
   },
   {
+    "doi": "10.1002/ppp3.70089",
+    "issn": "2572-2611",
+    "url": "http://dx.doi.org/10.1002/ppp3.70089",
+    "author": [
+      {
+        "family": "Segovia",
+        "given": "Ricardo A."
+      },
+      {
+        "family": "Sáez",
+        "given": "Juan M."
+      },
+      {
+        "family": "Squeo",
+        "given": "Francisco A."
+      },
+      {
+        "family": "Marticorena",
+        "given": "Alicia E."
+      },
+      {
+        "family": "Caro",
+        "given": "Julián"
+      },
+      {
+        "family": "Guerrero",
+        "given": "Pablo C."
+      }
+    ],
+    "containerTitle": "PLANTS, PEOPLE, PLANET",
+    "id": "10.1002/ppp3.70089",
+    "publisher": "Wiley",
+    "title": "Digitising Biological Collections to Advance National Species Inventories: A Case Study from the Flora of Chile",
+    "titleShort": "Digitising biological collections to advance national species inventories",
+    "type": "article-journal",
+    "year": 2025,
+    "month": "August",
+    "dateAdded": "2025-09-01"
+  },
+  {
+    "doi": "10.1007/s10530-025-03641-1",
+    "issn": "1573-1464",
+    "url": "http://dx.doi.org/10.1007/s10530-025-03641-1",
+    "author": [
+      {
+        "family": "Prass",
+        "given": "Marju"
+      },
+      {
+        "family": "Ramula",
+        "given": "Satu"
+      },
+      {
+        "family": "Hamberg",
+        "given": "Leena"
+      },
+      {
+        "family": "Setälä",
+        "given": "Heikki"
+      },
+      {
+        "family": "Kotze",
+        "given": "D. Johan"
+      }
+    ],
+    "containerTitle": "Biological Invasions",
+    "id": "10.1007/s10530-025-03641-1",
+    "issue": "9",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Time Since Invasion is not Associated with the Competitive Effects of an Alien Herb",
+    "type": "article-journal",
+    "volume": "27",
+    "year": 2025,
+    "month": "August",
+    "dateAdded": "2025-09-01"
+  },
+  {
     "doi": "10.1080/02827581.2025.2531999",
     "issn": "1651-1891",
     "url": "http://dx.doi.org/10.1080/02827581.2025.2531999",
