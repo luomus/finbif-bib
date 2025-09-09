@@ -1,5 +1,67 @@
 [
   {
+    "doi": "10.1016/j.gloenvcha.2025.103056",
+    "issn": "0959-3780",
+    "url": "http://dx.doi.org/10.1016/j.gloenvcha.2025.103056",
+    "author": [
+      {
+        "family": "Dylewski",
+        "given": "Łukasz"
+      },
+      {
+        "family": "Puchałka",
+        "given": "Radosław"
+      },
+      {
+        "family": "Bialas",
+        "given": "Joanna T."
+      },
+      {
+        "family": "Fogašová",
+        "given": "Katarína"
+      },
+      {
+        "family": "Jagiełło",
+        "given": "Zuzanna"
+      },
+      {
+        "family": "Kaźmierczak",
+        "given": "Sandra"
+      },
+      {
+        "family": "Timm",
+        "given": "Henn"
+      },
+      {
+        "family": "Tobółka",
+        "given": "Marcin"
+      },
+      {
+        "family": "Tończyk",
+        "given": "Grzegorz"
+      },
+      {
+        "family": "Zawadzka",
+        "given": "Julia"
+      },
+      {
+        "family": "Dyderski",
+        "given": "Marcin K."
+      }
+    ],
+    "containerTitle": "Global Environmental Change",
+    "id": "10.1016/j.gloenvcha.2025.103056",
+    "page": "103056",
+    "publisher": "Elsevier BV",
+    "title": "Citizen Science Data Can Significantly Improve Predictions of Potential Ranges of Non-Charismatic Species: A Study on Two Freshwater Sponges",
+    "titleShort": "Citizen science data can significantly improve predictions of potential ranges of non-charismatic species",
+    "type": "article-journal",
+    "volume": "95",
+    "year": 2025,
+    "month": "December",
+    "dateAdded": "2025-09-09"
+  },
+  {
     "doi": "10.1007/s43621-025-01658-z",
     "issn": "2662-9984",
     "url": "http://dx.doi.org/10.1007/s43621-025-01658-z",
