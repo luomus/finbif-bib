@@ -1,5 +1,43 @@
 [
   {
+    "doi": "10.1016/j.forpol.2025.103681",
+    "issn": "1389-9341",
+    "url": "http://dx.doi.org/10.1016/j.forpol.2025.103681",
+    "author": [
+      {
+        "family": "Afsar",
+        "given": "Bekir"
+      },
+      {
+        "family": "Silvennoinen",
+        "given": "Johanna"
+      },
+      {
+        "family": "Eyvindson",
+        "given": "Kyle"
+      },
+      {
+        "family": "Miettinen",
+        "given": "Kaisa"
+      },
+      {
+        "family": "Ovaskainen",
+        "given": "Otso"
+      }
+    ],
+    "containerTitle": "Forest Policy and Economics",
+    "id": "10.1016/j.forpol.2025.103681",
+    "page": "103681",
+    "publisher": "Elsevier BV",
+    "title": "Identifying Key Components for Multiobjective Forest Management Decisions: a Case Study of State-Owned Finnish Forests",
+    "titleShort": "Identifying key components for multiobjective forest management decisions",
+    "type": "article-journal",
+    "volume": "182",
+    "year": 2026,
+    "month": "January",
+    "dateAdded": "2026-02-02"
+  },
+  {
     "doi": "10.1016/j.gloenvcha.2025.103056",
     "issn": "0959-3780",
     "url": "http://dx.doi.org/10.1016/j.gloenvcha.2025.103056",
@@ -60,6 +98,553 @@
     "year": 2025,
     "month": "December",
     "dateAdded": "2025-09-09"
+  },
+  {
+    "doi": "10.5735/086.062.0111",
+    "issn": "0003-455X",
+    "url": "http://dx.doi.org/10.5735/086.062.0111",
+    "author": [
+      {
+        "family": "Leinonen",
+        "given": "Reima"
+      },
+      {
+        "family": "Paukkunen",
+        "given": "Juho"
+      },
+      {
+        "family": "Vanhanen",
+        "given": "Henri"
+      },
+      {
+        "family": "Holopainen",
+        "given": "Jarmo K."
+      },
+      {
+        "family": "Pohjoismäki",
+        "given": "Jaakko"
+      },
+      {
+        "family": "Sorvari",
+        "given": "Jouni"
+      }
+    ],
+    "containerTitle": "Annales Zoologici Fennici",
+    "id": "10.5735/086.062.0111",
+    "issue": "1",
+    "publisher": "Finnish Zoological; Botanical Publishing Board",
+    "title": "The Suitability of Artificial Nests as Nesting Sites for Cavity-Nesting Wasps and Bees (Hymenoptera, Aculeata)",
+    "type": "article-journal",
+    "volume": "62",
+    "year": 2025,
+    "month": "December",
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "doi": "10.1111/2041-210x.70220",
+    "issn": "2041-210X",
+    "url": "http://dx.doi.org/10.1111/2041-210x.70220",
+    "author": [
+      {
+        "family": "Meramo",
+        "given": "Katarina"
+      },
+      {
+        "family": "Somervuo",
+        "given": "Panu"
+      },
+      {
+        "family": "Rannisto",
+        "given": "Meeri"
+      },
+      {
+        "family": "Lauha",
+        "given": "Patrik"
+      },
+      {
+        "family": "López‐Baucells",
+        "given": "Adrià"
+      },
+      {
+        "family": "Gili",
+        "given": "Fabrizio"
+      },
+      {
+        "family": "Roslin",
+        "given": "Tomas"
+      },
+      {
+        "family": "Lilley",
+        "given": "Thomas M."
+      },
+      {
+        "family": "Ovaskainen",
+        "given": "Otso"
+      }
+    ],
+    "containerTitle": "Methods in Ecology and Evolution",
+    "id": "10.1111/2041-210x.70220",
+    "publisher": "Wiley",
+    "title": "BSG-BATS: An Open‐source Data Annotation Portal and Classifier for European Bat Vocalizations",
+    "titleShort": "BSG‐BATS",
+    "type": "article-journal",
+    "year": 2025,
+    "month": "December",
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "doi": "10.1111/icad.70035",
+    "issn": "1752-4598",
+    "url": "http://dx.doi.org/10.1111/icad.70035",
+    "author": [
+      {
+        "family": "Cardoso",
+        "given": "Pedro"
+      },
+      {
+        "family": "Baker",
+        "given": "Nathan Jay"
+      },
+      {
+        "family": "Boieiro",
+        "given": "Mário"
+      },
+      {
+        "family": "Bonte",
+        "given": "Dries"
+      },
+      {
+        "family": "Borges",
+        "given": "Paulo A. V."
+      },
+      {
+        "family": "Braby",
+        "given": "Michael F."
+      },
+      {
+        "family": "Branco",
+        "given": "Vasco"
+      },
+      {
+        "family": "Chobanov",
+        "given": "Dragan"
+      },
+      {
+        "family": "Correia",
+        "given": "Luis"
+      },
+      {
+        "family": "Dalton",
+        "given": "Daniel T."
+      },
+      {
+        "family": "Damas‐Mora",
+        "given": "Mariana"
+      },
+      {
+        "family": "Didham",
+        "given": "Raphael K."
+      },
+      {
+        "family": "Forster",
+        "given": "Lynne"
+      },
+      {
+        "family": "Glatz",
+        "given": "Richard"
+      },
+      {
+        "family": "Gorneau",
+        "given": "Jacob A."
+      },
+      {
+        "family": "Hochkirch",
+        "given": "Axel"
+      },
+      {
+        "family": "Kirse",
+        "given": "Ameli"
+      },
+      {
+        "family": "Lichtenberg",
+        "given": "Elinor M."
+      },
+      {
+        "family": "Macías‐Hernández",
+        "given": "Nuria"
+      },
+      {
+        "family": "Miličić",
+        "given": "Marija"
+      },
+      {
+        "family": "Moir",
+        "given": "Melinda"
+      },
+      {
+        "family": "Moreno‐García",
+        "given": "Pablo"
+      },
+      {
+        "family": "Neessen",
+        "given": "Ruth"
+      },
+      {
+        "family": "Noriega",
+        "given": "Jorge Ari"
+      },
+      {
+        "family": "Penick",
+        "given": "Clint A."
+      },
+      {
+        "family": "Perry",
+        "given": "Kayla I."
+      },
+      {
+        "family": "Pryke",
+        "given": "James"
+      },
+      {
+        "family": "Rego",
+        "given": "Carla"
+      },
+      {
+        "family": "Roeder",
+        "given": "Karl A."
+      },
+      {
+        "family": "Saussure",
+        "given": "Stéphanie"
+      },
+      {
+        "family": "Shirey",
+        "given": "Vaughn"
+      },
+      {
+        "family": "Sihvonen",
+        "given": "Pasi"
+      },
+      {
+        "family": "Svetnik",
+        "given": "Ilja"
+      },
+      {
+        "family": "Tarasov",
+        "given": "Sergei"
+      },
+      {
+        "family": "Trindade",
+        "given": "Pedro"
+      },
+      {
+        "family": "Welti",
+        "given": "Ellen A. R."
+      },
+      {
+        "family": "Wong",
+        "given": "Mark"
+      },
+      {
+        "family": "Scherber",
+        "given": "Christoph"
+      }
+    ],
+    "containerTitle": "Insect Conservation and Diversity",
+    "id": "10.1111/icad.70035",
+    "publisher": "Wiley",
+    "title": "Toward a Global Repository of Insect Traits (GRIT)",
+    "type": "article-journal",
+    "year": 2025,
+    "month": "November",
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "doi": "10.33585/cmy.77202",
+    "issn": "1805-1421",
+    "url": "http://dx.doi.org/10.33585/cmy.77202",
+    "author": [
+      {
+        "family": "Holec",
+        "given": "Jan"
+      },
+      {
+        "family": "Běťák",
+        "given": "Jan"
+      },
+      {
+        "family": "Dvořák",
+        "given": "Daniel"
+      },
+      {
+        "family": "Kříž",
+        "given": "Martin"
+      },
+      {
+        "family": "Beran",
+        "given": "Miroslav"
+      },
+      {
+        "family": "Matouš",
+        "given": "Jan"
+      },
+      {
+        "family": "Kolényová",
+        "given": "Monika"
+      },
+      {
+        "family": "Krzyściak-Kosińska",
+        "given": "Renata"
+      },
+      {
+        "family": "Kučera",
+        "given": "Tomáš"
+      }
+    ],
+    "containerTitle": "Czech Mycology",
+    "id": "10.33585/cmy.77202",
+    "issue": "2",
+    "page": "121-154",
+    "publisher": "Czech Scientific Society for Mycology",
+    "title": "Report from a Mycodiversity Hotspot–Macrofungi on Decaying Trunks of Norway Spruce in the Białowieża Virgin Forest, Poland",
+    "type": "article-journal",
+    "volume": "77",
+    "year": 2025,
+    "month": "November",
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "doi": "10.12657/folmal.033.022",
+    "issn": "2300-7125",
+    "url": "http://dx.doi.org/10.12657/folmal.033.022",
+    "author": [
+      {
+        "family": "Salvador",
+        "given": "Rodrigo Brincalepe"
+      },
+      {
+        "family": "Uit de Weerd",
+        "given": "Dennis R."
+      },
+      {
+        "family": "Rosenberg",
+        "given": "Gary"
+      }
+    ],
+    "containerTitle": "Folia Malacologica",
+    "id": "10.12657/folmal.033.022",
+    "issue": "4",
+    "publisher": "Bogucki Wydawnictwo Naukowe",
+    "title": "New Name for Cylindrella intermedia G. B. Sowerby Ii, 1877 (Eupulmonata: Stylommatophora: Urocoptidae), Selection of Neotype, and Clarification of Type Locality",
+    "titleShort": "New name for cylindrella intermedia g. B. Sowerby II, 1877",
+    "type": "article-journal",
+    "volume": "33",
+    "year": 2025,
+    "month": "November",
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "doi": "10.4289/0013-8797.127.3.584",
+    "issn": "0013-8797",
+    "url": "http://dx.doi.org/10.4289/0013-8797.127.3.584",
+    "author": [
+      {
+        "family": "Sepulveda",
+        "given": "Tatiana A."
+      },
+      {
+        "family": "Marinoni",
+        "given": "Luciane"
+      },
+      {
+        "family": "Stagman",
+        "given": "Miles"
+      },
+      {
+        "family": "Souza",
+        "given": "Diego S."
+      }
+    ],
+    "containerTitle": "Proceedings of the Entomological Society of Washington",
+    "id": "10.4289/0013-8797.127.3.584",
+    "issue": "3",
+    "publisher": "Entomological Society of Washington",
+    "title": "Revision of the Small and Lesser-Known Genera of Neriidae (Diptera: Schizophora), Derocephalus Enderlein, Gymnonerius Hendel, Indonesicesa Koçak and Kemal, Nipponerius Cresson, Paranerius Bigot, Protonerius Meijere, and Stypocladius Enderlein",
+    "titleShort": "Revision of the small and lesser-known genera of neriidae (diptera",
+    "type": "article-journal",
+    "volume": "127",
+    "year": 2025,
+    "month": "November",
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "doi": "10.1080/01650424.2025.2584824",
+    "issn": "1744-4152",
+    "url": "http://dx.doi.org/10.1080/01650424.2025.2584824",
+    "author": [
+      {
+        "family": "Ozoliņš",
+        "given": "Dāvis"
+      },
+      {
+        "family": "Jēkabsone",
+        "given": "Jolanta"
+      },
+      {
+        "family": "Poppels",
+        "given": "Arkadijs"
+      },
+      {
+        "family": "Telnov",
+        "given": "Dmitry"
+      }
+    ],
+    "containerTitle": "Aquatic Insects",
+    "id": "10.1080/01650424.2025.2584824",
+    "page": "1-17",
+    "publisher": "Informa UK Limited",
+    "title": "First Nationally Threatened Mayfly (Ephemeroptera) Species in Latvia Assessed According to the IUCN Criteria",
+    "type": "article-journal",
+    "year": 2025,
+    "month": "November",
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "doi": "10.1002/ece3.72288",
+    "issn": "2045-7758",
+    "url": "http://dx.doi.org/10.1002/ece3.72288",
+    "author": [
+      {
+        "family": "Kiilunen",
+        "given": "Petteri"
+      },
+      {
+        "family": "Maliniemi",
+        "given": "Tuija"
+      },
+      {
+        "family": "Alahuhta",
+        "given": "Janne"
+      },
+      {
+        "family": "Grytnes",
+        "given": "John‐Arvid"
+      },
+      {
+        "family": "Virtanen",
+        "given": "Risto"
+      },
+      {
+        "family": "Bråthen",
+        "given": "Kari Anne"
+      },
+      {
+        "family": "Happonen",
+        "given": "Konsta"
+      },
+      {
+        "family": "Kapfer",
+        "given": "Jutta"
+      },
+      {
+        "family": "Muurinen",
+        "given": "Lauralotta"
+      },
+      {
+        "family": "Skalska‐Tuomi",
+        "given": "Maria W."
+      },
+      {
+        "family": "Ala‐Hulkko",
+        "given": "Terhi"
+      }
+    ],
+    "containerTitle": "Ecology and Evolution",
+    "id": "10.1002/ece3.72288",
+    "issue": "10",
+    "publisher": "Wiley",
+    "title": "Decades of Change in Vascular Plant Composition in High‐latitude Ecosystems: Shifting Prevalence of Pollination Strategies",
+    "titleShort": "Decades of change in vascular plant composition in high‐latitude ecosystems",
+    "type": "article-journal",
+    "volume": "15",
+    "year": 2025,
+    "month": "October",
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "doi": "10.1111/1365-2664.70197",
+    "issn": "1365-2664",
+    "url": "http://dx.doi.org/10.1111/1365-2664.70197",
+    "author": [
+      {
+        "family": "Elo",
+        "given": "Merja"
+      },
+      {
+        "family": "Isoaho",
+        "given": "Aleksi"
+      },
+      {
+        "family": "Korhonen",
+        "given": "Petra"
+      },
+      {
+        "family": "Marttila",
+        "given": "Hannu"
+      },
+      {
+        "family": "Ovaskainen",
+        "given": "Otso"
+      },
+      {
+        "family": "Päkkilä",
+        "given": "Lassi"
+      },
+      {
+        "family": "Rana",
+        "given": "Parvez"
+      },
+      {
+        "family": "Räsänen",
+        "given": "Aleksi"
+      }
+    ],
+    "containerTitle": "Journal of Applied Ecology",
+    "id": "10.1111/1365-2664.70197",
+    "issue": "12",
+    "page": "3240-3251",
+    "publisher": "Wiley",
+    "title": "Relationship Between Hydrological Restoration and the Recovery of Vegetation Communities in Boreal Forestry‐drained Peatlands",
+    "type": "article-journal",
+    "volume": "62",
+    "year": 2025,
+    "month": "October",
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "doi": "10.3897/mycokeys.124.162802",
+    "issn": "1314-4057",
+    "url": "http://dx.doi.org/10.3897/mycokeys.124.162802",
+    "author": [
+      {
+        "family": "Pykälä",
+        "given": "Juha"
+      },
+      {
+        "family": "Myllys",
+        "given": "Leena"
+      }
+    ],
+    "containerTitle": "MycoKeys",
+    "id": "10.3897/mycokeys.124.162802",
+    "page": "193-226",
+    "publisher": "Pensoft Publishers",
+    "title": "Unexpected Species Richness of the Lichen Genus Protoblastenia (Lecanorales, Psoraceae) in Finland",
+    "type": "article-journal",
+    "volume": "124",
+    "year": 2025,
+    "month": "October",
+    "dateAdded": "2026-02-02"
   },
   {
     "doi": "10.1007/s10531-025-03145-3",
@@ -152,6 +737,33 @@
     "year": 2025,
     "month": "September",
     "dateAdded": "2025-09-23"
+  },
+  {
+    "doi": "10.1109/enbeng67130.2025.11199556",
+    "url": "http://dx.doi.org/10.1109/ENBENG67130.2025.11199556",
+    "author": [
+      {
+        "family": "Cotta",
+        "given": "Francisco C."
+      },
+      {
+        "family": "Amaral",
+        "given": "Raquel"
+      },
+      {
+        "family": "Rocha",
+        "given": "Paulo R. F."
+      }
+    ],
+    "containerTitle": "2025 IEEE 8th portuguese meeting on bioengineering (ENBENG)",
+    "id": "10.1109/enbeng67130.2025.11199556",
+    "page": "65-68",
+    "publisher": "IEEE",
+    "title": "Real-Time Monitoring of Cyanobacteria Oscillatoria sp. Growth Combining Electrochemical Impedance Spectroscopy (EIS) with a 3D Porous Electrode",
+    "type": "paper-conference",
+    "year": 2025,
+    "month": "September",
+    "dateAdded": "2026-02-02"
   },
   {
     "doi": "10.1007/s43621-025-01658-z",
@@ -1255,6 +1867,100 @@
     "dateAdded": "2025-01-29"
   },
   {
+    "doi": "10.5281/ZENODO.17529793",
+    "url": "https://zenodo.org/doi/10.5281/zenodo.17529793",
+    "author": [
+      {
+        "family": "Kirichenko",
+        "given": "Natalia"
+      },
+      {
+        "family": "Babichev",
+        "given": "Nikita S."
+      },
+      {
+        "family": "Ryazanova",
+        "given": "Maria A."
+      },
+      {
+        "family": "Gomboc",
+        "given": "Stanislav"
+      },
+      {
+        "family": "Baranchikov",
+        "given": "Yuri"
+      }
+    ],
+    "id": "10.5281/ZENODO.17529793",
+    "keyword": "Alien pest, moth, maple, Acer tataricum, damage, DNA barcoding, Asian Russia",
+    "publisher": "Altai State University",
+    "title": "Confirming the Presence of the Invasive Moth Ypsolopha chazariella (Lepidoptera: Ypsolophidae) in Siberia: Insights into the Species Biology and Molecular Genetics",
+    "titleShort": "Confirming the presence of the invasive moth Ypsolopha chazariella (lepidoptera",
+    "type": "article-journal",
+    "year": 2025,
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "doi": "10.3391/bir.2025.14.4.04",
+    "issn": "2242-1300",
+    "url": "http://dx.doi.org/10.3391/bir.2025.14.4.04",
+    "author": [
+      {
+        "family": "Urziceanu",
+        "given": "Mihaela"
+      },
+      {
+        "family": "Nagodă",
+        "given": "Eugenia"
+      },
+      {
+        "family": "Dumitrașcu",
+        "given": "Mioara"
+      },
+      {
+        "family": "Nicoară",
+        "given": "Andrei"
+      },
+      {
+        "family": "Nicoară",
+        "given": "Roxana"
+      }
+    ],
+    "containerTitle": "BioInvasions Records",
+    "id": "10.3391/bir.2025.14.4.04",
+    "issue": "4",
+    "page": "789-806",
+    "publisher": "Regional Euro-Asian Biological Invasions Centre Oy (REABIC)",
+    "title": "First Records of the Alien Species Solanum elaeagnifolium Cav. in Romania with Updated Insights into European Distribution",
+    "type": "article-journal",
+    "volume": "14",
+    "year": 2025,
+    "dateAdded": "2026-02-02"
+  },
+  {
+    "doi": "10.21857/yrvgqtd5x9",
+    "issn": "0350-5189",
+    "url": "http://dx.doi.org/10.21857/yrvgqtd5x9",
+    "author": [
+      {
+        "family": "Engelen",
+        "given": "Dries"
+      },
+      {
+        "family": "Ječmenica",
+        "given": "Biljana"
+      }
+    ],
+    "containerTitle": "Larus: godišnjak Zavoda za ornitologiju Hrvatske akademije znanosti i umjetnosti",
+    "id": "10.21857/yrvgqtd5x9",
+    "page": "7-32",
+    "publisher": "Croatian Academy of Sciences; Arts",
+    "title": "The Avifauna of the Lastovo Archipelago and Surrounding Sea Area, Croatia",
+    "type": "article-journal",
+    "year": 2025,
+    "dateAdded": "2026-02-02"
+  },
+  {
     "doi": "10.1111/rec.14338",
     "issn": "1526-100X",
     "url": "http://dx.doi.org/10.1111/rec.14338",
@@ -1615,7 +2321,7 @@
         "given": "Rolands"
       }
     ],
-    "containerTitle": "Plant Biosystems - An International Journal Dealing with all Aspects of Plant Biology",
+    "containerTitle": "Plant Biosystems – An International Journal Dealing with all Aspects of Plant Biology",
     "id": "10.1080/11263504.2024.2399056",
     "page": "1-9",
     "publisher": "Informa UK Limited",
