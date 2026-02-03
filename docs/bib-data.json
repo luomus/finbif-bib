@@ -38,6 +38,526 @@
     "dateAdded": "2026-02-02"
   },
   {
+    "doi": "10.3897/bdj.14.e163267",
+    "issn": "1314-2836",
+    "url": "http://dx.doi.org/10.3897/BDJ.14.e163267",
+    "author": [
+      {
+        "family": "Yrjölä",
+        "given": "Veikko"
+      },
+      {
+        "family": "Crespo",
+        "given": "Luís"
+      },
+      {
+        "family": "Saussure",
+        "given": "Stephanie"
+      },
+      {
+        "family": "Asamoah",
+        "given": "Francis"
+      },
+      {
+        "family": "Soukainen",
+        "given": "Arttu"
+      },
+      {
+        "family": "Badii",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Sihvonen",
+        "given": "Pasi"
+      },
+      {
+        "family": "Cardoso",
+        "given": "Pedro"
+      }
+    ],
+    "containerTitle": "Biodiversity Data Journal",
+    "id": "10.3897/bdj.14.e163267",
+    "publisher": "Pensoft Publishers",
+    "title": "Species Inventory and Morphological Measurements of Spiders (Arachnida, Araneae) and Ants (Insecta, Hymenoptera, Formicidae) Collected in Northern Ghana",
+    "type": "article-journal",
+    "volume": "14",
+    "year": 2026,
+    "month": "January",
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "doi": "10.11646/zootaxa.5745.1.1",
+    "issn": "1175-5326",
+    "url": "http://dx.doi.org/10.11646/zootaxa.5745.1.1",
+    "author": [
+      {
+        "family": "EISEMAN",
+        "given": "CHARLES S."
+      },
+      {
+        "family": "LONSDALE",
+        "given": "OWEN"
+      },
+      {
+        "family": "FELDMAN",
+        "given": "TRACY S."
+      },
+      {
+        "family": "LINDEN",
+        "given": "JOHN VAN DER"
+      }
+    ],
+    "containerTitle": "Zootaxa",
+    "id": "10.11646/zootaxa.5745.1.1",
+    "issue": "1",
+    "page": "1-265",
+    "publisher": "Magnolia Press",
+    "title": "Thirty-Three New Species of Agromyzidae (Diptera) from the United States and Canada, with New Host and Distribution Records for 154 Additional Species",
+    "type": "article-journal",
+    "volume": "5745",
+    "year": 2026,
+    "month": "January",
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "doi": "10.1007/s10531-025-03219-2",
+    "issn": "1572-9710",
+    "url": "http://dx.doi.org/10.1007/s10531-025-03219-2",
+    "author": [
+      {
+        "family": "Haelewaters",
+        "given": "Danny"
+      },
+      {
+        "family": "Aghayeva",
+        "given": "Dilzara"
+      },
+      {
+        "family": "Miguel",
+        "given": "Sergio",
+        "non-dropping-particle": "de-"
+      },
+      {
+        "family": "Degtjarenko",
+        "given": "Polina"
+      },
+      {
+        "family": "Dierickx",
+        "given": "Glen"
+      },
+      {
+        "family": "Dima",
+        "given": "Bálint"
+      },
+      {
+        "family": "Dyer",
+        "given": "Paul S."
+      },
+      {
+        "family": "Fachada",
+        "given": "Vasco"
+      },
+      {
+        "family": "Favero-Longo",
+        "given": "Sergio Enrico"
+      },
+      {
+        "family": "Filippova",
+        "given": "Nina V."
+      },
+      {
+        "family": "Ganado",
+        "given": "Montserrat"
+      },
+      {
+        "family": "Gonçalves",
+        "given": "Susana C."
+      },
+      {
+        "family": "Heilmann-Clausen",
+        "given": "Jacob"
+      },
+      {
+        "family": "Hyland",
+        "given": "Edel"
+      },
+      {
+        "family": "Iršėnaitė",
+        "given": "Reda"
+      },
+      {
+        "family": "Jorjadze",
+        "given": "Angelina"
+      },
+      {
+        "family": "Krisai-Greilhuber",
+        "given": "Irmgard"
+      },
+      {
+        "family": "Lazarević",
+        "given": "Jelena"
+      },
+      {
+        "family": "Marques",
+        "given": "Guilhermina"
+      },
+      {
+        "family": "Meiere",
+        "given": "Diāna"
+      },
+      {
+        "family": "Nascimbene",
+        "given": "Juri"
+      },
+      {
+        "family": "Niell",
+        "given": "Manel"
+      },
+      {
+        "family": "Nuytinck",
+        "given": "Jorinde"
+      },
+      {
+        "family": "Ottosson",
+        "given": "Elisabet"
+      },
+      {
+        "family": "Papp",
+        "given": "Viktor"
+      },
+      {
+        "family": "Pärtel",
+        "given": "Kadri"
+      },
+      {
+        "family": "Prylutskyi",
+        "given": "Oleh"
+      },
+      {
+        "family": "Ramshaj",
+        "given": "Qëndrim"
+      },
+      {
+        "family": "Rinaldi",
+        "given": "Andrea"
+      },
+      {
+        "family": "Rusevska",
+        "given": "Katerina"
+      },
+      {
+        "family": "Ruszkiewicz-Michalska",
+        "given": "Małgorzata"
+      },
+      {
+        "family": "Schneider",
+        "given": "Simone"
+      },
+      {
+        "family": "Schoutteten",
+        "given": "Nathan"
+      },
+      {
+        "family": "Schwab",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Siedlecki",
+        "given": "Igor"
+      },
+      {
+        "family": "Simão",
+        "given": "Rui Soares"
+      },
+      {
+        "family": "Sparrius",
+        "given": "Laurens B."
+      },
+      {
+        "family": "Thüs",
+        "given": "Holger"
+      },
+      {
+        "family": "Vizzini",
+        "given": "Alfredo"
+      },
+      {
+        "family": "Westberg",
+        "given": "Martin"
+      },
+      {
+        "family": "Zambonelli",
+        "given": "Alessandra"
+      },
+      {
+        "family": "Zehnálek",
+        "given": "Petr"
+      },
+      {
+        "family": "Zervakis",
+        "given": "Georgios I."
+      },
+      {
+        "family": "Pawłowska",
+        "given": "Julia"
+      }
+    ],
+    "containerTitle": "Biodiversity and Conservation",
+    "id": "10.1007/s10531-025-03219-2",
+    "issue": "1",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Mapping the Landscape of Mycological Organizations in Europe: Where Citizen Science Meets Professional Mycology",
+    "titleShort": "Mapping the landscape of mycological organizations in europe",
+    "type": "article-journal",
+    "volume": "35",
+    "year": 2026,
+    "month": "January",
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "doi": "10.1080/03078698.2025.2573475",
+    "issn": "2159-8355",
+    "url": "http://dx.doi.org/10.1080/03078698.2025.2573475",
+    "author": [
+      {
+        "family": "Jenni",
+        "given": "Lukas"
+      },
+      {
+        "family": "Winkler",
+        "given": "Raffael"
+      },
+      {
+        "family": "Bunzel-Drüke",
+        "given": "Margret"
+      },
+      {
+        "family": "Kauzál",
+        "given": "Ondřej"
+      },
+      {
+        "family": "Kauzálová",
+        "given": "Tereza"
+      },
+      {
+        "family": "Vogl",
+        "given": "Wolfgang"
+      },
+      {
+        "family": "Zimball",
+        "given": "Olaf"
+      },
+      {
+        "family": "Zwahlen",
+        "given": "Irmi"
+      }
+    ],
+    "containerTitle": "Ringing &amp; Migration",
+    "id": "10.1080/03078698.2025.2573475",
+    "page": "1-70",
+    "publisher": "Informa UK Limited",
+    "title": "Moult, Ageing and Sexing of European Hoopoe, Bee-Eater, Kingfisher and Woodpeckers",
+    "type": "article-journal",
+    "year": 2026,
+    "month": "January",
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "doi": "10.1038/s41559-025-02966-3",
+    "issn": "2397-334X",
+    "url": "http://dx.doi.org/10.1038/s41559-025-02966-3",
+    "author": [
+      {
+        "family": "Ovaskainen",
+        "given": "Otso"
+      },
+      {
+        "family": "Winter",
+        "given": "Steven"
+      },
+      {
+        "family": "Tikhonov",
+        "given": "Gleb"
+      },
+      {
+        "family": "Lauha",
+        "given": "Patrik"
+      },
+      {
+        "family": "Lehtiö",
+        "given": "Ari"
+      },
+      {
+        "family": "Nokelainen",
+        "given": "Ossi"
+      },
+      {
+        "family": "Abrego",
+        "given": "Nerea"
+      },
+      {
+        "family": "Aroluoma",
+        "given": "Anni"
+      },
+      {
+        "family": "Harrison",
+        "given": "Jesse Patrick"
+      },
+      {
+        "family": "Heikkinen",
+        "given": "Mikko"
+      },
+      {
+        "family": "Kallio",
+        "given": "Aleksi"
+      },
+      {
+        "family": "Koliseva",
+        "given": "Anniina"
+      },
+      {
+        "family": "Lehikoinen",
+        "given": "Aleksi"
+      },
+      {
+        "family": "Roslin",
+        "given": "Tomas"
+      },
+      {
+        "family": "Somervuo",
+        "given": "Panu"
+      },
+      {
+        "family": "Souza",
+        "given": "Allan Tainá"
+      },
+      {
+        "family": "Tahir",
+        "given": "Jemal"
+      },
+      {
+        "family": "Talaskivi",
+        "given": "Jussi"
+      },
+      {
+        "family": "Turunen",
+        "given": "Alpo"
+      },
+      {
+        "family": "Vancraeyenest",
+        "given": "Aurélie"
+      },
+      {
+        "family": "Zuquim",
+        "given": "Gabriela"
+      },
+      {
+        "family": "Autto",
+        "given": "Hannu"
+      },
+      {
+        "family": "Hänninen",
+        "given": "Jari"
+      },
+      {
+        "family": "Inkinen",
+        "given": "Jasmin"
+      },
+      {
+        "family": "Kalttopää",
+        "given": "Outa"
+      },
+      {
+        "family": "Koskinen",
+        "given": "Janne"
+      },
+      {
+        "family": "Kotakorpi",
+        "given": "Matti"
+      },
+      {
+        "family": "Kuntze",
+        "given": "Kim"
+      },
+      {
+        "family": "Loehr",
+        "given": "John"
+      },
+      {
+        "family": "Mutanen",
+        "given": "Marko"
+      },
+      {
+        "family": "Oranen",
+        "given": "Mikko"
+      },
+      {
+        "family": "Paavola",
+        "given": "Riku"
+      },
+      {
+        "family": "Renkonen",
+        "given": "Risto"
+      },
+      {
+        "family": "Schiestl-Aalto",
+        "given": "Pauliina"
+      },
+      {
+        "family": "Sipilä",
+        "given": "Mikko"
+      },
+      {
+        "family": "Sujala",
+        "given": "Maija"
+      },
+      {
+        "family": "Sundell",
+        "given": "Janne"
+      },
+      {
+        "family": "Tepsa",
+        "given": "Saana"
+      },
+      {
+        "family": "Tuominen",
+        "given": "Esa-Pekka"
+      },
+      {
+        "family": "Uusitalo",
+        "given": "Joni"
+      },
+      {
+        "family": "Vallinmäki",
+        "given": "Mikko"
+      },
+      {
+        "family": "Vatka",
+        "given": "Emma"
+      },
+      {
+        "family": "Veikkolainen",
+        "given": "Silja"
+      },
+      {
+        "family": "Watts",
+        "given": "Phillip C."
+      },
+      {
+        "family": "Dunson",
+        "given": "David"
+      }
+    ],
+    "containerTitle": "Nature Ecology &amp; Evolution",
+    "id": "10.1038/s41559-025-02966-3",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "A Digital Twin for Real-Time Biodiversity Forecasting with Citizen Science Data",
+    "type": "article-journal",
+    "year": 2026,
+    "month": "January",
+    "dateAdded": "2026-02-03"
+  },
+  {
     "doi": "10.1016/j.gloenvcha.2025.103056",
     "issn": "0959-3780",
     "url": "http://dx.doi.org/10.1016/j.gloenvcha.2025.103056",
@@ -191,6 +711,189 @@
     "year": 2025,
     "month": "December",
     "dateAdded": "2026-02-02"
+  },
+  {
+    "doi": "10.1002/ece3.72613",
+    "issn": "2045-7758",
+    "url": "http://dx.doi.org/10.1002/ece3.72613",
+    "author": [
+      {
+        "family": "Abdullah"
+      },
+      {
+        "family": "Guo",
+        "given": "Liya"
+      },
+      {
+        "family": "Rab",
+        "given": "Abdur"
+      },
+      {
+        "family": "Sammad",
+        "given": "Abdul"
+      },
+      {
+        "family": "Yan",
+        "given": "Rushan"
+      },
+      {
+        "family": "Heidari",
+        "given": "Parviz"
+      },
+      {
+        "family": "Tian",
+        "given": "Xiaoxuan"
+      }
+    ],
+    "containerTitle": "Ecology and Evolution",
+    "id": "10.1002/ece3.72613",
+    "issue": "12",
+    "publisher": "Wiley",
+    "title": "Chloroplast Genome Characterization of Benthamiella patagonica (Benthamielleae, Solanaceae)",
+    "type": "article-journal",
+    "volume": "15",
+    "year": 2025,
+    "month": "December",
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "doi": "10.5604/01.3001.0055.5130",
+    "issn": "2299-9884",
+    "url": "http://dx.doi.org/10.5604/01.3001.0055.5130",
+    "author": [
+      {
+        "family": "Buczyński",
+        "given": "Paweł"
+      },
+      {
+        "family": "Buczyńska",
+        "given": "Edyta"
+      }
+    ],
+    "containerTitle": "Polish Journal of Entomology",
+    "id": "10.5604/01.3001.0055.5130",
+    "page": "145-156",
+    "publisher": "Index Copernicus",
+    "title": "New Records of Odonata (Insecta) from Finland with Particular Emphasis on Lapland and North Ostrobothnia",
+    "type": "article-journal",
+    "volume": "94",
+    "year": 2025,
+    "month": "December",
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "doi": "10.1007/s11252-025-01872-7",
+    "issn": "1573-1642",
+    "url": "http://dx.doi.org/10.1007/s11252-025-01872-7",
+    "author": [
+      {
+        "family": "Hämäläinen",
+        "given": "Julia"
+      },
+      {
+        "family": "Lechner",
+        "given": "Alex M."
+      },
+      {
+        "family": "Ekroos",
+        "given": "Johan"
+      },
+      {
+        "family": "Zhao",
+        "given": "Jiawei"
+      },
+      {
+        "family": "Lehvävirta",
+        "given": "Susanna"
+      }
+    ],
+    "containerTitle": "Urban Ecosystems",
+    "id": "10.1007/s11252-025-01872-7",
+    "issue": "1",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Enhancing Urban Forest Connectivity: A Multispecies Modelling Approach in Helsinki",
+    "titleShort": "Enhancing urban forest connectivity",
+    "type": "article-journal",
+    "volume": "29",
+    "year": 2025,
+    "month": "December",
+    "dateAdded": "2026-02-03"
+  },
+  {
+    "doi": "10.3897/bdj.13.e176441",
+    "issn": "1314-2836",
+    "url": "http://dx.doi.org/10.3897/BDJ.13.e176441",
+    "author": [
+      {
+        "family": "Verheyde",
+        "given": "Fons"
+      },
+      {
+        "family": "De Ketelaere",
+        "given": "Augustijn"
+      },
+      {
+        "family": "Ørsnes",
+        "given": "Geir"
+      },
+      {
+        "family": "Pénigot",
+        "given": "William"
+      },
+      {
+        "family": "Storey",
+        "given": "Malcolm"
+      },
+      {
+        "family": "Österblad",
+        "given": "Ika"
+      },
+      {
+        "family": "Cameron",
+        "given": "Al"
+      },
+      {
+        "family": "Engan",
+        "given": "Gunnar"
+      },
+      {
+        "family": "Fiala",
+        "given": "Miroslav"
+      },
+      {
+        "family": "Lutz",
+        "given": "Jonas"
+      },
+      {
+        "family": "Parkhomenko",
+        "given": "Maksym"
+      },
+      {
+        "family": "Gokhman",
+        "given": "Vladimir"
+      },
+      {
+        "family": "Dekoninck",
+        "given": "Wouter"
+      },
+      {
+        "family": "Cooleman",
+        "given": "Stijn"
+      },
+      {
+        "family": "Mees",
+        "given": "Jan"
+      }
+    ],
+    "containerTitle": "Biodiversity Data Journal",
+    "id": "10.3897/bdj.13.e176441",
+    "publisher": "Pensoft Publishers",
+    "title": "First Comprehensive Catalogue of Hibernating Darwin Wasps in the Western Palaearctic (Hymenoptera, Ichneumonidae)",
+    "type": "article-journal",
+    "volume": "13",
+    "year": 2025,
+    "month": "December",
+    "dateAdded": "2026-02-03"
   },
   {
     "doi": "10.1111/icad.70035",
@@ -975,6 +1678,59 @@
     "year": 2025,
     "month": "August",
     "dateAdded": "2025-09-01"
+  },
+  {
+    "doi": "10.29203/ka.2025.522",
+    "issn": "0453-3402",
+    "url": "http://dx.doi.org/10.29203/ka.2025.522",
+    "author": [
+      {
+        "family": "Kunttu",
+        "given": "Panu"
+      },
+      {
+        "family": "Helo",
+        "given": "Teppo"
+      },
+      {
+        "family": "Kulju",
+        "given": "Matti"
+      },
+      {
+        "family": "Pennanen",
+        "given": "Jorma"
+      },
+      {
+        "family": "Kekki",
+        "given": "Tapio"
+      },
+      {
+        "family": "Veteli",
+        "given": "Pyry"
+      },
+      {
+        "family": "Julkunen",
+        "given": "Jari"
+      },
+      {
+        "family": "Moilanen",
+        "given": "Aki"
+      },
+      {
+        "family": "Jokikokko",
+        "given": "Pauli"
+      }
+    ],
+    "containerTitle": "Karstenia",
+    "id": "10.29203/ka.2025.522",
+    "page": "1-66",
+    "publisher": "Finnish Mycological Society",
+    "title": "Finnish Aphyllophoroid and Heterobasidioid Fungi (Basidiomycota): A Supplemental Report of their Biogeography",
+    "titleShort": "Finnish aphyllophoroid and heterobasidioid fungi (basidiomycota)",
+    "type": "article-journal",
+    "year": 2025,
+    "month": "August",
+    "dateAdded": "2026-02-03"
   },
   {
     "doi": "10.1080/02827581.2025.2531999",
