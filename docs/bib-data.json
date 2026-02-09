@@ -1,5 +1,63 @@
 [
   {
+    "doi": "10.1038/s44185-025-00116-3",
+    "issn": "2731-4243",
+    "url": "http://dx.doi.org/10.1038/s44185-025-00116-3",
+    "author": [
+      {
+        "family": "Islam",
+        "given": "Sharif"
+      },
+      {
+        "family": "Koivula",
+        "given": "Hanna"
+      },
+      {
+        "family": "Andrew",
+        "given": "Carrie"
+      },
+      {
+        "family": "Gordillo",
+        "given": "Julian Lopez"
+      },
+      {
+        "family": "Weiland",
+        "given": "Claus"
+      },
+      {
+        "family": "Schigel",
+        "given": "Dmitry"
+      },
+      {
+        "family": "Endresen",
+        "given": "Dag"
+      },
+      {
+        "family": "Arvanitidis",
+        "given": "Christos"
+      },
+      {
+        "family": "Chadwick",
+        "given": "Eli"
+      },
+      {
+        "family": "Soiland-Reyes",
+        "given": "Stian"
+      }
+    ],
+    "containerTitle": "npj Biodiversity",
+    "id": "10.1038/s44185-025-00116-3",
+    "issue": "1",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Fair Digital Twins for Biodiversity: Enabling Data, Model, and Workflow Integration",
+    "titleShort": "FAIR digital twins for biodiversity",
+    "type": "article-journal",
+    "volume": "5",
+    "year": 2026,
+    "month": "February",
+    "dateAdded": "2026-02-09"
+  },
+  {
     "doi": "10.1016/j.forpol.2025.103681",
     "issn": "1389-9341",
     "url": "http://dx.doi.org/10.1016/j.forpol.2025.103681",
