@@ -45,6 +45,40 @@
     "dateAdded": "2026-03-06"
   },
   {
+    "doi": "10.1093/zoolinnean/zlag013",
+    "issn": "1096-3642",
+    "url": "http://dx.doi.org/10.1093/zoolinnean/zlag013",
+    "author": [
+      {
+        "family": "Vanstraelen",
+        "given": "Laura"
+      },
+      {
+        "family": "Cuypers",
+        "given": "Vincent"
+      },
+      {
+        "family": "Artois",
+        "given": "Tom"
+      },
+      {
+        "family": "Monnens",
+        "given": "Marlies"
+      }
+    ],
+    "containerTitle": "Zoological Journal of the Linnean Society",
+    "id": "10.1093/zoolinnean/zlag013",
+    "issue": "3",
+    "publisher": "Oxford University Press (OUP)",
+    "title": "Cutting the Gordian Knot: a Taxonomic Revision of Gyratrix hermaphroditus Ehrenberg, 1831 (Platyhelminthes), with Remarks on Taxonomic Decision-Making",
+    "titleShort": "Cutting the gordian knot",
+    "type": "article-journal",
+    "volume": "206",
+    "year": 2026,
+    "month": "March",
+    "dateAdded": "2026-03-06"
+  },
+  {
     "doi": "10.1038/s44185-025-00116-3",
     "issn": "2731-4243",
     "url": "http://dx.doi.org/10.1038/s44185-025-00116-3",
