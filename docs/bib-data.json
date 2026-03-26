@@ -104,6 +104,43 @@
     "dateAdded": "2026-03-19"
   },
   {
+    "doi": "10.1002/ecs2.70588",
+    "issn": "2150-8925",
+    "url": "http://dx.doi.org/10.1002/ecs2.70588",
+    "author": [
+      {
+        "family": "Saarinen",
+        "given": "Pinja"
+      },
+      {
+        "family": "Nivala",
+        "given": "Vesa"
+      },
+      {
+        "family": "Ponnikas",
+        "given": "Suvi"
+      },
+      {
+        "family": "Lensu",
+        "given": "Anssi"
+      },
+      {
+        "family": "Tikkanen",
+        "given": "Hannu"
+      }
+    ],
+    "containerTitle": "Ecosphere",
+    "id": "10.1002/ecs2.70588",
+    "issue": "3",
+    "publisher": "Wiley",
+    "title": "Estimating Golden Eagle Carrying Capacity and Wind Power Impacts Through Species Distribution Modeling",
+    "type": "article-journal",
+    "volume": "17",
+    "year": 2026,
+    "month": "March",
+    "dateAdded": "2026-03-26"
+  },
+  {
     "doi": "10.1038/s44185-025-00116-3",
     "issn": "2731-4243",
     "url": "http://dx.doi.org/10.1038/s44185-025-00116-3",
