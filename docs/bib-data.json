@@ -160,6 +160,32 @@
     "dateAdded": "2026-03-26"
   },
   {
+    "doi": "10.12688/wellcomeopenres.26115.1",
+    "issn": "2398-502X",
+    "url": "http://dx.doi.org/10.12688/wellcomeopenres.26115.1",
+    "author": [
+      {
+        "family": "Pohjoismäki",
+        "given": "Jaakko"
+      },
+      {
+        "family": "Blaxter",
+        "given": "Mark L."
+      }
+    ],
+    "containerTitle": "Wellcome Open Research",
+    "id": "10.12688/wellcomeopenres.26115.1",
+    "page": "167",
+    "publisher": "F1000 Research Ltd",
+    "title": "The Genome Sequence of a Window Fly, Scenopinus jerei Pohjoismäki &amp; Haarto, 2021 (Diptera: Scenopinidae)",
+    "titleShort": "The genome sequence of a window fly, Scenopinus jerei Pohjoismäki &amp; Haarto, 2021",
+    "type": "article-journal",
+    "volume": "11",
+    "year": 2026,
+    "month": "March",
+    "dateAdded": "2026-04-07"
+  },
+  {
     "doi": "10.1038/s44185-025-00116-3",
     "issn": "2731-4243",
     "url": "http://dx.doi.org/10.1038/s44185-025-00116-3",
