@@ -19,6 +19,51 @@
     "dateAdded": "2026-04-07"
   },
   {
+    "doi": "10.1002/ece3.73461",
+    "issn": "2045-7758",
+    "url": "http://dx.doi.org/10.1002/ece3.73461",
+    "author": [
+      {
+        "family": "Kozak",
+        "given": "Olena"
+      },
+      {
+        "family": "Erkinaro",
+        "given": "Aino"
+      },
+      {
+        "family": "Huttunen",
+        "given": "Kaisa‐Leena"
+      },
+      {
+        "family": "Osypenko",
+        "given": "Larysa"
+      },
+      {
+        "family": "Kyiak",
+        "given": "Svitlana"
+      },
+      {
+        "family": "Matsai",
+        "given": "Nataliia"
+      },
+      {
+        "family": "Peregrym",
+        "given": "Mykyta"
+      }
+    ],
+    "containerTitle": "Ecology and Evolution",
+    "id": "10.1002/ece3.73461",
+    "issue": "4",
+    "publisher": "Wiley",
+    "title": "Effective Data Collection Approaches for Citizen Science in Biodiversity Research",
+    "type": "article-journal",
+    "volume": "16",
+    "year": 2026,
+    "month": "April",
+    "dateAdded": "2026-04-14"
+  },
+  {
     "doi": "10.1007/s10531-026-03291-2",
     "issn": "1572-9710",
     "url": "http://dx.doi.org/10.1007/s10531-026-03291-2",
@@ -229,6 +274,27 @@
     "year": 2026,
     "month": "March",
     "dateAdded": "2026-04-13"
+  },
+  {
+    "doi": "10.5735/085.063.0109",
+    "issn": "0003-3847",
+    "url": "http://dx.doi.org/10.5735/085.063.0109",
+    "author": [
+      {
+        "family": "Hopkins",
+        "given": "Tapani"
+      }
+    ],
+    "containerTitle": "Annales Botanici Fennici",
+    "id": "10.5735/085.063.0109",
+    "issue": "1",
+    "publisher": "Finnish Zoological; Botanical Publishing Board",
+    "title": "Two-Thirds of the Seeds of Invasive Himalayan Balsam (Impatiens glandulifera) Grow after Overwintering at a Western Finnish Site",
+    "type": "article-journal",
+    "volume": "63",
+    "year": 2026,
+    "month": "March",
+    "dateAdded": "2026-04-14"
   },
   {
     "doi": "10.1038/s44185-025-00116-3",
