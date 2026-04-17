@@ -64,6 +64,29 @@
     "dateAdded": "2026-04-14"
   },
   {
+    "doi": "10.11646/zootaxa.5792.2.12",
+    "issn": "1175-5326",
+    "url": "http://dx.doi.org/10.11646/zootaxa.5792.2.12",
+    "author": [
+      {
+        "family": "Littauer",
+        "given": "Richard"
+      }
+    ],
+    "containerTitle": "Zootaxa",
+    "id": "10.11646/zootaxa.5792.2.12",
+    "issue": "2",
+    "page": "397-400",
+    "publisher": "Magnolia Press",
+    "title": "Cryptamorpha desjardinsii (Guérin-Méneville, 1844) is the Available Name (Coleoptera: Silvanidae)",
+    "titleShort": "Cryptamorpha desjardinsii (Guérin-Méneville, 1844) is the available name",
+    "type": "article-journal",
+    "volume": "5792",
+    "year": 2026,
+    "month": "April",
+    "dateAdded": "2026-04-17"
+  },
+  {
     "doi": "10.1007/s10531-026-03291-2",
     "issn": "1572-9710",
     "url": "http://dx.doi.org/10.1007/s10531-026-03291-2",
