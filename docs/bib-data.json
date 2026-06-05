@@ -1033,6 +1033,35 @@
     "dateAdded": "2026-02-03"
   },
   {
+    "doi": "10.11646/zootaxa.5821.4.2",
+    "issn": "1175-5326",
+    "url": "http://dx.doi.org/10.11646/zootaxa.5821.4.2",
+    "author": [
+      {
+        "family": "Raunio",
+        "given": "Janne"
+      },
+      {
+        "family": "Brodin",
+        "given": "Yngve"
+      },
+      {
+        "family": "Salmela",
+        "given": "Jukka"
+      }
+    ],
+    "containerTitle": "Zootaxa",
+    "id": "10.11646/zootaxa.5821.4.2",
+    "issue": "4",
+    "page": "469-485",
+    "publisher": "Magnolia Press",
+    "title": "Two New Species of Eukiefferiella Thienemann (Diptera, Chironomidae) from Northern Finland",
+    "type": "article-journal",
+    "volume": "5821",
+    "year": 2026,
+    "dateAdded": "2026-06-05"
+  },
+  {
     "doi": "10.1016/j.gloenvcha.2025.103056",
     "issn": "0959-3780",
     "url": "http://dx.doi.org/10.1016/j.gloenvcha.2025.103056",
