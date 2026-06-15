@@ -1105,6 +1105,103 @@
     "dateAdded": "2026-06-12"
   },
   {
+    "doi": "10.1038/s41598-026-57295-7",
+    "issn": "2045-2322",
+    "url": "http://dx.doi.org/10.1038/s41598-026-57295-7",
+    "author": [
+      {
+        "family": "Yan",
+        "given": "Rushan"
+      },
+      {
+        "family": "Abdullah"
+      },
+      {
+        "family": "Sammad",
+        "given": "Abdul"
+      },
+      {
+        "family": "Li",
+        "given": "Hui"
+      },
+      {
+        "family": "Fu",
+        "given": "Mingzhuo"
+      },
+      {
+        "family": "Cui",
+        "given": "Ying"
+      },
+      {
+        "family": "Heidari",
+        "given": "Parviz"
+      },
+      {
+        "family": "Tian",
+        "given": "Xiaoxuan"
+      }
+    ],
+    "containerTitle": "Scientific Reports",
+    "id": "10.1038/s41598-026-57295-7",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Complete Chloroplast Genomes of Four Triumfetta Species Obtained from Herbarium Specimens: Comparative Analysis and Identification of a Synapomorphic Inversion",
+    "titleShort": "Complete chloroplast genomes of four triumfetta species obtained from herbarium specimens",
+    "type": "article-journal",
+    "year": 2026,
+    "dateAdded": "2026-06-15"
+  },
+  {
+    "doi": "10.51812/of.154800",
+    "issn": "0030-5685",
+    "url": "http://dx.doi.org/10.51812/of.154800",
+    "author": [
+      {
+        "family": "Holopainen",
+        "given": "Sari"
+      },
+      {
+        "family": "Piironen",
+        "given": "Antti"
+      },
+      {
+        "family": "Ellis",
+        "given": "Matthew B."
+      },
+      {
+        "family": "Fox",
+        "given": "Anthony D."
+      },
+      {
+        "family": "Hove Sørensen",
+        "given": "Iben"
+      },
+      {
+        "family": "Van Toor",
+        "given": "Mariëlle L."
+      },
+      {
+        "family": "Waldenström",
+        "given": "Jonas"
+      },
+      {
+        "family": "Warrender",
+        "given": "Heather"
+      },
+      {
+        "family": "Laaksonen",
+        "given": "Toni"
+      }
+    ],
+    "containerTitle": "Ornis Fennica",
+    "id": "10.51812/of.154800",
+    "page": "00-00",
+    "publisher": "BirdLife Finland",
+    "title": "GPS Tracking Reveals New Insights into the Complexity of Eurasian Wigeon (Mareca penelope) Migration along the East Atlantic Flyway",
+    "type": "article-journal",
+    "year": 2026,
+    "dateAdded": "2026-06-15"
+  },
+  {
     "doi": "10.1016/j.gloenvcha.2025.103056",
     "issn": "0959-3780",
     "url": "http://dx.doi.org/10.1016/j.gloenvcha.2025.103056",
