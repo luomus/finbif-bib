@@ -1202,6 +1202,40 @@
     "dateAdded": "2026-06-15"
   },
   {
+    "doi": "10.5281/ZENODO.20474422",
+    "url": "https://zenodo.org/doi/10.5281/zenodo.20474422",
+    "author": [
+      {
+        "family": "Bakker",
+        "given": "P. A. J."
+      },
+      {
+        "family": "Renda",
+        "given": "Walter"
+      },
+      {
+        "family": "Steger",
+        "given": "Jan"
+      },
+      {
+        "family": "van haaren",
+        "given": "Ton"
+      },
+      {
+        "family": "Vannozzi",
+        "given": "Angelo"
+      }
+    ],
+    "id": "10.5281/ZENODO.20474422",
+    "keyword": "Gastropoda; Murchisonellidae; Koloonella; non-indigenous species; Netherlands, Finland, Baltic Sea; jaw apparatus.",
+    "publisher": "Nederlandse Malacologische Vereniging",
+    "title": "The Stranger with No Name: The Non-Indigenous Murchisonellid from Fresh and Brackish Water of Northern Europe is a Species New to Science (Gastropoda: Murchisonellidae)",
+    "titleShort": "The stranger with no name",
+    "type": "article-journal",
+    "year": 2026,
+    "dateAdded": "2026-06-17"
+  },
+  {
     "doi": "10.1016/j.gloenvcha.2025.103056",
     "issn": "0959-3780",
     "url": "http://dx.doi.org/10.1016/j.gloenvcha.2025.103056",
